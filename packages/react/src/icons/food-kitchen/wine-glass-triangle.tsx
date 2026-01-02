@@ -2,81 +2,34 @@ import { Icon } from "../../icon";
 import type { IconProps } from "../../types";
 
 const VARIANTS = {
-  linear: (
-    <path
-      stroke="currentColor"
-      strokeLinecap="round"
-      strokeWidth="1.5"
-      d="m12 14.571 8.516-8.707C21.562 4.794 20.8 3 19.3 3H4.701C3.2 3 2.438 4.794 3.484 5.864zm0 0V21m0 0h4.244M12 21H7.756M7.473 9.75h9.054"
-    />
-  ),
-  bold: (
-    <path
-      fill="currentColor"
-      d="M19.3 3H4.7C3.2 3 2.439 4.794 3.485 5.864L6.235 9h11.53l2.751-3.136C21.562 4.794 20.8 3 19.3 3m-2.851 7.5H7.551l3.699 4.216v5.534H7.756a.75.75 0 1 0 0 1.5h8.488a.75.75 0 0 0 0-1.5H12.75v-5.533z"
-    />
-  ),
-  broken: (
-    <path
-      stroke="currentColor"
-      strokeLinecap="round"
-      strokeWidth="1.5"
-      d="m12 14.571 8.516-8.707C21.562 4.794 20.8 3 19.3 3H14m-2 11.571L3.484 5.864C2.438 4.794 3.2 3 4.7 3H10m2 11.571V21m0 0h4.244M12 21H7.756M7.473 9.75h9.054"
-    />
-  ),
-  outline: (
-    <path
-      fill="currentColor"
-      fillRule="evenodd"
-      d="M2.948 6.388C1.43 4.837 2.545 2.25 4.7 2.25h14.598c2.156 0 3.27 2.587 1.753 4.138l-8.302 8.49v5.372h3.494a.75.75 0 0 1 0 1.5H7.756a.75.75 0 0 1 0-1.5h3.494v-5.373zM12 13.498l2.933-2.998H9.067zM7.6 9h8.8l3.58-3.66c.575-.589.165-1.59-.68-1.59H4.7c-.845 0-1.255 1.001-.68 1.59z"
-      clipRule="evenodd"
-    />
-  ),
-  "bold-duotone": (
-    <>
-      <path
-        fill="currentColor"
-        d="M19.3 3H4.7C3.2 3 2.439 4.794 3.485 5.864l7.801 7.976a1 1 0 0 0 1.43 0l7.801-7.976C21.562 4.794 20.8 3 19.3 3"
-        opacity=".5"
-      />
-      <path
-        fill="currentColor"
-        fillRule="evenodd"
-        d="M7.006 21a.75.75 0 0 1 .75-.75h8.488a.75.75 0 1 1 0 1.5H7.756a.75.75 0 0 1-.75-.75"
-        clipRule="evenodd"
-      />
-      <path
-        fill="currentColor"
-        d="M11.285 13.84a1 1 0 0 0 1.43 0L16.47 10H7.529z"
-      />
-      <path
-        fill="currentColor"
-        d="M11.285 13.84a1 1 0 0 0 1.43 0l.035-.035v6.445h-1.5v-6.446z"
-        opacity=".5"
-      />
-    </>
-  ),
-  "line-duotone": (
-    <>
-      <path
-        stroke="currentColor"
-        strokeLinecap="round"
-        strokeWidth="1.5"
-        d="M16.244 21H7.756M4.701 3h14.598c1.5 0 2.263 1.794 1.217 2.864l-7.801 7.976a1 1 0 0 1-1.43 0L3.484 5.864C2.438 4.794 3.2 3 4.7 3Z"
-      />
-      <path
-        stroke="currentColor"
-        strokeLinecap="round"
-        strokeWidth="1.5"
-        d="M12 14.571V21M7.473 9.75h9.054"
-        opacity=".5"
-      />
-    </>
-  ),
+	linear: (
+		<path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="m12 14.571 8.516-8.707C21.562 4.794 20.8 3 19.3 3H4.701C3.2 3 2.438 4.794 3.484 5.864zm0 0V21m0 0h4.244M12 21H7.756M7.473 9.75h9.054"/>
+	),
+	bold: (
+		<path fill="currentColor" d="M19.3 3H4.7C3.2 3 2.439 4.794 3.485 5.864L6.235 9h11.53l2.751-3.136C21.562 4.794 20.8 3 19.3 3m-2.851 7.5H7.551l3.699 4.216v5.534H7.756a.75.75 0 1 0 0 1.5h8.488a.75.75 0 0 0 0-1.5H12.75v-5.533z"/>
+	),
+	broken: (
+		<path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="m12 14.571 8.516-8.707C21.562 4.794 20.8 3 19.3 3H14m-2 11.571L3.484 5.864C2.438 4.794 3.2 3 4.7 3H10m2 11.571V21m0 0h4.244M12 21H7.756M7.473 9.75h9.054"/>
+	),
+	outline: (
+		<path fill="currentColor" fillRule="evenodd" d="M2.948 6.388C1.43 4.837 2.545 2.25 4.7 2.25h14.598c2.156 0 3.27 2.587 1.753 4.138l-8.302 8.49v5.372h3.494a.75.75 0 0 1 0 1.5H7.756a.75.75 0 0 1 0-1.5h3.494v-5.373zM12 13.498l2.933-2.998H9.067zM7.6 9h8.8l3.58-3.66c.575-.589.165-1.59-.68-1.59H4.7c-.845 0-1.255 1.001-.68 1.59z" clipRule="evenodd"/>
+	),
+	"bold-duotone": (
+		<><path fill="currentColor" d="M19.3 3H4.7C3.2 3 2.439 4.794 3.485 5.864l7.801 7.976a1 1 0 0 0 1.43 0l7.801-7.976C21.562 4.794 20.8 3 19.3 3" opacity=".5"/>
+		<path fill="currentColor" fillRule="evenodd" d="M7.006 21a.75.75 0 0 1 .75-.75h8.488a.75.75 0 1 1 0 1.5H7.756a.75.75 0 0 1-.75-.75" clipRule="evenodd"/>
+		<path fill="currentColor" d="M11.285 13.84a1 1 0 0 0 1.43 0L16.47 10H7.529z"/>
+		<path fill="currentColor" d="M11.285 13.84a1 1 0 0 0 1.43 0l.035-.035v6.445h-1.5v-6.446z" opacity=".5"/>
+		</>
+	),
+	"line-duotone": (
+		<><path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M16.244 21H7.756M4.701 3h14.598c1.5 0 2.263 1.794 1.217 2.864l-7.801 7.976a1 1 0 0 1-1.43 0L3.484 5.864C2.438 4.794 3.2 3 4.7 3Z"/>
+		<path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M12 14.571V21M7.473 9.75h9.054" opacity=".5"/>
+		</>
+	),
 };
 
 export function WineGlassTriangle({ variant = "linear", ...props }: IconProps) {
-  return <Icon {...props}>{VARIANTS[variant]}</Icon>;
+	return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
 export const IconWineGlassTriangle = WineGlassTriangle;
