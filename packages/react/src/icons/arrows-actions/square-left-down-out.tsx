@@ -1,0 +1,105 @@
+import { Icon } from "../../icon";
+import type { IconProps } from "../../types";
+
+const VARIANTS = {
+  linear: (
+    <>
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M13 22c4.055-.008 6.179-.107 7.536-1.465C22 19.072 22 16.714 22 12s0-7.071-1.464-8.536C19.07 2 16.714 2 12 2S4.929 2 3.465 3.464C2.107 4.822 2.008 6.944 2 11"
+      />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
+        d="m11 13-8 8m0 0h6m-6 0v-6"
+      />
+    </>
+  ),
+  bold: (
+    <>
+      <path
+        fill="currentColor"
+        fillRule="evenodd"
+        d="M9.75 21a.75.75 0 0 1-.75.75H3a.75.75 0 0 1-.75-.75v-6a.75.75 0 0 1 1.5 0v4.19l6.72-6.72a.75.75 0 1 1 1.06 1.06l-6.72 6.72H9a.75.75 0 0 1 .75.75"
+        clipRule="evenodd"
+      />
+      <path
+        fill="currentColor"
+        d="M2 12.984A2.25 2.25 0 0 1 5.25 15v.568l4.159-4.159a2.25 2.25 0 1 1 3.182 3.182L8.432 18.75H9A2.25 2.25 0 0 1 11.016 22H12c4.714 0 7.071 0 8.535-1.465C22 19.072 22 16.714 22 12s0-7.071-1.465-8.536C19.072 2 16.714 2 12 2S4.929 2 3.464 3.464C2 4.93 2 7.286 2 12z"
+      />
+    </>
+  ),
+  broken: (
+    <>
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
+        d="m11 13-8 8m0 0h6m-6 0v-6"
+      />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M22 12c0 4.714 0 7.071-1.465 8.535C19.178 21.894 17.055 21.993 13 22M2 11c.008-4.055.107-6.178 1.464-7.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464c.974.974 1.3 2.343 1.41 4.536"
+      />
+    </>
+  ),
+  outline: (
+    <>
+      <path
+        fill="currentColor"
+        d="M11.943 1.25c-2.309 0-4.118 0-5.53.19-1.444.194-2.584.6-3.479 1.494-.828.829-1.238 1.868-1.448 3.167-.207 1.276-.232 2.882-.236 4.898a.75.75 0 1 0 1.5.002c.004-2.04.032-3.523.217-4.66.18-1.117.5-1.818 1.028-2.346.57-.57 1.34-.897 2.618-1.069 1.3-.174 3.009-.176 5.387-.176s4.086.002 5.386.176c1.279.172 2.05.5 2.62 1.069.569.57.896 1.34 1.067 2.619.175 1.3.177 3.008.177 5.386s-.002 4.086-.177 5.386c-.171 1.279-.498 2.05-1.068 2.62-.528.528-1.23.847-2.345 1.027-1.138.184-2.621.213-4.661.216a.75.75 0 0 0 .002 1.5c2.015-.003 3.621-.028 4.898-.235 1.299-.21 2.338-.62 3.167-1.448.895-.895 1.3-2.035 1.494-3.48.19-1.411.19-3.22.19-5.529v-.114c0-2.309 0-4.118-.19-5.53-.194-1.444-.6-2.584-1.494-3.479-.895-.895-2.035-1.3-3.48-1.494-1.411-.19-3.22-.19-5.529-.19z"
+      />
+      <path
+        fill="currentColor"
+        d="M9 21.75a.75.75 0 0 0 0-1.5H4.81l6.72-6.72a.75.75 0 1 0-1.06-1.06l-6.72 6.72V15a.75.75 0 0 0-1.5 0v6c0 .414.336.75.75.75z"
+      />
+    </>
+  ),
+  "bold-duotone": (
+    <>
+      <path
+        fill="currentColor"
+        d="M2 12c0-4.714 0-7.071 1.464-8.536C4.93 2 7.286 2 12 2s7.071 0 8.535 1.464C22 4.93 22 7.286 22 12s0 7.071-1.465 8.535C19.072 22 16.714 22 12 22s-7.071 0-8.536-1.465C2 19.072 2 16.714 2 12"
+        opacity=".5"
+      />
+      <path
+        fill="currentColor"
+        fillRule="evenodd"
+        d="M9.75 21a.75.75 0 0 1-.75.75H3a.75.75 0 0 1-.75-.75v-6a.75.75 0 0 1 1.5 0v4.19l6.72-6.72a.75.75 0 1 1 1.06 1.06l-6.72 6.72H9a.75.75 0 0 1 .75.75"
+        clipRule="evenodd"
+      />
+    </>
+  ),
+  "line-duotone": (
+    <>
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M13 22c4.055-.008 6.179-.107 7.536-1.465C22 19.072 22 16.714 22 12s0-7.071-1.464-8.536C19.07 2 16.714 2 12 2S4.929 2 3.465 3.464C2.107 4.822 2.008 6.944 2 11"
+        opacity=".5"
+      />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1.5"
+        d="m11 13-8 8m0 0h6m-6 0v-6"
+      />
+    </>
+  ),
+};
+
+export function SquareLeftDownOut({ variant = "linear", ...props }: IconProps) {
+  return <Icon {...props}>{VARIANTS[variant]}</Icon>;
+}
+
+export const IconSquareLeftDownOut = SquareLeftDownOut;
+export const SquareLeftDownOutIcon = SquareLeftDownOut;

@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "solaris",
+			"path": "."
+		},
+		{
+			"name": "playground",
+			"path": "./apps/playground"
+		},
+		{
+			"name": "documentation",
+			"path": "./apps/documentation"
+		},
+		{
+			"name": "core",
+			"path": "./packages/core"
+		},
+		{
+			"name": "react",
+			"path": "./packages/react"
+		}
+	]
+}

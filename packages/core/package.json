@@ -1,0 +1,25 @@
+{
+	"name": "@solaris-icons/core",
+	"type": "module",
+	"main": "./assets",
+	"exports": {
+		".": "./assets",
+		"./assets/*": "./assets/*"
+	},
+	"files": [
+		"assets/"
+	],
+	"scripts": {
+		"stats:bundle": "bun run ./scripts/calc-bundle-size.ts",
+		"gen:optimized-svg": "bun run ./scripts/gen-optimized-svg.ts"
+	},
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5"
+	},
+	"dependencies": {
+		"svgo": "^4.0.0"
+	}
+}

@@ -1,0 +1,96 @@
+import { Icon } from "../../icon";
+import type { IconProps } from "../../types";
+
+const VARIANTS = {
+  linear: (
+    <>
+      <circle cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="1.5" />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M9 14h3m-2-2V8.2c0-.186 0-.279.012-.356a1 1 0 0 1 .832-.832C10.92 7 11.014 7 11.2 7h2.3a2.5 2.5 0 0 1 0 5zm0 0v5m0-5H9"
+      />
+    </>
+  ),
+  bold: (
+    <>
+      <path
+        fill="currentColor"
+        d="M13.5 11.25h-2.75V8.2l.001-.198.002-.043a.25.25 0 0 1 .206-.206l.043-.002.198-.001h2.3a1.75 1.75 0 1 1 0 3.5"
+      />
+      <path
+        fill="currentColor"
+        fillRule="evenodd"
+        d="M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10M8.25 14a.75.75 0 0 1 .75-.75h.25v-.5H9a.75.75 0 0 1 0-1.5h.25V8.162c0-.146 0-.297.022-.436a1.75 1.75 0 0 1 1.454-1.454c.139-.022.29-.022.435-.022H13.5a3.25 3.25 0 0 1 0 6.5h-2.75v.5H12a.75.75 0 0 1 0 1.5h-1.25V17a.75.75 0 0 1-1.5 0v-2.25H9a.75.75 0 0 1-.75-.75"
+        clipRule="evenodd"
+      />
+    </>
+  ),
+  broken: (
+    <>
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M9 14h3m-2-2V8.2c0-.186 0-.279.012-.356a1 1 0 0 1 .832-.832C10.92 7 11.014 7 11.2 7h2.3a2.5 2.5 0 0 1 0 5zm0 0v5m0-5H9"
+      />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M7 3.338A9.95 9.95 0 0 1 12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12c0-1.821.487-3.53 1.338-5"
+      />
+    </>
+  ),
+  outline: (
+    <path
+      fill="currentColor"
+      fillRule="evenodd"
+      d="M12 2.75a9.25 9.25 0 1 0 0 18.5 9.25 9.25 0 0 0 0-18.5M1.25 12C1.25 6.063 6.063 1.25 12 1.25S22.75 6.063 22.75 12 17.937 22.75 12 22.75 1.25 17.937 1.25 12m9.912-5.75H13.5a3.25 3.25 0 0 1 0 6.5h-2.75v.5H12a.75.75 0 0 1 0 1.5h-1.25V17a.75.75 0 0 1-1.5 0v-2.25H9a.75.75 0 0 1 0-1.5h.25v-.5H9a.75.75 0 0 1 0-1.5h.25V8.162c0-.146 0-.297.022-.436a1.75 1.75 0 0 1 1.454-1.454c.139-.022.29-.022.435-.022m-.412 5h2.75a1.75 1.75 0 1 0 0-3.5h-2.3l-.24.003a.25.25 0 0 0-.207.206l-.002.043-.001.198z"
+      clipRule="evenodd"
+    />
+  ),
+  "bold-duotone": (
+    <>
+      <path
+        fill="currentColor"
+        fillRule="evenodd"
+        d="M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10"
+        clipRule="evenodd"
+        opacity=".5"
+      />
+      <path
+        fill="currentColor"
+        fillRule="evenodd"
+        d="M9 13.25a.75.75 0 1 0 0 1.5h.25V17a.75.75 0 0 0 1.5 0v-2.25H12a.75.75 0 0 0 0-1.5h-1.25v-.5h2.75a3.25 3.25 0 0 0 0-6.5h-2.338c-.146 0-.297 0-.436.022a1.75 1.75 0 0 0-1.454 1.454c-.022.139-.022.29-.022.436v3.088H9a.75.75 0 1 0 0 1.5h.25v.5zm4.5-2h-2.75V8.2l.001-.198.002-.043a.25.25 0 0 1 .206-.206l.043-.002H13.5a1.75 1.75 0 1 1 0 3.5"
+        clipRule="evenodd"
+      />
+    </>
+  ),
+  "line-duotone": (
+    <>
+      <circle
+        cx="12"
+        cy="12"
+        r="10"
+        stroke="currentColor"
+        strokeWidth="1.5"
+        opacity=".5"
+      />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M9 14h3m-2-2V8.2c0-.186 0-.279.012-.356a1 1 0 0 1 .832-.832C10.92 7 11.014 7 11.2 7h2.3a2.5 2.5 0 0 1 0 5zm0 0v5m0-5H9"
+      />
+    </>
+  ),
+};
+
+export function CircleRuble({ variant = "linear", ...props }: IconProps) {
+  return <Icon {...props}>{VARIANTS[variant]}</Icon>;
+}
+
+export const IconCircleRuble = CircleRuble;
+export const CircleRubleIcon = CircleRuble;
