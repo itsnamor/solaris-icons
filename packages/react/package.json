@@ -18,11 +18,12 @@
   ],
   "scripts": {
     "gen:icons": "bun run ./scripts/gen-icons.ts",
-    "build": "bun build main.ts --outdir dist --target node --minify --external react --external react-dom --external react/jsx-runtime && bun run build:types",
+    "build": "bun run build:assets && bun run build:types",
+    "build:assets": "bun build main.ts --outdir dist --target node --minify --external react --external react-dom --external react/jsx-runtime",
     "build:types": "tsc --declaration --emitDeclarationOnly --outDir dist",
+    "format": "biome format --write",
     "check:type": "tsc --noEmit",
     "check:biome": "biome check",
-    "format": "biome format --write",
     "prepublishOnly": "bun run build"
   },
   "keywords": [
