@@ -7,6 +7,7 @@ export function Icon({
   color,
   title,
   children,
+  className,
   ...rest
 }: Omit<IconProps, "variant">) {
   return (
@@ -16,6 +17,7 @@ export function Icon({
       height={size}
       viewBox="0 0 24 24"
       fill="none"
+      className={["solaris", className].filter(Boolean).join(" ")}
       {...rest}
       color={color}
     >
