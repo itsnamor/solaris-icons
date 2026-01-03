@@ -97,12 +97,12 @@ const VARIANTS = {
   ),
 };
 
-export function BedsideTable2Drawers({
+export function BedsideTableTwoDrawers({
   variant = "linear",
   ...props
 }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
-export const IconBedsideTable2Drawers = BedsideTable2Drawers;
-export const BedsideTable2DrawersIcon = BedsideTable2Drawers;
+export const IconBedsideTableTwoDrawers = BedsideTableTwoDrawers;
+export const BedsideTableTwoDrawersIcon = BedsideTableTwoDrawers;

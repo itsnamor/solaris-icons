@@ -74,9 +74,9 @@ const VARIANTS = {
   ),
 };
 
-export function Star3d({ variant = "linear", ...props }: IconProps) {
+export function StarIsometric({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
-export const IconStar3d = Star3d;
-export const Star3dIcon = Star3d;
+export const IconStarIsometric = StarIsometric;
+export const StarIsometricIcon = StarIsometric;

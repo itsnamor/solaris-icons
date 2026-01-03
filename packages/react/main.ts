@@ -687,12 +687,16 @@ export {
   Satellite,
   SatelliteIcon,
 } from "./src/icons/astronomy/satellite";
-export { IconStar3d, Star3d, Star3dIcon } from "./src/icons/astronomy/star-3d";
 export {
   IconStarFall,
   StarFall,
   StarFallIcon,
 } from "./src/icons/astronomy/star-fall";
+export {
+  IconStarIsometric,
+  StarIsometric,
+  StarIsometricIcon,
+} from "./src/icons/astronomy/star-isometric";
 export {
   IconStarRainbow,
   StarRainbow,
@@ -2526,15 +2530,15 @@ export {
   IconBedsideTable,
 } from "./src/icons/home-furniture/bedside-table";
 export {
-  BedsideTable2Drawers,
-  BedsideTable2DrawersIcon,
-  IconBedsideTable2Drawers,
-} from "./src/icons/home-furniture/bedside-table-2-drawers";
-export {
   BedsideTableSimple,
   BedsideTableSimpleIcon,
   IconBedsideTableSimple,
 } from "./src/icons/home-furniture/bedside-table-simple";
+export {
+  BedsideTableTwoDrawers,
+  BedsideTableTwoDrawersIcon,
+  IconBedsideTableTwoDrawers,
+} from "./src/icons/home-furniture/bedside-table-two-drawers";
 export { Chair, ChairIcon, IconChair } from "./src/icons/home-furniture/chair";
 export {
   ChairSwivel,
