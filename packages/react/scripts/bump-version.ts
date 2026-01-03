@@ -18,7 +18,7 @@ const bumpType = await select({
     { value: "minor", label: `Minor (${major}.${minor + 1}.0)` },
     { value: "major", label: `Major (${major + 1}.0.0)` },
   ],
-})
+});
 
 if (typeof bumpType === "symbol") {
   console.log("Version bump cancelled");

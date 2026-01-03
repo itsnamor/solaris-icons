@@ -2,43 +2,121 @@ import { Icon } from "../../icon";
 import type { IconProps } from "../../types";
 
 const VARIANTS = {
-	linear: (
-		<><path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12a9.97 9.97 0 0 1 3-7.141"/>
-		<path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M5 12a7 7 0 1 0 7-7"/>
-		<path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M12 16a4 4 0 0 0 0-8"/>
-		</>
-	),
-	bold: (
-		<path fill="currentColor" fillRule="evenodd" d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m9.25-7a.75.75 0 0 1 .75-.75A7.75 7.75 0 1 1 4.25 12a.75.75 0 0 1 1.5 0A6.25 6.25 0 1 0 12 5.75a.75.75 0 0 1-.75-.75M12 7.25a.75.75 0 0 0 0 1.5 3.25 3.25 0 0 1 0 6.5.75.75 0 0 0 0 1.5 4.75 4.75 0 1 0 0-9.5" clipRule="evenodd"/>
-	),
-	broken: (
-		<><path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M12 2c5.523 0 10 4.477 10 10 0 1.821-.487 3.53-1.338 5M5 4.859A9.97 9.97 0 0 0 2 12c0 5.523 4.477 10 10 10 1.821 0 3.53-.487 5-1.338"/>
-		<path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M5 12c0 1.487.464 2.866 1.255 4M12 5a7 7 0 1 1-3 13.326"/>
-		<path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M12 16a4 4 0 0 0 0-8"/>
-		</>
-	),
-	outline: (
-		<><path fill="currentColor" d="M11.25 2a.75.75 0 0 1 .75-.75c5.937 0 10.75 4.813 10.75 10.75S17.937 22.75 12 22.75 1.25 17.937 1.25 12a10.72 10.72 0 0 1 3.225-7.677.75.75 0 1 1 1.05 1.071A9.22 9.22 0 0 0 2.75 12 9.25 9.25 0 1 0 12 2.75a.75.75 0 0 1-.75-.75"/>
-		<path fill="currentColor" d="M11.25 5a.75.75 0 0 1 .75-.75A7.75 7.75 0 1 1 4.25 12a.75.75 0 0 1 1.5 0A6.25 6.25 0 1 0 12 5.75a.75.75 0 0 1-.75-.75"/>
-		<path fill="currentColor" d="M12 7.25a.75.75 0 0 0 0 1.5 3.25 3.25 0 0 1 0 6.5.75.75 0 0 0 0 1.5 4.75 4.75 0 1 0 0-9.5"/>
-		</>
-	),
-	"bold-duotone": (
-		<><path fill="currentColor" fillRule="evenodd" d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m9.25-7a.75.75 0 0 1 .75-.75A7.75 7.75 0 1 1 4.25 12a.75.75 0 0 1 1.5 0A6.25 6.25 0 1 0 12 5.75a.75.75 0 0 1-.75-.75M12 7.25a.75.75 0 0 0 0 1.5 3.25 3.25 0 0 1 0 6.5.75.75 0 0 0 0 1.5 4.75 4.75 0 1 0 0-9.5" clipRule="evenodd" opacity=".5"/>
-		<path fill="currentColor" d="M11.25 5a.75.75 0 0 1 .75-.75A7.75 7.75 0 1 1 4.25 12a.75.75 0 0 1 1.5 0A6.25 6.25 0 1 0 12 5.75a.75.75 0 0 1-.75-.75"/>
-		<path fill="currentColor" d="M12 7.25a.75.75 0 0 0 0 1.5 3.25 3.25 0 0 1 0 6.5.75.75 0 0 0 0 1.5 4.75 4.75 0 1 0 0-9.5"/>
-		</>
-	),
-	"line-duotone": (
-		<><path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12a9.97 9.97 0 0 1 3-7.141" opacity=".4"/>
-		<path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M5 12a7 7 0 1 0 7-7" opacity=".7"/>
-		<path stroke="currentColor" strokeLinecap="round" strokeWidth="1.5" d="M12 16a4 4 0 0 0 0-8"/>
-		</>
-	),
+  linear: (
+    <>
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12a9.97 9.97 0 0 1 3-7.141"
+      />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M5 12a7 7 0 1 0 7-7"
+      />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M12 16a4 4 0 0 0 0-8"
+      />
+    </>
+  ),
+  bold: (
+    <path
+      fill="currentColor"
+      fillRule="evenodd"
+      d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m9.25-7a.75.75 0 0 1 .75-.75A7.75 7.75 0 1 1 4.25 12a.75.75 0 0 1 1.5 0A6.25 6.25 0 1 0 12 5.75a.75.75 0 0 1-.75-.75M12 7.25a.75.75 0 0 0 0 1.5 3.25 3.25 0 0 1 0 6.5.75.75 0 0 0 0 1.5 4.75 4.75 0 1 0 0-9.5"
+      clipRule="evenodd"
+    />
+  ),
+  broken: (
+    <>
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M12 2c5.523 0 10 4.477 10 10 0 1.821-.487 3.53-1.338 5M5 4.859A9.97 9.97 0 0 0 2 12c0 5.523 4.477 10 10 10 1.821 0 3.53-.487 5-1.338"
+      />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M5 12c0 1.487.464 2.866 1.255 4M12 5a7 7 0 1 1-3 13.326"
+      />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M12 16a4 4 0 0 0 0-8"
+      />
+    </>
+  ),
+  outline: (
+    <>
+      <path
+        fill="currentColor"
+        d="M11.25 2a.75.75 0 0 1 .75-.75c5.937 0 10.75 4.813 10.75 10.75S17.937 22.75 12 22.75 1.25 17.937 1.25 12a10.72 10.72 0 0 1 3.225-7.677.75.75 0 1 1 1.05 1.071A9.22 9.22 0 0 0 2.75 12 9.25 9.25 0 1 0 12 2.75a.75.75 0 0 1-.75-.75"
+      />
+      <path
+        fill="currentColor"
+        d="M11.25 5a.75.75 0 0 1 .75-.75A7.75 7.75 0 1 1 4.25 12a.75.75 0 0 1 1.5 0A6.25 6.25 0 1 0 12 5.75a.75.75 0 0 1-.75-.75"
+      />
+      <path
+        fill="currentColor"
+        d="M12 7.25a.75.75 0 0 0 0 1.5 3.25 3.25 0 0 1 0 6.5.75.75 0 0 0 0 1.5 4.75 4.75 0 1 0 0-9.5"
+      />
+    </>
+  ),
+  "bold-duotone": (
+    <>
+      <path
+        fill="currentColor"
+        fillRule="evenodd"
+        d="M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m9.25-7a.75.75 0 0 1 .75-.75A7.75 7.75 0 1 1 4.25 12a.75.75 0 0 1 1.5 0A6.25 6.25 0 1 0 12 5.75a.75.75 0 0 1-.75-.75M12 7.25a.75.75 0 0 0 0 1.5 3.25 3.25 0 0 1 0 6.5.75.75 0 0 0 0 1.5 4.75 4.75 0 1 0 0-9.5"
+        clipRule="evenodd"
+        opacity=".5"
+      />
+      <path
+        fill="currentColor"
+        d="M11.25 5a.75.75 0 0 1 .75-.75A7.75 7.75 0 1 1 4.25 12a.75.75 0 0 1 1.5 0A6.25 6.25 0 1 0 12 5.75a.75.75 0 0 1-.75-.75"
+      />
+      <path
+        fill="currentColor"
+        d="M12 7.25a.75.75 0 0 0 0 1.5 3.25 3.25 0 0 1 0 6.5.75.75 0 0 0 0 1.5 4.75 4.75 0 1 0 0-9.5"
+      />
+    </>
+  ),
+  "line-duotone": (
+    <>
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10S2 17.523 2 12a9.97 9.97 0 0 1 3-7.141"
+        opacity=".4"
+      />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M5 12a7 7 0 1 0 7-7"
+        opacity=".7"
+      />
+      <path
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeWidth="1.5"
+        d="M12 16a4 4 0 0 0 0-8"
+      />
+    </>
+  ),
 };
 
 export function ChartRadial({ variant = "linear", ...props }: IconProps) {
-	return <Icon {...props}>{VARIANTS[variant]}</Icon>;
+  return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
 export const IconChartRadial = ChartRadial;
