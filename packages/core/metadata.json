@@ -1,0 +1,5014 @@
+[
+	{
+		"name": "academic-cap",
+		"category": "School"
+	},
+	{
+		"name": "academic-cap-simple",
+		"category": "School"
+	},
+	{
+		"name": "accessibility",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "accumulator",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "adhesive-bandage",
+		"category": "Medicine"
+	},
+	{
+		"name": "adhesive-bandages",
+		"category": "Medicine"
+	},
+	{
+		"name": "air-conditioner",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "air-conditioner-on",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "air-mouse",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "airbuds",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "airbuds-case",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "airbuds-case-charge",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "airbuds-case-front",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "airbuds-case-open",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "airbuds-charge",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "airbuds-check",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "airbuds-left",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "airbuds-right",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "airbuds-x",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "alarm",
+		"category": "Time"
+	},
+	{
+		"name": "alarm-minus",
+		"category": "Time"
+	},
+	{
+		"name": "alarm-pause",
+		"category": "Time"
+	},
+	{
+		"name": "alarm-play",
+		"category": "Time"
+	},
+	{
+		"name": "alarm-plus",
+		"category": "Time"
+	},
+	{
+		"name": "alarm-x",
+		"category": "Time"
+	},
+	{
+		"name": "alarm-z",
+		"category": "Time"
+	},
+	{
+		"name": "album",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "album-film",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "album-image",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "album-music-beam-note",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "album-music-quaver",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "align-bottom",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "align-center-horizontal",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "align-center-horizontal-spacing",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "align-center-vertical",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "align-center-vertical-spacing",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "align-left",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "align-right",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "align-top",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "archive",
+		"category": "Notes"
+	},
+	{
+		"name": "archive-arrow-down",
+		"category": "Notes"
+	},
+	{
+		"name": "archive-arrow-down-round",
+		"category": "Notes"
+	},
+	{
+		"name": "archive-arrow-up",
+		"category": "Notes"
+	},
+	{
+		"name": "archive-arrow-up-round",
+		"category": "Notes"
+	},
+	{
+		"name": "archive-check",
+		"category": "Notes"
+	},
+	{
+		"name": "archive-check-round",
+		"category": "Notes"
+	},
+	{
+		"name": "armchair",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "armchair-simple",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "arrow-bend-down-left",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-bend-down-right",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-bend-left-down",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-bend-left-up",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-bend-right-down",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-bend-right-up",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-bend-up-left",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-bend-up-right",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-cursor-down",
+		"category": "Map & Location"
+	},
+	{
+		"name": "arrow-cursor-left",
+		"category": "Map & Location"
+	},
+	{
+		"name": "arrow-cursor-right",
+		"category": "Map & Location"
+	},
+	{
+		"name": "arrow-cursor-up",
+		"category": "Map & Location"
+	},
+	{
+		"name": "arrow-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrow-down-to-arc",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-down-to-bracket",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-down-to-rect",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-left",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrow-left-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrow-left-from-rect",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-left-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrow-right",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrow-right-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrow-right-from-arc",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-right-to-arc",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-right-to-rect",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-right-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrow-rotate",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrow-u-left",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-u-left-round",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-u-right",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-u-right-round",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrow-up-from-arc",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-up-from-bracket",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrow-up-from-rect",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrows-forward-left",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "arrows-forward-right",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "arrows-left-right",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrows-left-right-merge",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrows-rotate",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrows-sub-diag-in",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrows-sub-diag-out",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "arrows-up-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "arrows-up-down-merge",
+		"category": "Arrow"
+	},
+	{
+		"name": "asteroid",
+		"category": "Astronomy"
+	},
+	{
+		"name": "atom",
+		"category": "Astronomy"
+	},
+	{
+		"name": "augmented-reality",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "backpack",
+		"category": "School"
+	},
+	{
+		"name": "backspace",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "bacteria",
+		"category": "Medicine"
+	},
+	{
+		"name": "bag",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "bag-check",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "bag-cut-out-handle",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "bag-dollar-sign",
+		"category": "Money"
+	},
+	{
+		"name": "bag-droopy-handle",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "bag-heart",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "bag-line",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "bag-music-note",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "bag-quaver",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "bag-shopping",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "bag-smile",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "bag-x",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "balloon",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "balls",
+		"category": "Sports"
+	},
+	{
+		"name": "banknote",
+		"category": "Money"
+	},
+	{
+		"name": "banknotes",
+		"category": "Money"
+	},
+	{
+		"name": "bar-chair",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "basketball",
+		"category": "Sports"
+	},
+	{
+		"name": "bath",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "battery-charge",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "battery-charge-simple",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "battery-full",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "battery-full-simple",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "battery-half",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "battery-half-simple",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "battery-low",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "battery-low-simple",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "bed",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "bed-front",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "bedside-cabinet",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "bedside-table",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "bedside-table-simple",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "bedside-table-two-drawers",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "bell",
+		"category": "Notifications"
+	},
+	{
+		"name": "bell-bing",
+		"category": "Notifications"
+	},
+	{
+		"name": "bell-z",
+		"category": "Notifications"
+	},
+	{
+		"name": "benzene-ring",
+		"category": "Medicine"
+	},
+	{
+		"name": "bicycling",
+		"category": "Sports"
+	},
+	{
+		"name": "bicycling-round",
+		"category": "Sports"
+	},
+	{
+		"name": "bill",
+		"category": "Money"
+	},
+	{
+		"name": "bill-check",
+		"category": "Money"
+	},
+	{
+		"name": "bill-list",
+		"category": "Money"
+	},
+	{
+		"name": "bill-list-line",
+		"category": "List"
+	},
+	{
+		"name": "bill-x",
+		"category": "Money"
+	},
+	{
+		"name": "black-hole",
+		"category": "Astronomy"
+	},
+	{
+		"name": "black-hole-dash",
+		"category": "Astronomy"
+	},
+	{
+		"name": "black-hole-solid",
+		"category": "Astronomy"
+	},
+	{
+		"name": "bluetooth",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "bluetooth-wave",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "body",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "body-shape",
+		"category": "Sports"
+	},
+	{
+		"name": "body-shape-simple",
+		"category": "Sports"
+	},
+	{
+		"name": "bolt",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "bomb",
+		"category": "Security"
+	},
+	{
+		"name": "bomb-star",
+		"category": "Security"
+	},
+	{
+		"name": "bomb-star-face",
+		"category": "Security"
+	},
+	{
+		"name": "bone",
+		"category": "Medicine"
+	},
+	{
+		"name": "bone-broken",
+		"category": "Medicine"
+	},
+	{
+		"name": "bone-crack",
+		"category": "Medicine"
+	},
+	{
+		"name": "bonfire",
+		"category": "Nature, Travel"
+	},
+	{
+		"name": "book",
+		"category": "School"
+	},
+	{
+		"name": "book-bookmark",
+		"category": "School"
+	},
+	{
+		"name": "book-bookmark-simple",
+		"category": "School"
+	},
+	{
+		"name": "book-open",
+		"category": "School"
+	},
+	{
+		"name": "book-simple",
+		"category": "School"
+	},
+	{
+		"name": "book-thick",
+		"category": "School"
+	},
+	{
+		"name": "bookmark",
+		"category": "School"
+	},
+	{
+		"name": "bookmark-close",
+		"category": "School"
+	},
+	{
+		"name": "bookmark-line-horizontal",
+		"category": "School"
+	},
+	{
+		"name": "bookmark-open",
+		"category": "School"
+	},
+	{
+		"name": "boombox",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "bottle",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "bowling",
+		"category": "Sports"
+	},
+	{
+		"name": "box",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "box-simple",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "branch-paths-down",
+		"category": "Map & Location"
+	},
+	{
+		"name": "branch-paths-up",
+		"category": "Map & Location"
+	},
+	{
+		"name": "broom",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "bug",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "bug-simple",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "buildings",
+		"category": "Building, Infrastructure"
+	},
+	{
+		"name": "bus",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "calculator",
+		"category": "School"
+	},
+	{
+		"name": "calculator-simple",
+		"category": "School"
+	},
+	{
+		"name": "calendar",
+		"category": "Time"
+	},
+	{
+		"name": "calendar-date",
+		"category": "Time"
+	},
+	{
+		"name": "calendar-dot",
+		"category": "Time"
+	},
+	{
+		"name": "calendar-magnifier",
+		"category": "Time"
+	},
+	{
+		"name": "calendar-plus",
+		"category": "Time"
+	},
+	{
+		"name": "calendar-simple",
+		"category": "Time"
+	},
+	{
+		"name": "camera",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "camera-arrow-rotate",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "camera-plus",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "camera-side",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "camera-side-arrow-up",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "camera-side-dot",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "camera-side-plus",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "camera-simple",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "camera-square",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "card-arrow-down",
+		"category": "Money"
+	},
+	{
+		"name": "card-arrow-up",
+		"category": "Money"
+	},
+	{
+		"name": "card-arrows-up-down",
+		"category": "Money"
+	},
+	{
+		"name": "card-credit",
+		"category": "Money"
+	},
+	{
+		"name": "card-debit",
+		"category": "Money"
+	},
+	{
+		"name": "card-holder",
+		"category": "Money"
+	},
+	{
+		"name": "card-magnifier",
+		"category": "Money"
+	},
+	{
+		"name": "carousel-horizontal",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "carousel-vertical",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "cart",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "cart-check",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "cart-line",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "cart-mesh",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "cart-mesh-cross",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "cart-plus",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "cart-simple",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "cart-x",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "case",
+		"category": "School"
+	},
+	{
+		"name": "case-round",
+		"category": "School"
+	},
+	{
+		"name": "case-simple",
+		"category": "School"
+	},
+	{
+		"name": "case-simple-round",
+		"category": "School"
+	},
+	{
+		"name": "cash-out",
+		"category": "Money"
+	},
+	{
+		"name": "cassette",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "cassette-simple",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "cat",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "chair",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "chair-swivel",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "chandelier",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "chart-bar",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "chart-bar-loose",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "chart-line-arrow-down",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "chart-line-arrow-up",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "chart-pie",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "chart-pie-loose",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "chart-pie-snug",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "chart-radial",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "chart-xy-down",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "chart-xy-up",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "check",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "check-check",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "checklist",
+		"category": "List"
+	},
+	{
+		"name": "chef-hat",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "chef-hat-heart",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "chef-hat-simple",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "chevron-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "chevron-left",
+		"category": "Arrow"
+	},
+	{
+		"name": "chevron-right",
+		"category": "Arrow"
+	},
+	{
+		"name": "chevron-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "chevrons-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "chevrons-left",
+		"category": "Arrow"
+	},
+	{
+		"name": "chevrons-right",
+		"category": "Arrow"
+	},
+	{
+		"name": "chevrons-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "chip-card",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "circle",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-arrow-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrow-left",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrow-left-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrow-left-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrow-right",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrow-right-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrow-right-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrow-rotate",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrow-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrows-diag-in",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrows-left-right",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrows-left-right-merge",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrows-rotate",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrows-up-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-arrows-up-down-merge",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-at-sign",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-b",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "circle-beam-note-arrow-up",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-bluetooth",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "circle-bolt",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-bookmark",
+		"category": "School"
+	},
+	{
+		"name": "circle-broken",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-broken-plus",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-check",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-chevron-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-chevron-left",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-chevron-right",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-chevron-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-chevrons-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-chevrons-left",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-chevrons-right",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-chevrons-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "circle-circle",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-clock",
+		"category": "Time"
+	},
+	{
+		"name": "circle-code",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "circle-compass",
+		"category": "Map & Location"
+	},
+	{
+		"name": "circle-dollar-sign",
+		"category": "Money"
+	},
+	{
+		"name": "circle-dollar-simple",
+		"category": "Money"
+	},
+	{
+		"name": "circle-eraser",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "circle-euro-sign",
+		"category": "Money"
+	},
+	{
+		"name": "circle-exclamation-mark",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-fullscreen",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-fullscreen-quit",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-hash-sign",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "circle-i",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "circle-i-lowercase",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-image",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-left-down-in",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "circle-left-down-out",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "circle-letter-t-cross",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "circle-minus",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-money-safe",
+		"category": "Money"
+	},
+	{
+		"name": "circle-mouse",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "circle-on-base",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-pause",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-pin",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-play",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-plug",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "circle-plus",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-quaver-arrow-up",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-question-mark",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-rewind-back",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-rewind-forward",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-right-up-in",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "circle-right-up-out",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "circle-ruble",
+		"category": "Money"
+	},
+	{
+		"name": "circle-slash",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-slash-symbol",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "circle-soundwave",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-square",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "circle-star",
+		"category": "Astronomy"
+	},
+	{
+		"name": "circle-t",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "circle-three-dots-horizontal",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-three-dots-vertical",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "circle-transmission",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "circle-u",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "circle-u-s-b",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "circle-user",
+		"category": "Users"
+	},
+	{
+		"name": "circle-voicemail",
+		"category": "Call"
+	},
+	{
+		"name": "circle-x",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "city",
+		"category": "Building, Infrastructure"
+	},
+	{
+		"name": "clapperboard",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "clapperboard-open",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "clapperboard-open-play",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "clapperboard-pencil",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "clapperboard-play",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "clapperboard-text",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "clipboard",
+		"category": "Notes"
+	},
+	{
+		"name": "clipboard-check",
+		"category": "Notes"
+	},
+	{
+		"name": "clipboard-heart",
+		"category": "Notes"
+	},
+	{
+		"name": "clipboard-list",
+		"category": "Notes"
+	},
+	{
+		"name": "clipboard-plus",
+		"category": "Notes"
+	},
+	{
+		"name": "clipboard-remove",
+		"category": "Notes"
+	},
+	{
+		"name": "clipboard-text",
+		"category": "Notes"
+	},
+	{
+		"name": "clock-arrow-rotate",
+		"category": "Time"
+	},
+	{
+		"name": "clock-dotted",
+		"category": "Time"
+	},
+	{
+		"name": "clock-dotted-more",
+		"category": "Time"
+	},
+	{
+		"name": "closet",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "closet-wardrobe",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "cloud",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-arrow-down",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-arrow-up",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-asterisk",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-bolt",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-bolt-simple",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-check",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-droplet",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-droplets",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-fog",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-minus",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-plus",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-rain",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-snowfall",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-storage",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "cloud-storm",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-sun",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-sun-beam",
+		"category": "Weather"
+	},
+	{
+		"name": "cloud-x",
+		"category": "Weather"
+	},
+	{
+		"name": "clouds",
+		"category": "Weather"
+	},
+	{
+		"name": "code",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "code-scan",
+		"category": "Security"
+	},
+	{
+		"name": "code-simple",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "comet",
+		"category": "Astronomy"
+	},
+	{
+		"name": "comet-stars",
+		"category": "Astronomy"
+	},
+	{
+		"name": "command",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "compass",
+		"category": "Map & Location"
+	},
+	{
+		"name": "confetti",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "confetti-star-heart",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "copy",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "copyright",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "corkscrew",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "cosmetic",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "cpu",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "cpu-bolt",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "crop",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "crop-square",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "crosshair",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "crown",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "crown-line",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "crown-simple",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "crown-star",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "cup",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "cup-first",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "cup-hot",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "cup-music",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "cup-paper",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "cup-star",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "cup-tea",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "cursor",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "d-n-a",
+		"category": "Medicine"
+	},
+	{
+		"name": "database",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "delivery",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "devices",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "dialog",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "dialog-check",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "dialog-round",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "diamond-arrow-bend-up-right",
+		"category": "Map & Location"
+	},
+	{
+		"name": "diploma",
+		"category": "School"
+	},
+	{
+		"name": "diploma-verified",
+		"category": "School"
+	},
+	{
+		"name": "dislike",
+		"category": "Like"
+	},
+	{
+		"name": "display",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "document",
+		"category": "Notes"
+	},
+	{
+		"name": "document-pencil",
+		"category": "Notes"
+	},
+	{
+		"name": "document-plus-text",
+		"category": "Notes"
+	},
+	{
+		"name": "document-text",
+		"category": "Notes"
+	},
+	{
+		"name": "documents",
+		"category": "Notes"
+	},
+	{
+		"name": "documents-simple",
+		"category": "Notes"
+	},
+	{
+		"name": "donut",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "donut-bite",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "door-open",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "droplet",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "droplets",
+		"category": "Weather"
+	},
+	{
+		"name": "dumbbell",
+		"category": "Sports"
+	},
+	{
+		"name": "dumbbell-large",
+		"category": "Sports"
+	},
+	{
+		"name": "dumbbell-large-simple",
+		"category": "Sports"
+	},
+	{
+		"name": "dumbbell-small",
+		"category": "Sports"
+	},
+	{
+		"name": "dumbbells",
+		"category": "Sports"
+	},
+	{
+		"name": "dumbbells-vertical",
+		"category": "Sports"
+	},
+	{
+		"name": "earth",
+		"category": "Astronomy"
+	},
+	{
+		"name": "envelope",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "envelope-badge",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "envelope-letter",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "eraser",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "ev-charge-station",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "eye",
+		"category": "Security"
+	},
+	{
+		"name": "eye-close",
+		"category": "Security"
+	},
+	{
+		"name": "face-confounded",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "face-funny",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "face-mask",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "face-neutral",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "face-sad",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "face-scan",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "face-sleeping",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "face-smile",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "feed",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "female",
+		"category": "Astronomy"
+	},
+	{
+		"name": "ferris-wheel",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "figma",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "file",
+		"category": "Files"
+	},
+	{
+		"name": "file-arrow-down",
+		"category": "Files"
+	},
+	{
+		"name": "file-arrow-left",
+		"category": "Files"
+	},
+	{
+		"name": "file-arrow-right",
+		"category": "Files"
+	},
+	{
+		"name": "file-arrow-up",
+		"category": "Files"
+	},
+	{
+		"name": "file-check",
+		"category": "Files"
+	},
+	{
+		"name": "file-cloud",
+		"category": "Files"
+	},
+	{
+		"name": "file-code",
+		"category": "Files"
+	},
+	{
+		"name": "file-corrupted",
+		"category": "Files"
+	},
+	{
+		"name": "file-figma",
+		"category": "Files"
+	},
+	{
+		"name": "file-smile",
+		"category": "Files"
+	},
+	{
+		"name": "file-star",
+		"category": "Files"
+	},
+	{
+		"name": "file-text",
+		"category": "Files"
+	},
+	{
+		"name": "file-x",
+		"category": "Files"
+	},
+	{
+		"name": "file-zip",
+		"category": "Files"
+	},
+	{
+		"name": "film",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "film-arrows-rotate",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "film-cut",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "film-cut-chevron",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "film-horizontal",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "film-play",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "film-play-horizontal",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "fire",
+		"category": "Nature, Travel"
+	},
+	{
+		"name": "fire-simple",
+		"category": "Nature, Travel"
+	},
+	{
+		"name": "flag",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "flag-swallowtail",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "flame",
+		"category": "Nature, Travel"
+	},
+	{
+		"name": "flashlight",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "flashlight-on",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "flip-horizontal",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "flip-vertical",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "floor-lamp",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "floor-lamp-simple",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "floppy-disk",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "folder",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-arrow-right",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-bookmark",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-check",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-cloud",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-minus",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-open",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-path-connect",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-plus",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-secure",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-simple",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-star",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-with-file",
+		"category": "Folders"
+	},
+	{
+		"name": "folder-x",
+		"category": "Folders"
+	},
+	{
+		"name": "football",
+		"category": "Sports"
+	},
+	{
+		"name": "forward",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "four-lines",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "four-petals",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "frame-t",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "fridge",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "fuel",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "fullscreen",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "fullscreen-quit",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "funnel",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "funnel-simple",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "g-p-s",
+		"category": "Map & Location"
+	},
+	{
+		"name": "gameboy",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "gamepad",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "gamepad-charge",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "gamepad-old",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "gamepad-wire",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "gamepad-x",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "garage",
+		"category": "Building, Infrastructure"
+	},
+	{
+		"name": "gas-station",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "ghost",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "ghost-smile",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "gift",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "glasses",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "global",
+		"category": "Map & Location"
+	},
+	{
+		"name": "globe",
+		"category": "Map & Location"
+	},
+	{
+		"name": "golf",
+		"category": "Sports"
+	},
+	{
+		"name": "graph-present",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "hand-heart",
+		"category": "Hands"
+	},
+	{
+		"name": "hand-money",
+		"category": "Hands"
+	},
+	{
+		"name": "hand-pills",
+		"category": "Hands"
+	},
+	{
+		"name": "hand-shake",
+		"category": "Hands"
+	},
+	{
+		"name": "hand-stars",
+		"category": "Hands"
+	},
+	{
+		"name": "hanger",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "hanger-cloth",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "hash-sign",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "hash-sign-message",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "headphones",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "headphones-round",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "headphones-sound",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "headphones-sound-round",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "heart",
+		"category": "Like"
+	},
+	{
+		"name": "heart-angle",
+		"category": "Like"
+	},
+	{
+		"name": "heart-broken",
+		"category": "Like"
+	},
+	{
+		"name": "heart-lock",
+		"category": "Like"
+	},
+	{
+		"name": "heart-pulse",
+		"category": "Medicine"
+	},
+	{
+		"name": "heart-pulse-simple",
+		"category": "Medicine"
+	},
+	{
+		"name": "heart-shine",
+		"category": "Like"
+	},
+	{
+		"name": "heart-unlock",
+		"category": "Like"
+	},
+	{
+		"name": "hearts",
+		"category": "Like"
+	},
+	{
+		"name": "heath",
+		"category": "Medicine"
+	},
+	{
+		"name": "hexagon-exclamation-mark",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "hiking",
+		"category": "Sports"
+	},
+	{
+		"name": "hiking-round",
+		"category": "Sports"
+	},
+	{
+		"name": "hiking-simple",
+		"category": "Sports"
+	},
+	{
+		"name": "home",
+		"category": "Building, Infrastructure"
+	},
+	{
+		"name": "hospital",
+		"category": "Building, Infrastructure"
+	},
+	{
+		"name": "hourglass",
+		"category": "Time"
+	},
+	{
+		"name": "hourglass-line",
+		"category": "Time"
+	},
+	{
+		"name": "house-line",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "house-line-angle",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "house-line-vertical",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "house-line-vertical-angle",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "house-plus",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "house-plus-angle",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "house-smile",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "house-smile-angle",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "house-wifi",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "house-wifi-angle",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "image",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "image-arrow-down",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "image-arrow-up",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "image-check",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "image-heart",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "image-pencil",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "image-plus",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "image-round",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "image-simple",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "image-x",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "images",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "inbox",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "inbox-archive",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "inbox-arrow-down",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "inbox-arrow-up",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "inbox-badge",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "inbox-line",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "incognito",
+		"category": "Security"
+	},
+	{
+		"name": "infinity",
+		"category": "Astronomy"
+	},
+	{
+		"name": "intravenous-bag",
+		"category": "Medicine"
+	},
+	{
+		"name": "intravenous-bag-line",
+		"category": "Medicine"
+	},
+	{
+		"name": "intravenous-droplet-line",
+		"category": "Medicine"
+	},
+	{
+		"name": "intravenous-setup",
+		"category": "Medicine"
+	},
+	{
+		"name": "intravenous-setup-droplet",
+		"category": "Medicine"
+	},
+	{
+		"name": "jar",
+		"category": "Medicine"
+	},
+	{
+		"name": "jar-pill",
+		"category": "Medicine"
+	},
+	{
+		"name": "key",
+		"category": "Security"
+	},
+	{
+		"name": "key-old",
+		"category": "Security"
+	},
+	{
+		"name": "key-simple",
+		"category": "Security"
+	},
+	{
+		"name": "keyboard",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "kick-scooter",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "ladle",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "lamp",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "laptop",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "laptop-thick-base",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "laptop-thick-base-loose",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "laptop-thin-base",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "layers",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "layers-loose",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "layout",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "layout-masonry",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "leaf",
+		"category": "Nature, Travel"
+	},
+	{
+		"name": "letter-b",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "letter-i",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "letter-t",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "letter-t-cross",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "letter-u",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "lifebuoy",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "lightbulb",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "lightbulb-bolt",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "lightbulb-simple",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "lightning",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "like",
+		"category": "Like"
+	},
+	{
+		"name": "lines-spacing",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "link",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "link-broken",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "link-broken-simple",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "link-circle",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "link-round",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "link-round-angle",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "link-simple",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "link-simple-horizontal",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "link-square",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "list-arrow-down",
+		"category": "List"
+	},
+	{
+		"name": "list-arrow-down-simple",
+		"category": "List"
+	},
+	{
+		"name": "list-arrow-up",
+		"category": "List"
+	},
+	{
+		"name": "list-arrow-up-simple",
+		"category": "List"
+	},
+	{
+		"name": "list-arrows-scale",
+		"category": "List"
+	},
+	{
+		"name": "list-check",
+		"category": "List"
+	},
+	{
+		"name": "list-check-simple",
+		"category": "List"
+	},
+	{
+		"name": "list-chevron-down",
+		"category": "List"
+	},
+	{
+		"name": "list-chevron-down-simple",
+		"category": "List"
+	},
+	{
+		"name": "list-chevron-up",
+		"category": "List"
+	},
+	{
+		"name": "list-chevron-up-simple",
+		"category": "List"
+	},
+	{
+		"name": "list-clock",
+		"category": "List"
+	},
+	{
+		"name": "list-heart",
+		"category": "List"
+	},
+	{
+		"name": "list-heart-simple",
+		"category": "List"
+	},
+	{
+		"name": "list-letter-a",
+		"category": "List"
+	},
+	{
+		"name": "list-lines-long-to-short",
+		"category": "List"
+	},
+	{
+		"name": "list-music-beam-note-simple",
+		"category": "List"
+	},
+	{
+		"name": "list-music-beam-note-up",
+		"category": "List"
+	},
+	{
+		"name": "list-music-quaver",
+		"category": "List"
+	},
+	{
+		"name": "list-sort-arrow-down",
+		"category": "List"
+	},
+	{
+		"name": "list-sort-arrow-up",
+		"category": "List"
+	},
+	{
+		"name": "list-x",
+		"category": "List"
+	},
+	{
+		"name": "list-x-simple",
+		"category": "List"
+	},
+	{
+		"name": "loader",
+		"category": "Astronomy"
+	},
+	{
+		"name": "lock",
+		"category": "Security"
+	},
+	{
+		"name": "lock-dots",
+		"category": "Security"
+	},
+	{
+		"name": "lock-dots-open",
+		"category": "Security"
+	},
+	{
+		"name": "lock-keyhole",
+		"category": "Security"
+	},
+	{
+		"name": "lock-keyhole-line",
+		"category": "Security"
+	},
+	{
+		"name": "lock-keyhole-line-open",
+		"category": "Security"
+	},
+	{
+		"name": "lock-keyhole-open",
+		"category": "Security"
+	},
+	{
+		"name": "lock-open",
+		"category": "Security"
+	},
+	{
+		"name": "magic-stick",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "magnet",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "magnet-wave",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "magnifier",
+		"category": "Search"
+	},
+	{
+		"name": "magnifier-bug",
+		"category": "Search"
+	},
+	{
+		"name": "magnifier-bug-round",
+		"category": "Search"
+	},
+	{
+		"name": "magnifier-bug-simple",
+		"category": "Search"
+	},
+	{
+		"name": "magnifier-minus",
+		"category": "Search"
+	},
+	{
+		"name": "magnifier-minus-round",
+		"category": "Search"
+	},
+	{
+		"name": "magnifier-minus-simple",
+		"category": "Search"
+	},
+	{
+		"name": "magnifier-plus",
+		"category": "Search"
+	},
+	{
+		"name": "magnifier-plus-round",
+		"category": "Search"
+	},
+	{
+		"name": "magnifier-plus-simple",
+		"category": "Search"
+	},
+	{
+		"name": "magnifier-round",
+		"category": "Search"
+	},
+	{
+		"name": "magnifier-simple",
+		"category": "Search"
+	},
+	{
+		"name": "mailbox",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "male",
+		"category": "Astronomy"
+	},
+	{
+		"name": "map",
+		"category": "Map & Location"
+	},
+	{
+		"name": "map-pin",
+		"category": "Map & Location"
+	},
+	{
+		"name": "map-pin-academic-cap",
+		"category": "Map & Location"
+	},
+	{
+		"name": "map-pin-circle-plus",
+		"category": "Map & Location"
+	},
+	{
+		"name": "map-pin-ellipse",
+		"category": "Map & Location"
+	},
+	{
+		"name": "map-pin-heart",
+		"category": "Map & Location"
+	},
+	{
+		"name": "map-pin-magnifier",
+		"category": "Map & Location"
+	},
+	{
+		"name": "map-pin-minus",
+		"category": "Map & Location"
+	},
+	{
+		"name": "map-pin-plus",
+		"category": "Map & Location"
+	},
+	{
+		"name": "map-pin-rotate",
+		"category": "Map & Location"
+	},
+	{
+		"name": "mask-happy",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "mask-sad",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "masks",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "medal-ribbon",
+		"category": "Like"
+	},
+	{
+		"name": "medal-ribbon-star",
+		"category": "Like"
+	},
+	{
+		"name": "medal-ribbons-star",
+		"category": "Like"
+	},
+	{
+		"name": "medal-star",
+		"category": "Like"
+	},
+	{
+		"name": "medal-star-round",
+		"category": "Like"
+	},
+	{
+		"name": "medal-star-square",
+		"category": "Like"
+	},
+	{
+		"name": "medical-kit",
+		"category": "Medicine"
+	},
+	{
+		"name": "meditation",
+		"category": "Sports"
+	},
+	{
+		"name": "meditation-round",
+		"category": "Sports"
+	},
+	{
+		"name": "megaphone",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "megaphone-loud",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "megaphone-slash",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "megaphone-small",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "megaphone-x",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "message",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-arrow-rotate",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-badge",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-badge-round",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-check",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-check-round",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-code",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-dollar-round",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-dots",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-dots-round",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-heart",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-heart-round",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-play-round",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-round",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-soundwave",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-soundwave-round",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-text",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "message-text-round",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "microphone",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "microphone-four-vents",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "microphone-simple",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "microphone-vents-center",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "minus",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "mirror",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "mirror-left",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "mirror-right",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "money-safe",
+		"category": "Money"
+	},
+	{
+		"name": "money-wad",
+		"category": "Money"
+	},
+	{
+		"name": "monitor",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "monitor-camera",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "monitor-smartphone",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "moon",
+		"category": "Weather"
+	},
+	{
+		"name": "moon-cloud",
+		"category": "Weather"
+	},
+	{
+		"name": "moon-fog-stars",
+		"category": "Weather"
+	},
+	{
+		"name": "moon-sleep",
+		"category": "Weather"
+	},
+	{
+		"name": "moon-stars",
+		"category": "Weather"
+	},
+	{
+		"name": "mouse",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "mouse-simple",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "music-beam-note-down",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "music-beam-note-up",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "music-beam-notes",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "music-notes",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "music-quaver",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "notebook",
+		"category": "Notes"
+	},
+	{
+		"name": "notebook-bookmark",
+		"category": "School"
+	},
+	{
+		"name": "notebook-open",
+		"category": "School"
+	},
+	{
+		"name": "notebook-simple",
+		"category": "School"
+	},
+	{
+		"name": "notes",
+		"category": "Notes"
+	},
+	{
+		"name": "notification-badge",
+		"category": "Notifications"
+	},
+	{
+		"name": "notification-text-badge",
+		"category": "Notifications"
+	},
+	{
+		"name": "notification-text-x",
+		"category": "Notifications"
+	},
+	{
+		"name": "notification-x",
+		"category": "Notifications"
+	},
+	{
+		"name": "octagon-slash",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "oven-mitts",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "oven-mitts-simple",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "p-i-p",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "p-i-p-arrow",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "p-i-p-arrow-quit",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "p-i-p-simple",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "paint-palette",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "paint-roller",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "palette",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "palette-round",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "panorama",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "paper-bin",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "paper-plain-line",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "paper-plain-simple",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "paper-plane",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "paperclip",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "paperclip-round",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "passport",
+		"category": "School"
+	},
+	{
+		"name": "passport-simple",
+		"category": "School"
+	},
+	{
+		"name": "pause",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "paw",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "pen",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "pen-circle",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "pen-line",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "pen-square",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "people-ellipse",
+		"category": "Map & Location"
+	},
+	{
+		"name": "perfume",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "phone",
+		"category": "Call"
+	},
+	{
+		"name": "phone-arrow-in",
+		"category": "Call"
+	},
+	{
+		"name": "phone-arrow-in-round",
+		"category": "Call"
+	},
+	{
+		"name": "phone-arrow-out",
+		"category": "Call"
+	},
+	{
+		"name": "phone-arrow-out-round",
+		"category": "Call"
+	},
+	{
+		"name": "phone-bend-arrow",
+		"category": "Call"
+	},
+	{
+		"name": "phone-bend-arrow-round",
+		"category": "Call"
+	},
+	{
+		"name": "phone-cancel",
+		"category": "Call"
+	},
+	{
+		"name": "phone-cancel-round",
+		"category": "Call"
+	},
+	{
+		"name": "phone-handup",
+		"category": "Call"
+	},
+	{
+		"name": "phone-handup-round",
+		"category": "Call"
+	},
+	{
+		"name": "phone-message",
+		"category": "Call"
+	},
+	{
+		"name": "phone-message-plus",
+		"category": "Call"
+	},
+	{
+		"name": "phone-message-plus-round",
+		"category": "Call"
+	},
+	{
+		"name": "phone-message-round",
+		"category": "Call"
+	},
+	{
+		"name": "phone-round",
+		"category": "Call"
+	},
+	{
+		"name": "phone-volume",
+		"category": "Call"
+	},
+	{
+		"name": "phone-volume-round",
+		"category": "Call"
+	},
+	{
+		"name": "pill",
+		"category": "Medicine"
+	},
+	{
+		"name": "pills",
+		"category": "Medicine"
+	},
+	{
+		"name": "pills-tablet",
+		"category": "Medicine"
+	},
+	{
+		"name": "pills-three",
+		"category": "Medicine"
+	},
+	{
+		"name": "pin",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "pin-list",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "pipette",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "planet",
+		"category": "Astronomy"
+	},
+	{
+		"name": "planet-dash-ring",
+		"category": "Astronomy"
+	},
+	{
+		"name": "planet-solid-ring",
+		"category": "Astronomy"
+	},
+	{
+		"name": "planets",
+		"category": "Astronomy"
+	},
+	{
+		"name": "plate",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "play",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "play-stream",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "playback-speed",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "playlist",
+		"category": "List"
+	},
+	{
+		"name": "playlist-simple",
+		"category": "List"
+	},
+	{
+		"name": "plus",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "plus-minus",
+		"category": "School"
+	},
+	{
+		"name": "podcast",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "point-on-map",
+		"category": "Map & Location"
+	},
+	{
+		"name": "point-on-rect-map",
+		"category": "Map & Location"
+	},
+	{
+		"name": "power",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "printer",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "printer-simple",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "printer-white-paper",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "projector",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "q-r-code",
+		"category": "Security"
+	},
+	{
+		"name": "radar",
+		"category": "Map & Location"
+	},
+	{
+		"name": "radar-simple",
+		"category": "Map & Location"
+	},
+	{
+		"name": "radial-blur",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "radio",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "radio-simple",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "ranking-star",
+		"category": "Sports"
+	},
+	{
+		"name": "record",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "record-vinyl",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "rect-arrow-cursor",
+		"category": "Map & Location"
+	},
+	{
+		"name": "rect-asterisks",
+		"category": "Security"
+	},
+	{
+		"name": "rect-dots",
+		"category": "Security"
+	},
+	{
+		"name": "rect-dots-line",
+		"category": "Security"
+	},
+	{
+		"name": "rect-letter-t",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "rect-letter-t-line-vertical",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "rects-arrow-left",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "rects-arrow-right",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "rects-arrow-up",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "reel",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "reel-simple",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "remote-controller",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "remote-controller-simple",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "reorder",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "repeat",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "repeat-line",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "repeat-once",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "rewind-back",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "rewind-fifteen-back",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "rewind-fifteen-forward",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "rewind-five-back",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "rewind-five-forward",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "rewind-forward",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "rewind-ten-back",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "rewind-ten-forward",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "rocket",
+		"category": "Astronomy"
+	},
+	{
+		"name": "rocket-boost",
+		"category": "Astronomy"
+	},
+	{
+		"name": "rolling-pin",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "routing-arrow",
+		"category": "Map & Location"
+	},
+	{
+		"name": "routing-dots",
+		"category": "Map & Location"
+	},
+	{
+		"name": "routing-map-pin",
+		"category": "Map & Location"
+	},
+	{
+		"name": "rugby",
+		"category": "Sports"
+	},
+	{
+		"name": "ruler",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "ruler-angular",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "ruler-pen",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "ruler-pen-cross",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "running",
+		"category": "Sports"
+	},
+	{
+		"name": "running-round",
+		"category": "Sports"
+	},
+	{
+		"name": "running-simple",
+		"category": "Sports"
+	},
+	{
+		"name": "satellite",
+		"category": "Astronomy"
+	},
+	{
+		"name": "scan",
+		"category": "Security"
+	},
+	{
+		"name": "scanner",
+		"category": "Security"
+	},
+	{
+		"name": "scanner-round",
+		"category": "Security"
+	},
+	{
+		"name": "scissors",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "scooter",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "screencast",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "screencast-triangle",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "sd-card",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "sea",
+		"category": "Sports"
+	},
+	{
+		"name": "sea-sun",
+		"category": "Sports"
+	},
+	{
+		"name": "seal-check",
+		"category": "Money"
+	},
+	{
+		"name": "seal-percent-sign",
+		"category": "Money"
+	},
+	{
+		"name": "server",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "server-path",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "server-simple",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "server-square",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "server-square-arrows-rotate",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "server-square-cloud",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "server-three-nodes",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "setting",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "setting-simple",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "shield",
+		"category": "Security"
+	},
+	{
+		"name": "shield-check",
+		"category": "Security"
+	},
+	{
+		"name": "shield-chevrons-up",
+		"category": "Security"
+	},
+	{
+		"name": "shield-exclamation-mark",
+		"category": "Security"
+	},
+	{
+		"name": "shield-global",
+		"category": "Security"
+	},
+	{
+		"name": "shield-keyhole",
+		"category": "Security"
+	},
+	{
+		"name": "shield-keyhole-simple",
+		"category": "Security"
+	},
+	{
+		"name": "shield-minus",
+		"category": "Security"
+	},
+	{
+		"name": "shield-plus",
+		"category": "Security"
+	},
+	{
+		"name": "shield-simple",
+		"category": "Security"
+	},
+	{
+		"name": "shield-star",
+		"category": "Security"
+	},
+	{
+		"name": "shield-user",
+		"category": "Security"
+	},
+	{
+		"name": "shield-x",
+		"category": "Security"
+	},
+	{
+		"name": "shock-absorber",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "shop",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "shop-line",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "shop-simple",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "shopping-basket",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "shopping-basket-criss-cross",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "shopping-basket-lines",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "shopping-basket-side",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "shopping-basket-side-simple",
+		"category": "Shopping, Ecommerce"
+	},
+	{
+		"name": "shuffle",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "sidebar",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "sidebar-code",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "sidebar-text",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "signal-tower",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "signal-tower-simple",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "signpost",
+		"category": "Map & Location"
+	},
+	{
+		"name": "signpost-line",
+		"category": "Map & Location"
+	},
+	{
+		"name": "sim-card",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "sim-cards",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "siren",
+		"category": "Security"
+	},
+	{
+		"name": "siren-rounded",
+		"category": "Security"
+	},
+	{
+		"name": "skateboard",
+		"category": "Sports"
+	},
+	{
+		"name": "skateboarding",
+		"category": "Sports"
+	},
+	{
+		"name": "skateboarding-round",
+		"category": "Sports"
+	},
+	{
+		"name": "skip-next",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "skip-prev",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "skirt",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "sledgehammer",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "slide-horizontal",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "slide-horizontal-simple",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "slide-image",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "slide-vertical",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "slide-vertical-simple",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "slider-music-beam-note-up",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "slider-music-quaver",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "smart-house",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "smart-house-angle",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "smart-speaker",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "smart-speaker-round",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "smart-speaker-simple",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "smart-vacuum",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "smart-vacuum-simple",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "smartphone",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "smartphone-arrows-rotate",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "smartphone-fingerprint",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "smartphone-rotate",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "smartphone-rotate-angle",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "smartphone-rotate-orientation",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "smartphone-top-notch",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "smartphone-vibration",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "smartwatch",
+		"category": "Time"
+	},
+	{
+		"name": "smartwatch-charge",
+		"category": "Time"
+	},
+	{
+		"name": "snowflake",
+		"category": "Weather"
+	},
+	{
+		"name": "socket",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "sofa",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "sofa-armless",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "sofa-line",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "soundwave",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "speaker",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "speaker-simple",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "speedometer-high",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "speedometer-low",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "speedometer-middle",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "square",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "square-4-k",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-arrow-cursor",
+		"category": "Map & Location"
+	},
+	{
+		"name": "square-arrow-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrow-down-to-line",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrow-left",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrow-left-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrow-left-to-line",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrow-left-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrow-right",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrow-right-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrow-right-to-line",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrow-right-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrow-rotate",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrow-rotate-check",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-arrow-u-left",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrow-u-left-round",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrow-u-right",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrow-u-right-round",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrow-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrow-up-to-line",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrows-down-to-line",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrows-left-right",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrows-left-right-merge",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrows-left-to-line",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrows-right-to-line",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrows-rotate",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrows-sub-diag-in",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrows-sub-diag-in-short",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrows-sub-diag-out",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrows-sub-diag-out-short",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrows-sub-diag-small",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrows-to-line",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-arrows-up-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-arrows-up-down-merge",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-at-sign",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-b",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "square-bluetooth",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "square-bones",
+		"category": "Medicine"
+	},
+	{
+		"name": "square-c-c",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-chart-bar",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "square-chart-bar-up",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "square-chart-line-arrow-down",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "square-check",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-checklist",
+		"category": "List"
+	},
+	{
+		"name": "square-chevron-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-chevron-left",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-chevron-right",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-chevron-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-chevrons-down",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-chevrons-left",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-chevrons-right",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-chevrons-up",
+		"category": "Arrow"
+	},
+	{
+		"name": "square-clock",
+		"category": "Time"
+	},
+	{
+		"name": "square-code",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "square-compose",
+		"category": "Map & Location"
+	},
+	{
+		"name": "square-cursor",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-e",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-eraser",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "square-exclamation-mark",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-eye",
+		"category": "Security"
+	},
+	{
+		"name": "square-face-confounded",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "square-face-funny",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "square-face-mask",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "square-face-neutral",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "square-face-sad",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "square-face-scan",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "square-face-sleeping",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "square-face-smile",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "square-fire",
+		"category": "Nature, Travel"
+	},
+	{
+		"name": "square-forward",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "square-four-arrows-in",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-four-arrows-out",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-fullscreen",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "square-fullscreen-quit",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "square-fx",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-graph",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "square-graph-dot",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "square-h-d",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-h-q",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-hash-sign",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "square-i",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "square-i-lowercase",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-key",
+		"category": "Security"
+	},
+	{
+		"name": "square-key-in-corner",
+		"category": "Security"
+	},
+	{
+		"name": "square-key-old",
+		"category": "Security"
+	},
+	{
+		"name": "square-key-old-in-corner",
+		"category": "Security"
+	},
+	{
+		"name": "square-key-simple",
+		"category": "Security"
+	},
+	{
+		"name": "square-left-down-in",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-left-down-out",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-letter-t-cross",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "square-line-arrow-down-dot",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "square-line-arrow-up",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "square-line-arrow-up-dot",
+		"category": "Business, Statistic"
+	},
+	{
+		"name": "square-map",
+		"category": "Map & Location"
+	},
+	{
+		"name": "square-map-with-pin",
+		"category": "Map & Location"
+	},
+	{
+		"name": "square-minus",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-money-safe",
+		"category": "Money"
+	},
+	{
+		"name": "square-notebook",
+		"category": "School"
+	},
+	{
+		"name": "square-paper-clip",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "square-paperclip-round",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "square-percent-sign",
+		"category": "Money"
+	},
+	{
+		"name": "square-plus",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-pulse",
+		"category": "Medicine"
+	},
+	{
+		"name": "square-pulse-simple",
+		"category": "Medicine"
+	},
+	{
+		"name": "square-question-mark",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-right-up-in",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-right-up-out",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "square-scissors",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-share",
+		"category": "Messages, conversation"
+	},
+	{
+		"name": "square-slash",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "square-soundwave",
+		"category": "Video, Audio, Sound"
+	},
+	{
+		"name": "square-sticker",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "square-sticker-face-smile",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "square-t",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "square-t-lines",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "square-three-dots-horizontal",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-three-dots-vertical",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-transmission",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "square-tuning",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "square-tuning-horizontal",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "square-u",
+		"category": "Text Formatting"
+	},
+	{
+		"name": "square-u-s-b",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "square-voicemail",
+		"category": "Call"
+	},
+	{
+		"name": "square-x",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "square-x-x-x",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "squares",
+		"category": "Notes"
+	},
+	{
+		"name": "squares-arrow-left-down",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "squares-arrow-right-up",
+		"category": "Arrows Action"
+	},
+	{
+		"name": "ssd",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "ssd-round",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "star",
+		"category": "Like"
+	},
+	{
+		"name": "star-fall",
+		"category": "Astronomy"
+	},
+	{
+		"name": "star-isometric",
+		"category": "Astronomy"
+	},
+	{
+		"name": "star-rainbow",
+		"category": "Astronomy"
+	},
+	{
+		"name": "star-ring",
+		"category": "Astronomy"
+	},
+	{
+		"name": "star-rings",
+		"category": "Astronomy"
+	},
+	{
+		"name": "star-shine",
+		"category": "Like"
+	},
+	{
+		"name": "star-shooting",
+		"category": "Astronomy"
+	},
+	{
+		"name": "star-stick",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "star-stick-loose",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "stars",
+		"category": "Weather"
+	},
+	{
+		"name": "stars-line",
+		"category": "Astronomy"
+	},
+	{
+		"name": "stars-overlap",
+		"category": "Astronomy"
+	},
+	{
+		"name": "stars-small",
+		"category": "Astronomy"
+	},
+	{
+		"name": "stethoscope",
+		"category": "Medicine"
+	},
+	{
+		"name": "sticker",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "sticker-face-funny",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "sticker-face-smile",
+		"category": "Faces, Emotions, Stickers"
+	},
+	{
+		"name": "stopwatch",
+		"category": "Time"
+	},
+	{
+		"name": "stopwatch-pause",
+		"category": "Time"
+	},
+	{
+		"name": "stopwatch-play",
+		"category": "Time"
+	},
+	{
+		"name": "stretching",
+		"category": "Sports"
+	},
+	{
+		"name": "stretching-round",
+		"category": "Sports"
+	},
+	{
+		"name": "structure",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "subtitles",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "suitcase",
+		"category": "Nature, Travel"
+	},
+	{
+		"name": "suitcase-lines",
+		"category": "Nature, Travel"
+	},
+	{
+		"name": "suitcase-tag",
+		"category": "Nature, Travel"
+	},
+	{
+		"name": "sun-beam",
+		"category": "Weather"
+	},
+	{
+		"name": "sun-beam-long",
+		"category": "Weather"
+	},
+	{
+		"name": "sun-fog",
+		"category": "Weather"
+	},
+	{
+		"name": "sun-fog-arrow-down",
+		"category": "Weather"
+	},
+	{
+		"name": "sun-fog-arrow-up",
+		"category": "Weather"
+	},
+	{
+		"name": "suspension",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "suspension-bolt",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "suspension-x",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "swimming",
+		"category": "Sports"
+	},
+	{
+		"name": "syringe",
+		"category": "Medicine"
+	},
+	{
+		"name": "t-shirt",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "tablet",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "tag",
+		"category": "Money"
+	},
+	{
+		"name": "tag-dollar-sign",
+		"category": "Money"
+	},
+	{
+		"name": "tag-horizontal",
+		"category": "Money"
+	},
+	{
+		"name": "telescope",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "television",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "temperature",
+		"category": "Weather"
+	},
+	{
+		"name": "tennis",
+		"category": "Sports"
+	},
+	{
+		"name": "tennis-dash-line",
+		"category": "Sports"
+	},
+	{
+		"name": "terminal",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "test-tube",
+		"category": "Medicine"
+	},
+	{
+		"name": "test-tube-droplet",
+		"category": "Medicine"
+	},
+	{
+		"name": "thermometer",
+		"category": "Medicine"
+	},
+	{
+		"name": "three-buildings",
+		"category": "Building, Infrastructure"
+	},
+	{
+		"name": "three-buildings-circle-window",
+		"category": "Building, Infrastructure"
+	},
+	{
+		"name": "three-circles-overlap",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "three-dots-connect",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "three-dots-connect-circle",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "three-dots-horizontal",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "three-dots-vertical",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "three-lines",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "three-squares",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "ticket",
+		"category": "Money"
+	},
+	{
+		"name": "ticket-percent-sign",
+		"category": "Money"
+	},
+	{
+		"name": "ticket-star",
+		"category": "Money"
+	},
+	{
+		"name": "tornado",
+		"category": "Weather"
+	},
+	{
+		"name": "tornado-small",
+		"category": "Weather"
+	},
+	{
+		"name": "tram",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "transmission",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "transmitter",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "transmitter-simple",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "trash-bin",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "trash-bin-ribbed",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "trash-bin-ribbed-round-handle",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "trash-bin-round-handle",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "treadmill",
+		"category": "Sports"
+	},
+	{
+		"name": "treadmill-round",
+		"category": "Sports"
+	},
+	{
+		"name": "trellis",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "triangle-exclamation-mark",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "trophy",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "tuning",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "tuning-horizontal",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "tuning-three",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "tuning-three-horizontal",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "turntable",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "turntable-music-note",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "turntable-play",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "u-s-b",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "ufo",
+		"category": "Astronomy"
+	},
+	{
+		"name": "ufo-boost",
+		"category": "Astronomy"
+	},
+	{
+		"name": "ufo-flying",
+		"category": "Astronomy"
+	},
+	{
+		"name": "umbrella",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "usb",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "user",
+		"category": "Users"
+	},
+	{
+		"name": "user-check",
+		"category": "Users"
+	},
+	{
+		"name": "user-check-round",
+		"category": "Users"
+	},
+	{
+		"name": "user-circle-slash",
+		"category": "Users"
+	},
+	{
+		"name": "user-circle-slash-round",
+		"category": "Users"
+	},
+	{
+		"name": "user-group",
+		"category": "Users"
+	},
+	{
+		"name": "user-hand-up",
+		"category": "Users"
+	},
+	{
+		"name": "user-hands",
+		"category": "Users"
+	},
+	{
+		"name": "user-heart",
+		"category": "Users"
+	},
+	{
+		"name": "user-heart-round",
+		"category": "Users"
+	},
+	{
+		"name": "user-i-d-card",
+		"category": "Users"
+	},
+	{
+		"name": "user-minus",
+		"category": "Users"
+	},
+	{
+		"name": "user-minus-round",
+		"category": "Users"
+	},
+	{
+		"name": "user-plus",
+		"category": "Users"
+	},
+	{
+		"name": "user-plus-round",
+		"category": "Users"
+	},
+	{
+		"name": "user-round",
+		"category": "Users"
+	},
+	{
+		"name": "user-speak",
+		"category": "Users"
+	},
+	{
+		"name": "user-speak-round",
+		"category": "Users"
+	},
+	{
+		"name": "user-x",
+		"category": "Users"
+	},
+	{
+		"name": "user-x-round",
+		"category": "Users"
+	},
+	{
+		"name": "users",
+		"category": "Users"
+	},
+	{
+		"name": "virus",
+		"category": "Medicine"
+	},
+	{
+		"name": "voicemail",
+		"category": "Call"
+	},
+	{
+		"name": "volleyball",
+		"category": "Sports"
+	},
+	{
+		"name": "volleyball-simple",
+		"category": "Sports"
+	},
+	{
+		"name": "volume-knob",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "walking",
+		"category": "Sports"
+	},
+	{
+		"name": "walking-round",
+		"category": "Sports"
+	},
+	{
+		"name": "wallet-line-horizontal",
+		"category": "Money"
+	},
+	{
+		"name": "wallet-line-vertical",
+		"category": "Money"
+	},
+	{
+		"name": "wallet-money",
+		"category": "Money"
+	},
+	{
+		"name": "washing-machine",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "washing-machine-simple",
+		"category": "Home, Furniture"
+	},
+	{
+		"name": "wave-sine-x",
+		"category": "Design, Tools"
+	},
+	{
+		"name": "weigher",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "wheel",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "wheel-angle",
+		"category": "Transport, Parts, Service"
+	},
+	{
+		"name": "whisk",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "widget",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "widget-circles-squares",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "widget-four-circles",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "widget-plus",
+		"category": "Settings, Fine Tuning"
+	},
+	{
+		"name": "wifi-router",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "wifi-router-round",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "wifi-router-simple",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "wind",
+		"category": "Weather"
+	},
+	{
+		"name": "window-frame",
+		"category": "Network, IT, Programming"
+	},
+	{
+		"name": "wine-glass",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "wine-glass-triangle",
+		"category": "Food, Kitchen"
+	},
+	{
+		"name": "winrar",
+		"category": "Essential, Ul"
+	},
+	{
+		"name": "wireless-charge",
+		"category": "Electronic, Devices"
+	},
+	{
+		"name": "wristwatch",
+		"category": "Time"
+	},
+	{
+		"name": "wristwatch-square",
+		"category": "Time"
+	},
+	{
+		"name": "x",
+		"category": "Essential, Ul"
+	}
+]
