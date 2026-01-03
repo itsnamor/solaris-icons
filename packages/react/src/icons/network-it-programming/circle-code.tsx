@@ -90,5 +90,7 @@ export function CircleCode({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleCode.displayName = "IconCircleCode";
+
 export const IconCircleCode = CircleCode;
 export const CircleCodeIcon = CircleCode;

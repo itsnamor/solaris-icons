@@ -103,5 +103,7 @@ export function CodeScan({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CodeScan.displayName = "IconCodeScan";
+
 export const IconCodeScan = CodeScan;
 export const CodeScanIcon = CodeScan;

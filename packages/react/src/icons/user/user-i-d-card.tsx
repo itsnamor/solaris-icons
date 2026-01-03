@@ -115,5 +115,7 @@ export function UserIDCard({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+UserIDCard.displayName = "IconUserIDCard";
+
 export const IconUserIDCard = UserIDCard;
 export const UserIDCardIcon = UserIDCard;

@@ -115,5 +115,7 @@ export function AirConditionerOn({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AirConditionerOn.displayName = "IconAirConditionerOn";
+
 export const IconAirConditionerOn = AirConditionerOn;
 export const AirConditionerOnIcon = AirConditionerOn;

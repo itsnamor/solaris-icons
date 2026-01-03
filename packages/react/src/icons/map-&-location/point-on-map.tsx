@@ -93,5 +93,7 @@ export function PointOnMap({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PointOnMap.displayName = "IconPointOnMap";
+
 export const IconPointOnMap = PointOnMap;
 export const PointOnMapIcon = PointOnMap;

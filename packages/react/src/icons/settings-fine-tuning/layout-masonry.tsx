@@ -94,5 +94,7 @@ export function LayoutMasonry({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LayoutMasonry.displayName = "IconLayoutMasonry";
+
 export const IconLayoutMasonry = LayoutMasonry;
 export const LayoutMasonryIcon = LayoutMasonry;

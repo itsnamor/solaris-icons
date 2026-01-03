@@ -73,5 +73,7 @@ export function BoxSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BoxSimple.displayName = "IconBoxSimple";
+
 export const IconBoxSimple = BoxSimple;
 export const BoxSimpleIcon = BoxSimple;

@@ -103,5 +103,7 @@ export function MagicStick({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MagicStick.displayName = "IconMagicStick";
+
 export const IconMagicStick = MagicStick;
 export const MagicStickIcon = MagicStick;

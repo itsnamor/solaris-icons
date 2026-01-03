@@ -93,5 +93,7 @@ export function BodyShape({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BodyShape.displayName = "IconBodyShape";
+
 export const IconBodyShape = BodyShape;
 export const BodyShapeIcon = BodyShape;

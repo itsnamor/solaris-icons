@@ -99,5 +99,7 @@ export function CirclePlug({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CirclePlug.displayName = "IconCirclePlug";
+
 export const IconCirclePlug = CirclePlug;
 export const CirclePlugIcon = CirclePlug;

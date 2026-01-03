@@ -80,5 +80,7 @@ export function OvenMitts({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+OvenMitts.displayName = "IconOvenMitts";
+
 export const IconOvenMitts = OvenMitts;
 export const OvenMittsIcon = OvenMitts;

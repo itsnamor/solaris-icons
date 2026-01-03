@@ -122,5 +122,7 @@ export function AcademicCapSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AcademicCapSimple.displayName = "IconAcademicCapSimple";
+
 export const IconAcademicCapSimple = AcademicCapSimple;
 export const AcademicCapSimpleIcon = AcademicCapSimple;

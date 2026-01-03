@@ -79,5 +79,7 @@ export function CircleSoundwave({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleSoundwave.displayName = "IconCircleSoundwave";
+
 export const IconCircleSoundwave = CircleSoundwave;
 export const CircleSoundwaveIcon = CircleSoundwave;

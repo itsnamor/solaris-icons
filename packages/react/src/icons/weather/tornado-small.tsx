@@ -86,5 +86,7 @@ export function TornadoSmall({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TornadoSmall.displayName = "IconTornadoSmall";
+
 export const IconTornadoSmall = TornadoSmall;
 export const TornadoSmallIcon = TornadoSmall;

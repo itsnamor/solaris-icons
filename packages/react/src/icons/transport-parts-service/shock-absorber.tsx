@@ -123,5 +123,7 @@ export function ShockAbsorber({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShockAbsorber.displayName = "IconShockAbsorber";
+
 export const IconShockAbsorber = ShockAbsorber;
 export const ShockAbsorberIcon = ShockAbsorber;

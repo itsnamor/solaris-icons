@@ -87,5 +87,7 @@ export function TrashBin({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TrashBin.displayName = "IconTrashBin";
+
 export const IconTrashBin = TrashBin;
 export const TrashBinIcon = TrashBin;

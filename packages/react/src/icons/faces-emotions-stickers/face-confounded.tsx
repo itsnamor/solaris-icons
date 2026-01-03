@@ -93,5 +93,7 @@ export function FaceConfounded({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FaceConfounded.displayName = "IconFaceConfounded";
+
 export const IconFaceConfounded = FaceConfounded;
 export const FaceConfoundedIcon = FaceConfounded;

@@ -70,5 +70,7 @@ export function FlagSwallowtail({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FlagSwallowtail.displayName = "IconFlagSwallowtail";
+
 export const IconFlagSwallowtail = FlagSwallowtail;
 export const FlagSwallowtailIcon = FlagSwallowtail;

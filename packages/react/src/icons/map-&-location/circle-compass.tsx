@@ -79,5 +79,7 @@ export function CircleCompass({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleCompass.displayName = "IconCircleCompass";
+
 export const IconCircleCompass = CircleCompass;
 export const CircleCompassIcon = CircleCompass;

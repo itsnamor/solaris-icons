@@ -80,5 +80,7 @@ export function MessageSoundwave({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MessageSoundwave.displayName = "IconMessageSoundwave";
+
 export const IconMessageSoundwave = MessageSoundwave;
 export const MessageSoundwaveIcon = MessageSoundwave;

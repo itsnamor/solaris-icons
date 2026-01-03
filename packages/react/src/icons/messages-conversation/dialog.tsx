@@ -94,5 +94,7 @@ export function Dialog({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Dialog.displayName = "IconDialog";
+
 export const IconDialog = Dialog;
 export const DialogIcon = Dialog;

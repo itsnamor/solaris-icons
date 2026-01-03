@@ -165,5 +165,7 @@ export function WashingMachine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WashingMachine.displayName = "IconWashingMachine";
+
 export const IconWashingMachine = WashingMachine;
 export const WashingMachineIcon = WashingMachine;

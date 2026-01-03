@@ -68,5 +68,7 @@ export function Football({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Football.displayName = "IconFootball";
+
 export const IconFootball = Football;
 export const FootballIcon = Football;

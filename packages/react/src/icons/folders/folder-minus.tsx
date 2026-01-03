@@ -76,5 +76,7 @@ export function FolderMinus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FolderMinus.displayName = "IconFolderMinus";
+
 export const IconFolderMinus = FolderMinus;
 export const FolderMinusIcon = FolderMinus;

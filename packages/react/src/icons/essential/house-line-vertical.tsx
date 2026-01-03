@@ -82,5 +82,7 @@ export function HouseLineVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HouseLineVertical.displayName = "IconHouseLineVertical";
+
 export const IconHouseLineVertical = HouseLineVertical;
 export const HouseLineVerticalIcon = HouseLineVertical;

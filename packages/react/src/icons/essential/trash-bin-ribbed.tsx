@@ -118,5 +118,7 @@ export function TrashBinRibbed({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TrashBinRibbed.displayName = "IconTrashBinRibbed";
+
 export const IconTrashBinRibbed = TrashBinRibbed;
 export const TrashBinRibbedIcon = TrashBinRibbed;

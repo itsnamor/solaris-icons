@@ -129,5 +129,7 @@ export function ImageCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ImageCheck.displayName = "IconImageCheck";
+
 export const IconImageCheck = ImageCheck;
 export const ImageCheckIcon = ImageCheck;

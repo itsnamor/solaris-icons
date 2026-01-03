@@ -81,5 +81,7 @@ export function PhoneMessage({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PhoneMessage.displayName = "IconPhoneMessage";
+
 export const IconPhoneMessage = PhoneMessage;
 export const PhoneMessageIcon = PhoneMessage;

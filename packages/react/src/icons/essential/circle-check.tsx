@@ -91,5 +91,7 @@ export function CircleCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleCheck.displayName = "IconCircleCheck";
+
 export const IconCircleCheck = CircleCheck;
 export const CircleCheckIcon = CircleCheck;

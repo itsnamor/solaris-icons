@@ -73,5 +73,7 @@ export function RoutingArrow({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RoutingArrow.displayName = "IconRoutingArrow";
+
 export const IconRoutingArrow = RoutingArrow;
 export const RoutingArrowIcon = RoutingArrow;

@@ -76,5 +76,7 @@ export function ServerSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ServerSimple.displayName = "IconServerSimple";
+
 export const IconServerSimple = ServerSimple;
 export const ServerSimpleIcon = ServerSimple;

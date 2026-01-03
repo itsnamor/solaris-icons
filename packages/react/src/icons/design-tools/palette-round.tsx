@@ -112,5 +112,7 @@ export function PaletteRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PaletteRound.displayName = "IconPaletteRound";
+
 export const IconPaletteRound = PaletteRound;
 export const PaletteRoundIcon = PaletteRound;

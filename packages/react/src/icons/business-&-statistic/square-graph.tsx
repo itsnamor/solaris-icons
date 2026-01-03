@@ -90,5 +90,7 @@ export function SquareGraph({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareGraph.displayName = "IconSquareGraph";
+
 export const IconSquareGraph = SquareGraph;
 export const SquareGraphIcon = SquareGraph;

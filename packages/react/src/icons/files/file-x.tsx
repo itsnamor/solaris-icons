@@ -112,5 +112,7 @@ export function FileX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FileX.displayName = "IconFileX";
+
 export const IconFileX = FileX;
 export const FileXIcon = FileX;

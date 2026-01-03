@@ -74,5 +74,7 @@ export function TestTube({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TestTube.displayName = "IconTestTube";
+
 export const IconTestTube = TestTube;
 export const TestTubeIcon = TestTube;

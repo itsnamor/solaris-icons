@@ -126,5 +126,7 @@ export function SmartphoneRotateAngle({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartphoneRotateAngle.displayName = "IconSmartphoneRotateAngle";
+
 export const IconSmartphoneRotateAngle = SmartphoneRotateAngle;
 export const SmartphoneRotateAngleIcon = SmartphoneRotateAngle;

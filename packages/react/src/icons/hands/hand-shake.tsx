@@ -84,5 +84,7 @@ export function HandShake({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HandShake.displayName = "IconHandShake";
+
 export const IconHandShake = HandShake;
 export const HandShakeIcon = HandShake;

@@ -115,5 +115,7 @@ export function CloudSunBeam({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CloudSunBeam.displayName = "IconCloudSunBeam";
+
 export const IconCloudSunBeam = CloudSunBeam;
 export const CloudSunBeamIcon = CloudSunBeam;

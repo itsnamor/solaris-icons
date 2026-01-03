@@ -129,5 +129,7 @@ export function SquareTuning({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareTuning.displayName = "IconSquareTuning";
+
 export const IconSquareTuning = SquareTuning;
 export const SquareTuningIcon = SquareTuning;

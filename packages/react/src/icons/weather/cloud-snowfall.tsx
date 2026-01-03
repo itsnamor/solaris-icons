@@ -108,5 +108,7 @@ export function CloudSnowfall({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CloudSnowfall.displayName = "IconCloudSnowfall";
+
 export const IconCloudSnowfall = CloudSnowfall;
 export const CloudSnowfallIcon = CloudSnowfall;

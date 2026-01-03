@@ -105,5 +105,7 @@ export function ClipboardRemove({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ClipboardRemove.displayName = "IconClipboardRemove";
+
 export const IconClipboardRemove = ClipboardRemove;
 export const ClipboardRemoveIcon = ClipboardRemove;

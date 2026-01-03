@@ -74,5 +74,7 @@ export function WaveSineX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WaveSineX.displayName = "IconWaveSineX";
+
 export const IconWaveSineX = WaveSineX;
 export const WaveSineXIcon = WaveSineX;

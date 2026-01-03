@@ -82,5 +82,7 @@ export function HousePlusAngle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HousePlusAngle.displayName = "IconHousePlusAngle";
+
 export const IconHousePlusAngle = HousePlusAngle;
 export const HousePlusAngleIcon = HousePlusAngle;

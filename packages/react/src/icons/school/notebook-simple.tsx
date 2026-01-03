@@ -74,5 +74,7 @@ export function NotebookSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+NotebookSimple.displayName = "IconNotebookSimple";
+
 export const IconNotebookSimple = NotebookSimple;
 export const NotebookSimpleIcon = NotebookSimple;

@@ -70,5 +70,7 @@ export function Like({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Like.displayName = "IconLike";
+
 export const IconLike = Like;
 export const LikeIcon = Like;

@@ -68,5 +68,7 @@ export function PhoneHandupRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PhoneHandupRound.displayName = "IconPhoneHandupRound";
+
 export const IconPhoneHandupRound = PhoneHandupRound;
 export const PhoneHandupRoundIcon = PhoneHandupRound;

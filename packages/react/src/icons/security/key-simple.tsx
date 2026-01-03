@@ -87,5 +87,7 @@ export function KeySimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+KeySimple.displayName = "IconKeySimple";
+
 export const IconKeySimple = KeySimple;
 export const KeySimpleIcon = KeySimple;

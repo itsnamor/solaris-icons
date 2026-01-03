@@ -129,5 +129,7 @@ export function CpuBolt({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CpuBolt.displayName = "IconCpuBolt";
+
 export const IconCpuBolt = CpuBolt;
 export const CpuBoltIcon = CpuBolt;

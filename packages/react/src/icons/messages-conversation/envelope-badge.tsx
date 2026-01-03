@@ -96,5 +96,7 @@ export function EnvelopeBadge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+EnvelopeBadge.displayName = "IconEnvelopeBadge";
+
 export const IconEnvelopeBadge = EnvelopeBadge;
 export const EnvelopeBadgeIcon = EnvelopeBadge;

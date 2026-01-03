@@ -76,5 +76,7 @@ export function StarStick({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StarStick.displayName = "IconStarStick";
+
 export const IconStarStick = StarStick;
 export const StarStickIcon = StarStick;

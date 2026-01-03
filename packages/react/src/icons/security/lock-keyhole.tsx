@@ -96,5 +96,7 @@ export function LockKeyhole({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LockKeyhole.displayName = "IconLockKeyhole";
+
 export const IconLockKeyhole = LockKeyhole;
 export const LockKeyholeIcon = LockKeyhole;

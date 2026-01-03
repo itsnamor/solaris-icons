@@ -84,5 +84,7 @@ export function SsdRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SsdRound.displayName = "IconSsdRound";
+
 export const IconSsdRound = SsdRound;
 export const SsdRoundIcon = SsdRound;

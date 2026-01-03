@@ -87,5 +87,7 @@ export function HouseLineVerticalAngle({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HouseLineVerticalAngle.displayName = "IconHouseLineVerticalAngle";
+
 export const IconHouseLineVerticalAngle = HouseLineVerticalAngle;
 export const HouseLineVerticalAngleIcon = HouseLineVerticalAngle;

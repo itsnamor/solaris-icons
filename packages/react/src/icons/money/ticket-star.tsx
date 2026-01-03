@@ -81,5 +81,7 @@ export function TicketStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TicketStar.displayName = "IconTicketStar";
+
 export const IconTicketStar = TicketStar;
 export const TicketStarIcon = TicketStar;

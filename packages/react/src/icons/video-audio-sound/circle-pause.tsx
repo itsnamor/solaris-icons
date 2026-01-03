@@ -79,5 +79,7 @@ export function CirclePause({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CirclePause.displayName = "IconCirclePause";
+
 export const IconCirclePause = CirclePause;
 export const CirclePauseIcon = CirclePause;

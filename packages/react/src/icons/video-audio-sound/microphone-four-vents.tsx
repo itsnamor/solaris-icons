@@ -102,5 +102,7 @@ export function MicrophoneFourVents({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MicrophoneFourVents.displayName = "IconMicrophoneFourVents";
+
 export const IconMicrophoneFourVents = MicrophoneFourVents;
 export const MicrophoneFourVentsIcon = MicrophoneFourVents;

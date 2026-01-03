@@ -79,5 +79,7 @@ export function SettingSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SettingSimple.displayName = "IconSettingSimple";
+
 export const IconSettingSimple = SettingSimple;
 export const SettingSimpleIcon = SettingSimple;

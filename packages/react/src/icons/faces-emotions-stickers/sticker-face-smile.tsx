@@ -122,5 +122,7 @@ export function StickerFaceSmile({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StickerFaceSmile.displayName = "IconStickerFaceSmile";
+
 export const IconStickerFaceSmile = StickerFaceSmile;
 export const StickerFaceSmileIcon = StickerFaceSmile;

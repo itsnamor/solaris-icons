@@ -114,5 +114,7 @@ export function ClapperboardPencil({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ClapperboardPencil.displayName = "IconClapperboardPencil";
+
 export const IconClapperboardPencil = ClapperboardPencil;
 export const ClapperboardPencilIcon = ClapperboardPencil;

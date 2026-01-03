@@ -113,5 +113,7 @@ export function CartCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CartCheck.displayName = "IconCartCheck";
+
 export const IconCartCheck = CartCheck;
 export const CartCheckIcon = CartCheck;

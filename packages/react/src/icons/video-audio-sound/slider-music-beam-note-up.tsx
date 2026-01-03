@@ -107,5 +107,7 @@ export function SliderMusicBeamNoteUp({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SliderMusicBeamNoteUp.displayName = "IconSliderMusicBeamNoteUp";
+
 export const IconSliderMusicBeamNoteUp = SliderMusicBeamNoteUp;
 export const SliderMusicBeamNoteUpIcon = SliderMusicBeamNoteUp;

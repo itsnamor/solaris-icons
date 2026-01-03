@@ -96,5 +96,7 @@ export function BillListLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BillListLine.displayName = "IconBillListLine";
+
 export const IconBillListLine = BillListLine;
 export const BillListLineIcon = BillListLine;

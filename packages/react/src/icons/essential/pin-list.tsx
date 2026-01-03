@@ -103,5 +103,7 @@ export function PinList({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PinList.displayName = "IconPinList";
+
 export const IconPinList = PinList;
 export const PinListIcon = PinList;

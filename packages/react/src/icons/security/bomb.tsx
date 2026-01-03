@@ -94,5 +94,7 @@ export function Bomb({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bomb.displayName = "IconBomb";
+
 export const IconBomb = Bomb;
 export const BombIcon = Bomb;

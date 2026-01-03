@@ -122,5 +122,7 @@ export function InboxArrowUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+InboxArrowUp.displayName = "IconInboxArrowUp";
+
 export const IconInboxArrowUp = InboxArrowUp;
 export const InboxArrowUpIcon = InboxArrowUp;

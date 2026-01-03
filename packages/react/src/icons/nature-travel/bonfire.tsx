@@ -94,5 +94,7 @@ export function Bonfire({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bonfire.displayName = "IconBonfire";
+
 export const IconBonfire = Bonfire;
 export const BonfireIcon = Bonfire;

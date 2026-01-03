@@ -109,5 +109,7 @@ export function SmartphoneVibration({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartphoneVibration.displayName = "IconSmartphoneVibration";
+
 export const IconSmartphoneVibration = SmartphoneVibration;
 export const SmartphoneVibrationIcon = SmartphoneVibration;

@@ -100,5 +100,7 @@ export function ListChevronUpSimple({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListChevronUpSimple.displayName = "IconListChevronUpSimple";
+
 export const IconListChevronUpSimple = ListChevronUpSimple;
 export const ListChevronUpSimpleIcon = ListChevronUpSimple;

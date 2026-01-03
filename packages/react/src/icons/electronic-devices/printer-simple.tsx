@@ -109,5 +109,7 @@ export function PrinterSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PrinterSimple.displayName = "IconPrinterSimple";
+
 export const IconPrinterSimple = PrinterSimple;
 export const PrinterSimpleIcon = PrinterSimple;

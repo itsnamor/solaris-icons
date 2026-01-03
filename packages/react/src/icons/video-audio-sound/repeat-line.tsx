@@ -92,5 +92,7 @@ export function RepeatLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RepeatLine.displayName = "IconRepeatLine";
+
 export const IconRepeatLine = RepeatLine;
 export const RepeatLineIcon = RepeatLine;

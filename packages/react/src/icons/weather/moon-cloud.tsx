@@ -84,5 +84,7 @@ export function MoonCloud({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MoonCloud.displayName = "IconMoonCloud";
+
 export const IconMoonCloud = MoonCloud;
 export const MoonCloudIcon = MoonCloud;

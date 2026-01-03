@@ -136,5 +136,7 @@ export function ThreeBuildingsCircleWindow({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ThreeBuildingsCircleWindow.displayName = "IconThreeBuildingsCircleWindow";
+
 export const IconThreeBuildingsCircleWindow = ThreeBuildingsCircleWindow;
 export const ThreeBuildingsCircleWindowIcon = ThreeBuildingsCircleWindow;

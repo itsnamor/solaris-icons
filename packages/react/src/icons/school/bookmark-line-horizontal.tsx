@@ -111,5 +111,7 @@ export function BookmarkLineHorizontal({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BookmarkLineHorizontal.displayName = "IconBookmarkLineHorizontal";
+
 export const IconBookmarkLineHorizontal = BookmarkLineHorizontal;
 export const BookmarkLineHorizontalIcon = BookmarkLineHorizontal;

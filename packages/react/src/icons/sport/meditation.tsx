@@ -112,5 +112,7 @@ export function Meditation({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Meditation.displayName = "IconMeditation";
+
 export const IconMeditation = Meditation;
 export const MeditationIcon = Meditation;

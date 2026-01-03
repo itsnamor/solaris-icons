@@ -92,5 +92,7 @@ export function Telescope({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Telescope.displayName = "IconTelescope";
+
 export const IconTelescope = Telescope;
 export const TelescopeIcon = Telescope;

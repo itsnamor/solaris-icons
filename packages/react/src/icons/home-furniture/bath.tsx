@@ -107,5 +107,7 @@ export function Bath({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bath.displayName = "IconBath";
+
 export const IconBath = Bath;
 export const BathIcon = Bath;

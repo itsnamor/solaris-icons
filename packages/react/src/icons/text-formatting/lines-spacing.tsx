@@ -70,5 +70,7 @@ export function LinesSpacing({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LinesSpacing.displayName = "IconLinesSpacing";
+
 export const IconLinesSpacing = LinesSpacing;
 export const LinesSpacingIcon = LinesSpacing;

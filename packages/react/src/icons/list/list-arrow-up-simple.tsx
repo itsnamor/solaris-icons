@@ -97,5 +97,7 @@ export function ListArrowUpSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListArrowUpSimple.displayName = "IconListArrowUpSimple";
+
 export const IconListArrowUpSimple = ListArrowUpSimple;
 export const ListArrowUpSimpleIcon = ListArrowUpSimple;

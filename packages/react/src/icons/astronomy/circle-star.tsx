@@ -79,5 +79,7 @@ export function CircleStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleStar.displayName = "IconCircleStar";
+
 export const IconCircleStar = CircleStar;
 export const CircleStarIcon = CircleStar;

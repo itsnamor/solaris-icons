@@ -130,5 +130,7 @@ export function CassetteSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CassetteSimple.displayName = "IconCassetteSimple";
+
 export const IconCassetteSimple = CassetteSimple;
 export const CassetteSimpleIcon = CassetteSimple;

@@ -98,5 +98,7 @@ export function ChefHatHeart({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChefHatHeart.displayName = "IconChefHatHeart";
+
 export const IconChefHatHeart = ChefHatHeart;
 export const ChefHatHeartIcon = ChefHatHeart;

@@ -86,5 +86,7 @@ export function MapPinMagnifier({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MapPinMagnifier.displayName = "IconMapPinMagnifier";
+
 export const IconMapPinMagnifier = MapPinMagnifier;
 export const MapPinMagnifierIcon = MapPinMagnifier;

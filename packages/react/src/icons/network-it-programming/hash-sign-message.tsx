@@ -95,5 +95,7 @@ export function HashSignMessage({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HashSignMessage.displayName = "IconHashSignMessage";
+
 export const IconHashSignMessage = HashSignMessage;
 export const HashSignMessageIcon = HashSignMessage;

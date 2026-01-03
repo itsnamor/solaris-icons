@@ -90,5 +90,7 @@ export function Delivery({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Delivery.displayName = "IconDelivery";
+
 export const IconDelivery = Delivery;
 export const DeliveryIcon = Delivery;

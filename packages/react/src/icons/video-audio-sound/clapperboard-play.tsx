@@ -100,5 +100,7 @@ export function ClapperboardPlay({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ClapperboardPlay.displayName = "IconClapperboardPlay";
+
 export const IconClapperboardPlay = ClapperboardPlay;
 export const ClapperboardPlayIcon = ClapperboardPlay;

@@ -110,5 +110,7 @@ export function Walking({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Walking.displayName = "IconWalking";
+
 export const IconWalking = Walking;
 export const WalkingIcon = Walking;

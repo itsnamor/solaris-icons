@@ -87,5 +87,7 @@ export function ListLinesLongToShort({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListLinesLongToShort.displayName = "IconListLinesLongToShort";
+
 export const IconListLinesLongToShort = ListLinesLongToShort;
 export const ListLinesLongToShortIcon = ListLinesLongToShort;

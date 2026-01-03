@@ -112,5 +112,7 @@ export function FaceScan({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FaceScan.displayName = "IconFaceScan";
+
 export const IconFaceScan = FaceScan;
 export const FaceScanIcon = FaceScan;

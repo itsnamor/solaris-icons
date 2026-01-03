@@ -84,5 +84,7 @@ export function HangerCloth({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HangerCloth.displayName = "IconHangerCloth";
+
 export const IconHangerCloth = HangerCloth;
 export const HangerClothIcon = HangerCloth;

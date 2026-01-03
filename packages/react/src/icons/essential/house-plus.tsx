@@ -82,5 +82,7 @@ export function HousePlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HousePlus.displayName = "IconHousePlus";
+
 export const IconHousePlus = HousePlus;
 export const HousePlusIcon = HousePlus;

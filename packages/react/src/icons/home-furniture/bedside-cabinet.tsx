@@ -111,5 +111,7 @@ export function BedsideCabinet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BedsideCabinet.displayName = "IconBedsideCabinet";
+
 export const IconBedsideCabinet = BedsideCabinet;
 export const BedsideCabinetIcon = BedsideCabinet;

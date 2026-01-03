@@ -112,5 +112,7 @@ export function FolderWithFile({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FolderWithFile.displayName = "IconFolderWithFile";
+
 export const IconFolderWithFile = FolderWithFile;
 export const FolderWithFileIcon = FolderWithFile;

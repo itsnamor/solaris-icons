@@ -96,5 +96,7 @@ export function SquareExclamationMark({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareExclamationMark.displayName = "IconSquareExclamationMark";
+
 export const IconSquareExclamationMark = SquareExclamationMark;
 export const SquareExclamationMarkIcon = SquareExclamationMark;

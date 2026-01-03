@@ -78,5 +78,7 @@ export function FilmCutChevron({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FilmCutChevron.displayName = "IconFilmCutChevron";
+
 export const IconFilmCutChevron = FilmCutChevron;
 export const FilmCutChevronIcon = FilmCutChevron;

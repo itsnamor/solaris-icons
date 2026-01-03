@@ -118,5 +118,7 @@ export function InboxArrowDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+InboxArrowDown.displayName = "IconInboxArrowDown";
+
 export const IconInboxArrowDown = InboxArrowDown;
 export const InboxArrowDownIcon = InboxArrowDown;

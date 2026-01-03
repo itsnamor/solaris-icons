@@ -124,5 +124,7 @@ export function MagnetWave({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MagnetWave.displayName = "IconMagnetWave";
+
 export const IconMagnetWave = MagnetWave;
 export const MagnetWaveIcon = MagnetWave;

@@ -70,5 +70,7 @@ export function Flag({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Flag.displayName = "IconFlag";
+
 export const IconFlag = Flag;
 export const FlagIcon = Flag;

@@ -97,5 +97,7 @@ export function ArrowsForwardLeft({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArrowsForwardLeft.displayName = "IconArrowsForwardLeft";
+
 export const IconArrowsForwardLeft = ArrowsForwardLeft;
 export const ArrowsForwardLeftIcon = ArrowsForwardLeft;

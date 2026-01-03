@@ -119,5 +119,7 @@ export function AlbumMusicQuaver({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AlbumMusicQuaver.displayName = "IconAlbumMusicQuaver";
+
 export const IconAlbumMusicQuaver = AlbumMusicQuaver;
 export const AlbumMusicQuaverIcon = AlbumMusicQuaver;

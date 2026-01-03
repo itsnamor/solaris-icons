@@ -119,5 +119,7 @@ export function Ufo({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Ufo.displayName = "IconUfo";
+
 export const IconUfo = Ufo;
 export const UfoIcon = Ufo;

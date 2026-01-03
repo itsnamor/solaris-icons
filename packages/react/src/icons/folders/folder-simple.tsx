@@ -76,5 +76,7 @@ export function FolderSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FolderSimple.displayName = "IconFolderSimple";
+
 export const IconFolderSimple = FolderSimple;
 export const FolderSimpleIcon = FolderSimple;

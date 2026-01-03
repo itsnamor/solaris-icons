@@ -98,5 +98,7 @@ export function Cart({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Cart.displayName = "IconCart";
+
 export const IconCart = Cart;
 export const CartIcon = Cart;

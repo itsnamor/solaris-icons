@@ -87,5 +87,7 @@ export function SmartSpeakerRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartSpeakerRound.displayName = "IconSmartSpeakerRound";
+
 export const IconSmartSpeakerRound = SmartSpeakerRound;
 export const SmartSpeakerRoundIcon = SmartSpeakerRound;

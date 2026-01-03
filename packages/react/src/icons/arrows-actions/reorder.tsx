@@ -114,5 +114,7 @@ export function Reorder({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Reorder.displayName = "IconReorder";
+
 export const IconReorder = Reorder;
 export const ReorderIcon = Reorder;

@@ -86,5 +86,7 @@ export function ChartXyDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChartXyDown.displayName = "IconChartXyDown";
+
 export const IconChartXyDown = ChartXyDown;
 export const ChartXyDownIcon = ChartXyDown;

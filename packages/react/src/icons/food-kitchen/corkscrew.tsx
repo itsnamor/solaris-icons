@@ -90,5 +90,7 @@ export function Corkscrew({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Corkscrew.displayName = "IconCorkscrew";
+
 export const IconCorkscrew = Corkscrew;
 export const CorkscrewIcon = Corkscrew;

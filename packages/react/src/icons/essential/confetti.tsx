@@ -141,5 +141,7 @@ export function Confetti({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Confetti.displayName = "IconConfetti";
+
 export const IconConfetti = Confetti;
 export const ConfettiIcon = Confetti;

@@ -92,5 +92,7 @@ export function UserHeartRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+UserHeartRound.displayName = "IconUserHeartRound";
+
 export const IconUserHeartRound = UserHeartRound;
 export const UserHeartRoundIcon = UserHeartRound;

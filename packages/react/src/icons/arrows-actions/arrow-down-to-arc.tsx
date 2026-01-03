@@ -97,5 +97,7 @@ export function ArrowDownToArc({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArrowDownToArc.displayName = "IconArrowDownToArc";
+
 export const IconArrowDownToArc = ArrowDownToArc;
 export const ArrowDownToArcIcon = ArrowDownToArc;

@@ -98,5 +98,7 @@ export function SquareArrowULeftRound({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareArrowULeftRound.displayName = "IconSquareArrowULeftRound";
+
 export const IconSquareArrowULeftRound = SquareArrowULeftRound;
 export const SquareArrowULeftRoundIcon = SquareArrowULeftRound;

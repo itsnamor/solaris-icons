@@ -88,5 +88,7 @@ export function Planet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Planet.displayName = "IconPlanet";
+
 export const IconPlanet = Planet;
 export const PlanetIcon = Planet;

@@ -143,5 +143,7 @@ export function FileSmile({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FileSmile.displayName = "IconFileSmile";
+
 export const IconFileSmile = FileSmile;
 export const FileSmileIcon = FileSmile;

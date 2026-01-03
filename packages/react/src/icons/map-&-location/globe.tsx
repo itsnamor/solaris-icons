@@ -121,5 +121,7 @@ export function Globe({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Globe.displayName = "IconGlobe";
+
 export const IconGlobe = Globe;
 export const GlobeIcon = Globe;

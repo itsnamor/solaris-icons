@@ -84,5 +84,7 @@ export function MessageDotsRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MessageDotsRound.displayName = "IconMessageDotsRound";
+
 export const IconMessageDotsRound = MessageDotsRound;
 export const MessageDotsRoundIcon = MessageDotsRound;

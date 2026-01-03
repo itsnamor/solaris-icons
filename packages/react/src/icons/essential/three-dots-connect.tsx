@@ -81,5 +81,7 @@ export function ThreeDotsConnect({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ThreeDotsConnect.displayName = "IconThreeDotsConnect";
+
 export const IconThreeDotsConnect = ThreeDotsConnect;
 export const ThreeDotsConnectIcon = ThreeDotsConnect;

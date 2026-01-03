@@ -75,5 +75,7 @@ export function ArrowBendRightUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArrowBendRightUp.displayName = "IconArrowBendRightUp";
+
 export const IconArrowBendRightUp = ArrowBendRightUp;
 export const ArrowBendRightUpIcon = ArrowBendRightUp;

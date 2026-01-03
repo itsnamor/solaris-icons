@@ -92,5 +92,7 @@ export function CircleDollarSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleDollarSign.displayName = "IconCircleDollarSign";
+
 export const IconCircleDollarSign = CircleDollarSign;
 export const CircleDollarSignIcon = CircleDollarSign;

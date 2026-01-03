@@ -99,5 +99,7 @@ export function SquareChecklist({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareChecklist.displayName = "IconSquareChecklist";
+
 export const IconSquareChecklist = SquareChecklist;
 export const SquareChecklistIcon = SquareChecklist;

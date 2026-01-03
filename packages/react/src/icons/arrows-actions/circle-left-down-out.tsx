@@ -108,5 +108,7 @@ export function CircleLeftDownOut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleLeftDownOut.displayName = "IconCircleLeftDownOut";
+
 export const IconCircleLeftDownOut = CircleLeftDownOut;
 export const CircleLeftDownOutIcon = CircleLeftDownOut;

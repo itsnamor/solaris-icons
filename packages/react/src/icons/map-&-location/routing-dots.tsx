@@ -71,5 +71,7 @@ export function RoutingDots({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RoutingDots.displayName = "IconRoutingDots";
+
 export const IconRoutingDots = RoutingDots;
 export const RoutingDotsIcon = RoutingDots;

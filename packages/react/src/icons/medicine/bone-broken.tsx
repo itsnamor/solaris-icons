@@ -99,5 +99,7 @@ export function BoneBroken({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BoneBroken.displayName = "IconBoneBroken";
+
 export const IconBoneBroken = BoneBroken;
 export const BoneBrokenIcon = BoneBroken;

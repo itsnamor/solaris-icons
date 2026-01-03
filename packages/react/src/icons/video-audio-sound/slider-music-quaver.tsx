@@ -142,5 +142,7 @@ export function SliderMusicQuaver({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SliderMusicQuaver.displayName = "IconSliderMusicQuaver";
+
 export const IconSliderMusicQuaver = SliderMusicQuaver;
 export const SliderMusicQuaverIcon = SliderMusicQuaver;

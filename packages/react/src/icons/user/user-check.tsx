@@ -97,5 +97,7 @@ export function UserCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+UserCheck.displayName = "IconUserCheck";
+
 export const IconUserCheck = UserCheck;
 export const UserCheckIcon = UserCheck;

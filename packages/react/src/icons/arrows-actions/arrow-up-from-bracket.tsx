@@ -89,5 +89,7 @@ export function ArrowUpFromBracket({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArrowUpFromBracket.displayName = "IconArrowUpFromBracket";
+
 export const IconArrowUpFromBracket = ArrowUpFromBracket;
 export const ArrowUpFromBracketIcon = ArrowUpFromBracket;

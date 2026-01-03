@@ -101,5 +101,7 @@ export function SmartphoneRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartphoneRotate.displayName = "IconSmartphoneRotate";
+
 export const IconSmartphoneRotate = SmartphoneRotate;
 export const SmartphoneRotateIcon = SmartphoneRotate;

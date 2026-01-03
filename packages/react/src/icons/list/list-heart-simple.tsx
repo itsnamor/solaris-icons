@@ -94,5 +94,7 @@ export function ListHeartSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListHeartSimple.displayName = "IconListHeartSimple";
+
 export const IconListHeartSimple = ListHeartSimple;
 export const ListHeartSimpleIcon = ListHeartSimple;

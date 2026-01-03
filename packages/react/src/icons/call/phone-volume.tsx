@@ -104,5 +104,7 @@ export function PhoneVolume({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PhoneVolume.displayName = "IconPhoneVolume";
+
 export const IconPhoneVolume = PhoneVolume;
 export const PhoneVolumeIcon = PhoneVolume;

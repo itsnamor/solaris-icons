@@ -99,5 +99,7 @@ export function ClipboardHeart({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ClipboardHeart.displayName = "IconClipboardHeart";
+
 export const IconClipboardHeart = ClipboardHeart;
 export const ClipboardHeartIcon = ClipboardHeart;

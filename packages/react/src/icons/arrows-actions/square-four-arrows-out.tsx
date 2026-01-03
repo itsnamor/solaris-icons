@@ -96,5 +96,7 @@ export function SquareFourArrowsOut({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareFourArrowsOut.displayName = "IconSquareFourArrowsOut";
+
 export const IconSquareFourArrowsOut = SquareFourArrowsOut;
 export const SquareFourArrowsOutIcon = SquareFourArrowsOut;

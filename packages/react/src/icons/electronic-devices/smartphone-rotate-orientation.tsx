@@ -140,5 +140,7 @@ export function SmartphoneRotateOrientation({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartphoneRotateOrientation.displayName = "IconSmartphoneRotateOrientation";
+
 export const IconSmartphoneRotateOrientation = SmartphoneRotateOrientation;
 export const SmartphoneRotateOrientationIcon = SmartphoneRotateOrientation;

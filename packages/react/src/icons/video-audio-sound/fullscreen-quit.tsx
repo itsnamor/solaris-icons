@@ -85,5 +85,7 @@ export function FullscreenQuit({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FullscreenQuit.displayName = "IconFullscreenQuit";
+
 export const IconFullscreenQuit = FullscreenQuit;
 export const FullscreenQuitIcon = FullscreenQuit;

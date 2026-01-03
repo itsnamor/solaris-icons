@@ -96,5 +96,7 @@ export function ListClock({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListClock.displayName = "IconListClock";
+
 export const IconListClock = ListClock;
 export const ListClockIcon = ListClock;

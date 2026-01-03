@@ -109,5 +109,7 @@ export function TuningThreeHorizontal({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TuningThreeHorizontal.displayName = "IconTuningThreeHorizontal";
+
 export const IconTuningThreeHorizontal = TuningThreeHorizontal;
 export const TuningThreeHorizontalIcon = TuningThreeHorizontal;

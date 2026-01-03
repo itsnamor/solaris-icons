@@ -92,5 +92,7 @@ export function SmartphoneFingerprint({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartphoneFingerprint.displayName = "IconSmartphoneFingerprint";
+
 export const IconSmartphoneFingerprint = SmartphoneFingerprint;
 export const SmartphoneFingerprintIcon = SmartphoneFingerprint;

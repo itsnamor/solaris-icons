@@ -69,5 +69,7 @@ export function LetterB({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LetterB.displayName = "IconLetterB";
+
 export const IconLetterB = LetterB;
 export const LetterBIcon = LetterB;

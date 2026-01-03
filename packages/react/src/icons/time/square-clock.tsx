@@ -89,5 +89,7 @@ export function SquareClock({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareClock.displayName = "IconSquareClock";
+
 export const IconSquareClock = SquareClock;
 export const SquareClockIcon = SquareClock;

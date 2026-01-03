@@ -84,5 +84,7 @@ export function SquareFullscreen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareFullscreen.displayName = "IconSquareFullscreen";
+
 export const IconSquareFullscreen = SquareFullscreen;
 export const SquareFullscreenIcon = SquareFullscreen;

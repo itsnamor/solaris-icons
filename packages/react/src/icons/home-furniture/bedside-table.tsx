@@ -120,5 +120,7 @@ export function BedsideTable({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BedsideTable.displayName = "IconBedsideTable";
+
 export const IconBedsideTable = BedsideTable;
 export const BedsideTableIcon = BedsideTable;

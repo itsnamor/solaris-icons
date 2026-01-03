@@ -107,5 +107,7 @@ export function ArchiveCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArchiveCheck.displayName = "IconArchiveCheck";
+
 export const IconArchiveCheck = ArchiveCheck;
 export const ArchiveCheckIcon = ArchiveCheck;

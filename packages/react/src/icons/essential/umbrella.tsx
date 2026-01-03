@@ -81,5 +81,7 @@ export function Umbrella({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Umbrella.displayName = "IconUmbrella";
+
 export const IconUmbrella = Umbrella;
 export const UmbrellaIcon = Umbrella;

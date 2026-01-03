@@ -146,5 +146,7 @@ export function Hospital({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Hospital.displayName = "IconHospital";
+
 export const IconHospital = Hospital;
 export const HospitalIcon = Hospital;

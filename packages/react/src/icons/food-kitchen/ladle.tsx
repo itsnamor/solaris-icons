@@ -88,5 +88,7 @@ export function Ladle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Ladle.displayName = "IconLadle";
+
 export const IconLadle = Ladle;
 export const LadleIcon = Ladle;

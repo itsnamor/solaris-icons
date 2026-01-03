@@ -102,5 +102,7 @@ export function TicketPercentSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TicketPercentSign.displayName = "IconTicketPercentSign";
+
 export const IconTicketPercentSign = TicketPercentSign;
 export const TicketPercentSignIcon = TicketPercentSign;

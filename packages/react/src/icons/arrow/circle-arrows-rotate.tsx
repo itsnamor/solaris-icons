@@ -81,5 +81,7 @@ export function CircleArrowsRotate({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleArrowsRotate.displayName = "IconCircleArrowsRotate";
+
 export const IconCircleArrowsRotate = CircleArrowsRotate;
 export const CircleArrowsRotateIcon = CircleArrowsRotate;

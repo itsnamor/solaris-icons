@@ -111,5 +111,7 @@ export function BookmarkOpen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BookmarkOpen.displayName = "IconBookmarkOpen";
+
 export const IconBookmarkOpen = BookmarkOpen;
 export const BookmarkOpenIcon = BookmarkOpen;

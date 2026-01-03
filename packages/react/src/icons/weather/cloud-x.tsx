@@ -78,5 +78,7 @@ export function CloudX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CloudX.displayName = "IconCloudX";
+
 export const IconCloudX = CloudX;
 export const CloudXIcon = CloudX;

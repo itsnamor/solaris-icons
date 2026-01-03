@@ -96,5 +96,7 @@ export function Atom({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Atom.displayName = "IconAtom";
+
 export const IconAtom = Atom;
 export const AtomIcon = Atom;

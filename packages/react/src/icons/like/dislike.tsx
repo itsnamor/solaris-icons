@@ -70,5 +70,7 @@ export function Dislike({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Dislike.displayName = "IconDislike";
+
 export const IconDislike = Dislike;
 export const DislikeIcon = Dislike;

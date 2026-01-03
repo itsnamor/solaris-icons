@@ -100,5 +100,7 @@ export function FaceMask({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FaceMask.displayName = "IconFaceMask";
+
 export const IconFaceMask = FaceMask;
 export const FaceMaskIcon = FaceMask;

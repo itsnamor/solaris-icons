@@ -129,5 +129,7 @@ export function DiplomaVerified({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DiplomaVerified.displayName = "IconDiplomaVerified";
+
 export const IconDiplomaVerified = DiplomaVerified;
 export const DiplomaVerifiedIcon = DiplomaVerified;

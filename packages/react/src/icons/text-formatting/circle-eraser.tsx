@@ -86,5 +86,7 @@ export function CircleEraser({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleEraser.displayName = "IconCircleEraser";
+
 export const IconCircleEraser = CircleEraser;
 export const CircleEraserIcon = CircleEraser;

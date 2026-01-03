@@ -106,5 +106,7 @@ export function CircleArrowsUpDown({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleArrowsUpDown.displayName = "IconCircleArrowsUpDown";
+
 export const IconCircleArrowsUpDown = CircleArrowsUpDown;
 export const CircleArrowsUpDownIcon = CircleArrowsUpDown;

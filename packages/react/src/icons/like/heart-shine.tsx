@@ -109,5 +109,7 @@ export function HeartShine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HeartShine.displayName = "IconHeartShine";
+
 export const IconHeartShine = HeartShine;
 export const HeartShineIcon = HeartShine;

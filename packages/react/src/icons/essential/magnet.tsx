@@ -72,5 +72,7 @@ export function Magnet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Magnet.displayName = "IconMagnet";
+
 export const IconMagnet = Magnet;
 export const MagnetIcon = Magnet;

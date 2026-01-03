@@ -106,5 +106,7 @@ export function Figma({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Figma.displayName = "IconFigma";
+
 export const IconFigma = Figma;
 export const FigmaIcon = Figma;

@@ -82,5 +82,7 @@ export function MagnifierRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MagnifierRound.displayName = "IconMagnifierRound";
+
 export const IconMagnifierRound = MagnifierRound;
 export const MagnifierRoundIcon = MagnifierRound;

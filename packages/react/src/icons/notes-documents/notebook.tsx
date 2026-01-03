@@ -88,5 +88,7 @@ export function Notebook({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Notebook.displayName = "IconNotebook";
+
 export const IconNotebook = Notebook;
 export const NotebookIcon = Notebook;

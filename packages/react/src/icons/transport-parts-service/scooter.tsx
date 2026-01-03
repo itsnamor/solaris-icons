@@ -116,5 +116,7 @@ export function Scooter({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Scooter.displayName = "IconScooter";
+
 export const IconScooter = Scooter;
 export const ScooterIcon = Scooter;

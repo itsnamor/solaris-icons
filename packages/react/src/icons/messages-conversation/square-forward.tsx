@@ -102,5 +102,7 @@ export function SquareForward({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareForward.displayName = "IconSquareForward";
+
 export const IconSquareForward = SquareForward;
 export const SquareForwardIcon = SquareForward;

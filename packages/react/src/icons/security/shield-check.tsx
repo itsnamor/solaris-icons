@@ -93,5 +93,7 @@ export function ShieldCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShieldCheck.displayName = "IconShieldCheck";
+
 export const IconShieldCheck = ShieldCheck;
 export const ShieldCheckIcon = ShieldCheck;

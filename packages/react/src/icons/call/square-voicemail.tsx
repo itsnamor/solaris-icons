@@ -109,5 +109,7 @@ export function SquareVoicemail({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareVoicemail.displayName = "IconSquareVoicemail";
+
 export const IconSquareVoicemail = SquareVoicemail;
 export const SquareVoicemailIcon = SquareVoicemail;

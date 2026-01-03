@@ -96,5 +96,7 @@ export function LinkRoundAngle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LinkRoundAngle.displayName = "IconLinkRoundAngle";
+
 export const IconLinkRoundAngle = LinkRoundAngle;
 export const LinkRoundAngleIcon = LinkRoundAngle;

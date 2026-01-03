@@ -98,5 +98,7 @@ export function SquareArrowRotateCheck({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareArrowRotateCheck.displayName = "IconSquareArrowRotateCheck";
+
 export const IconSquareArrowRotateCheck = SquareArrowRotateCheck;
 export const SquareArrowRotateCheckIcon = SquareArrowRotateCheck;

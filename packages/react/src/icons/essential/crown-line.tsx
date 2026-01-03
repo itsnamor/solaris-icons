@@ -82,5 +82,7 @@ export function CrownLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CrownLine.displayName = "IconCrownLine";
+
 export const IconCrownLine = CrownLine;
 export const CrownLineIcon = CrownLine;

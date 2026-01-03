@@ -118,5 +118,7 @@ export function SmartHouse({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartHouse.displayName = "IconSmartHouse";
+
 export const IconSmartHouse = SmartHouse;
 export const SmartHouseIcon = SmartHouse;

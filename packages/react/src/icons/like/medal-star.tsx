@@ -105,5 +105,7 @@ export function MedalStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MedalStar.displayName = "IconMedalStar";
+
 export const IconMedalStar = MedalStar;
 export const MedalStarIcon = MedalStar;

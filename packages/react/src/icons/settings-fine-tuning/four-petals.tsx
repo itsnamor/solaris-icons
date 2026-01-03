@@ -72,5 +72,7 @@ export function FourPetals({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FourPetals.displayName = "IconFourPetals";
+
 export const IconFourPetals = FourPetals;
 export const FourPetalsIcon = FourPetals;

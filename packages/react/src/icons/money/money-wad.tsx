@@ -93,5 +93,7 @@ export function MoneyWad({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MoneyWad.displayName = "IconMoneyWad";
+
 export const IconMoneyWad = MoneyWad;
 export const MoneyWadIcon = MoneyWad;

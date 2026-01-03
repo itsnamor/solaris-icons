@@ -114,5 +114,7 @@ export function ArchiveArrowUpRound({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArchiveArrowUpRound.displayName = "IconArchiveArrowUpRound";
+
 export const IconArchiveArrowUpRound = ArchiveArrowUpRound;
 export const ArchiveArrowUpRoundIcon = ArchiveArrowUpRound;

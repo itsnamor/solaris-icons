@@ -114,5 +114,7 @@ export function BookBookmark({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BookBookmark.displayName = "IconBookBookmark";
+
 export const IconBookBookmark = BookBookmark;
 export const BookBookmarkIcon = BookBookmark;

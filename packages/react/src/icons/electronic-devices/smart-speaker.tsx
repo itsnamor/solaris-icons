@@ -130,5 +130,7 @@ export function SmartSpeaker({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartSpeaker.displayName = "IconSmartSpeaker";
+
 export const IconSmartSpeaker = SmartSpeaker;
 export const SmartSpeakerIcon = SmartSpeaker;

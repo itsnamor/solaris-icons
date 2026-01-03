@@ -104,5 +104,7 @@ export function IntravenousSetup({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+IntravenousSetup.displayName = "IconIntravenousSetup";
+
 export const IconIntravenousSetup = IntravenousSetup;
 export const IntravenousSetupIcon = IntravenousSetup;

@@ -76,5 +76,7 @@ export function ChartLineArrowUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChartLineArrowUp.displayName = "IconChartLineArrowUp";
+
 export const IconChartLineArrowUp = ChartLineArrowUp;
 export const ChartLineArrowUpIcon = ChartLineArrowUp;

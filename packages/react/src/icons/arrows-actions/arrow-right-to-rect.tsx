@@ -101,5 +101,7 @@ export function ArrowRightToRect({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArrowRightToRect.displayName = "IconArrowRightToRect";
+
 export const IconArrowRightToRect = ArrowRightToRect;
 export const ArrowRightToRectIcon = ArrowRightToRect;

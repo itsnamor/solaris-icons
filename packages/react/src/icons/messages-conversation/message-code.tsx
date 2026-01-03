@@ -82,5 +82,7 @@ export function MessageCode({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MessageCode.displayName = "IconMessageCode";
+
 export const IconMessageCode = MessageCode;
 export const MessageCodeIcon = MessageCode;

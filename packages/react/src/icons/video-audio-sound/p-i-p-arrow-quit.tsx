@@ -109,5 +109,7 @@ export function PIPArrowQuit({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PIPArrowQuit.displayName = "IconPIPArrowQuit";
+
 export const IconPIPArrowQuit = PIPArrowQuit;
 export const PIPArrowQuitIcon = PIPArrowQuit;

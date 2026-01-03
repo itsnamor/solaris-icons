@@ -82,5 +82,7 @@ export function SquarePlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquarePlus.displayName = "IconSquarePlus";
+
 export const IconSquarePlus = SquarePlus;
 export const SquarePlusIcon = SquarePlus;

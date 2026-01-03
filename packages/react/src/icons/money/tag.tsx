@@ -101,5 +101,7 @@ export function Tag({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Tag.displayName = "IconTag";
+
 export const IconTag = Tag;
 export const TagIcon = Tag;

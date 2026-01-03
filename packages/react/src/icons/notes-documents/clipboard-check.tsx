@@ -114,5 +114,7 @@ export function ClipboardCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ClipboardCheck.displayName = "IconClipboardCheck";
+
 export const IconClipboardCheck = ClipboardCheck;
 export const ClipboardCheckIcon = ClipboardCheck;

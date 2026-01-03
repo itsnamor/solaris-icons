@@ -75,5 +75,7 @@ export function ArrowsLeftRightMerge({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArrowsLeftRightMerge.displayName = "IconArrowsLeftRightMerge";
+
 export const IconArrowsLeftRightMerge = ArrowsLeftRightMerge;
 export const ArrowsLeftRightMergeIcon = ArrowsLeftRightMerge;

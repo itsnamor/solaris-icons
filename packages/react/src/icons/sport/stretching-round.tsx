@@ -107,5 +107,7 @@ export function StretchingRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StretchingRound.displayName = "IconStretchingRound";
+
 export const IconStretchingRound = StretchingRound;
 export const StretchingRoundIcon = StretchingRound;

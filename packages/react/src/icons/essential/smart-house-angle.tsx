@@ -126,5 +126,7 @@ export function SmartHouseAngle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartHouseAngle.displayName = "IconSmartHouseAngle";
+
 export const IconSmartHouseAngle = SmartHouseAngle;
 export const SmartHouseAngleIcon = SmartHouseAngle;

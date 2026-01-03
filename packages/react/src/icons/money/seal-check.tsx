@@ -87,5 +87,7 @@ export function SealCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SealCheck.displayName = "IconSealCheck";
+
 export const IconSealCheck = SealCheck;
 export const SealCheckIcon = SealCheck;

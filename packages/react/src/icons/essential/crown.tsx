@@ -80,5 +80,7 @@ export function Crown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Crown.displayName = "IconCrown";
+
 export const IconCrown = Crown;
 export const CrownIcon = Crown;

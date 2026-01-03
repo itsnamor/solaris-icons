@@ -115,5 +115,7 @@ export function FileCode({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FileCode.displayName = "IconFileCode";
+
 export const IconFileCode = FileCode;
 export const FileCodeIcon = FileCode;

@@ -98,5 +98,7 @@ export function CartMesh({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CartMesh.displayName = "IconCartMesh";
+
 export const IconCartMesh = CartMesh;
 export const CartMeshIcon = CartMesh;

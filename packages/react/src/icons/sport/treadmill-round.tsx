@@ -123,5 +123,7 @@ export function TreadmillRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TreadmillRound.displayName = "IconTreadmillRound";
+
 export const IconTreadmillRound = TreadmillRound;
 export const TreadmillRoundIcon = TreadmillRound;

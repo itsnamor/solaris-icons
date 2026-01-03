@@ -102,5 +102,7 @@ export function SquareFaceMask({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareFaceMask.displayName = "IconSquareFaceMask";
+
 export const IconSquareFaceMask = SquareFaceMask;
 export const SquareFaceMaskIcon = SquareFaceMask;

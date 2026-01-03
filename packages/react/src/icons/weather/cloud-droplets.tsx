@@ -87,5 +87,7 @@ export function CloudDroplets({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CloudDroplets.displayName = "IconCloudDroplets";
+
 export const IconCloudDroplets = CloudDroplets;
 export const CloudDropletsIcon = CloudDroplets;

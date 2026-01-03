@@ -90,5 +90,7 @@ export function SquareSlash({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareSlash.displayName = "IconSquareSlash";
+
 export const IconSquareSlash = SquareSlash;
 export const SquareSlashIcon = SquareSlash;

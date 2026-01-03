@@ -90,5 +90,7 @@ export function Droplet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Droplet.displayName = "IconDroplet";
+
 export const IconDroplet = Droplet;
 export const DropletIcon = Droplet;

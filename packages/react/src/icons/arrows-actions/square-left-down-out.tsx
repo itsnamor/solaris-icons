@@ -101,5 +101,7 @@ export function SquareLeftDownOut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareLeftDownOut.displayName = "IconSquareLeftDownOut";
+
 export const IconSquareLeftDownOut = SquareLeftDownOut;
 export const SquareLeftDownOutIcon = SquareLeftDownOut;

@@ -120,5 +120,7 @@ export function AlbumMusicBeamNote({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AlbumMusicBeamNote.displayName = "IconAlbumMusicBeamNote";
+
 export const IconAlbumMusicBeamNote = AlbumMusicBeamNote;
 export const AlbumMusicBeamNoteIcon = AlbumMusicBeamNote;

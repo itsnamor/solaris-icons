@@ -125,5 +125,7 @@ export function SquareUSB({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareUSB.displayName = "IconSquareUSB";
+
 export const IconSquareUSB = SquareUSB;
 export const SquareUSBIcon = SquareUSB;

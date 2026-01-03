@@ -70,5 +70,7 @@ export function PaperclipRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PaperclipRound.displayName = "IconPaperclipRound";
+
 export const IconPaperclipRound = PaperclipRound;
 export const PaperclipRoundIcon = PaperclipRound;

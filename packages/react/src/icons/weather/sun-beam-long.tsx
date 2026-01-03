@@ -80,5 +80,7 @@ export function SunBeamLong({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SunBeamLong.displayName = "IconSunBeamLong";
+
 export const IconSunBeamLong = SunBeamLong;
 export const SunBeamLongIcon = SunBeamLong;

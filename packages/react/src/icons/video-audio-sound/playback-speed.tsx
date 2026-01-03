@@ -123,5 +123,7 @@ export function PlaybackSpeed({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PlaybackSpeed.displayName = "IconPlaybackSpeed";
+
 export const IconPlaybackSpeed = PlaybackSpeed;
 export const PlaybackSpeedIcon = PlaybackSpeed;

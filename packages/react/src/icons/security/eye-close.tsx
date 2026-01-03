@@ -64,5 +64,7 @@ export function EyeClose({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+EyeClose.displayName = "IconEyeClose";
+
 export const IconEyeClose = EyeClose;
 export const EyeCloseIcon = EyeClose;

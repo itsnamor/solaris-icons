@@ -99,5 +99,7 @@ export function SquareRightUpIn({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareRightUpIn.displayName = "IconSquareRightUpIn";
+
 export const IconSquareRightUpIn = SquareRightUpIn;
 export const SquareRightUpInIcon = SquareRightUpIn;

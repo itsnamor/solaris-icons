@@ -87,5 +87,7 @@ export function CircleClock({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleClock.displayName = "IconCircleClock";
+
 export const IconCircleClock = CircleClock;
 export const CircleClockIcon = CircleClock;

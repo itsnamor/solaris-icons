@@ -112,5 +112,7 @@ export function Feed({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Feed.displayName = "IconFeed";
+
 export const IconFeed = Feed;
 export const FeedIcon = Feed;

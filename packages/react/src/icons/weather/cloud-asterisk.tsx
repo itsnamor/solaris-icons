@@ -84,5 +84,7 @@ export function CloudAsterisk({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CloudAsterisk.displayName = "IconCloudAsterisk";
+
 export const IconCloudAsterisk = CloudAsterisk;
 export const CloudAsteriskIcon = CloudAsterisk;

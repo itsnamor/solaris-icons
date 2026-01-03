@@ -144,5 +144,7 @@ export function IntravenousSetupDroplet({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+IntravenousSetupDroplet.displayName = "IconIntravenousSetupDroplet";
+
 export const IconIntravenousSetupDroplet = IntravenousSetupDroplet;
 export const IntravenousSetupDropletIcon = IntravenousSetupDroplet;

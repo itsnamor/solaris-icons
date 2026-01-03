@@ -111,5 +111,7 @@ export function SpeakerSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SpeakerSimple.displayName = "IconSpeakerSimple";
+
 export const IconSpeakerSimple = SpeakerSimple;
 export const SpeakerSimpleIcon = SpeakerSimple;

@@ -68,5 +68,7 @@ export function Scanner({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Scanner.displayName = "IconScanner";
+
 export const IconScanner = Scanner;
 export const ScannerIcon = Scanner;

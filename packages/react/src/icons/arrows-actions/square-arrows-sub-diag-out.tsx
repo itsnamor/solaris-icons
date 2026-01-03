@@ -98,5 +98,7 @@ export function SquareArrowsSubDiagOut({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareArrowsSubDiagOut.displayName = "IconSquareArrowsSubDiagOut";
+
 export const IconSquareArrowsSubDiagOut = SquareArrowsSubDiagOut;
 export const SquareArrowsSubDiagOutIcon = SquareArrowsSubDiagOut;

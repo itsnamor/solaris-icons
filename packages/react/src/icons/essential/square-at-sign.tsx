@@ -100,5 +100,7 @@ export function SquareAtSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareAtSign.displayName = "IconSquareAtSign";
+
 export const IconSquareAtSign = SquareAtSign;
 export const SquareAtSignIcon = SquareAtSign;

@@ -109,5 +109,7 @@ export function AlarmMinus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AlarmMinus.displayName = "IconAlarmMinus";
+
 export const IconAlarmMinus = AlarmMinus;
 export const AlarmMinusIcon = AlarmMinus;

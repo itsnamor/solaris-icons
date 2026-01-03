@@ -84,5 +84,7 @@ export function SkipNext({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SkipNext.displayName = "IconSkipNext";
+
 export const IconSkipNext = SkipNext;
 export const SkipNextIcon = SkipNext;

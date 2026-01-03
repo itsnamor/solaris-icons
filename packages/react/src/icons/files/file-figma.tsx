@@ -114,5 +114,7 @@ export function FileFigma({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FileFigma.displayName = "IconFileFigma";
+
 export const IconFileFigma = FileFigma;
 export const FileFigmaIcon = FileFigma;

@@ -102,5 +102,7 @@ export function ListArrowDownSimple({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListArrowDownSimple.displayName = "IconListArrowDownSimple";
+
 export const IconListArrowDownSimple = ListArrowDownSimple;
 export const ListArrowDownSimpleIcon = ListArrowDownSimple;

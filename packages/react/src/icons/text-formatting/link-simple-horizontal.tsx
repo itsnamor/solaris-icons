@@ -89,5 +89,7 @@ export function LinkSimpleHorizontal({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LinkSimpleHorizontal.displayName = "IconLinkSimpleHorizontal";
+
 export const IconLinkSimpleHorizontal = LinkSimpleHorizontal;
 export const LinkSimpleHorizontalIcon = LinkSimpleHorizontal;

@@ -93,5 +93,7 @@ export function ServerSquare({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ServerSquare.displayName = "IconServerSquare";
+
 export const IconServerSquare = ServerSquare;
 export const ServerSquareIcon = ServerSquare;

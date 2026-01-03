@@ -78,5 +78,7 @@ export function WidgetFourCircles({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WidgetFourCircles.displayName = "IconWidgetFourCircles";
+
 export const IconWidgetFourCircles = WidgetFourCircles;
 export const WidgetFourCirclesIcon = WidgetFourCircles;

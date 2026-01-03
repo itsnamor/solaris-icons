@@ -84,5 +84,7 @@ export function CarouselVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CarouselVertical.displayName = "IconCarouselVertical";
+
 export const IconCarouselVertical = CarouselVertical;
 export const CarouselVerticalIcon = CarouselVertical;

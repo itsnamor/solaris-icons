@@ -90,5 +90,7 @@ export function BagDollarSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BagDollarSign.displayName = "IconBagDollarSign";
+
 export const IconBagDollarSign = BagDollarSign;
 export const BagDollarSignIcon = BagDollarSign;

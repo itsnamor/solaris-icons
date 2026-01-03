@@ -92,5 +92,7 @@ export function CircleChevronsRight({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleChevronsRight.displayName = "IconCircleChevronsRight";
+
 export const IconCircleChevronsRight = CircleChevronsRight;
 export const CircleChevronsRightIcon = CircleChevronsRight;

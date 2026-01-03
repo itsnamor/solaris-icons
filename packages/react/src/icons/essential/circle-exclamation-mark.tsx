@@ -94,5 +94,7 @@ export function CircleExclamationMark({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleExclamationMark.displayName = "IconCircleExclamationMark";
+
 export const IconCircleExclamationMark = CircleExclamationMark;
 export const CircleExclamationMarkIcon = CircleExclamationMark;

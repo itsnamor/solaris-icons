@@ -104,5 +104,7 @@ export function ClapperboardOpenPlay({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ClapperboardOpenPlay.displayName = "IconClapperboardOpenPlay";
+
 export const IconClapperboardOpenPlay = ClapperboardOpenPlay;
 export const ClapperboardOpenPlayIcon = ClapperboardOpenPlay;

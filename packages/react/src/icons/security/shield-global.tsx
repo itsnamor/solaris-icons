@@ -124,5 +124,7 @@ export function ShieldGlobal({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShieldGlobal.displayName = "IconShieldGlobal";
+
 export const IconShieldGlobal = ShieldGlobal;
 export const ShieldGlobalIcon = ShieldGlobal;

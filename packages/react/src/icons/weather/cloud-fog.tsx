@@ -111,5 +111,7 @@ export function CloudFog({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CloudFog.displayName = "IconCloudFog";
+
 export const IconCloudFog = CloudFog;
 export const CloudFogIcon = CloudFog;

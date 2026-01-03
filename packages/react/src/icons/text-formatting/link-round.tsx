@@ -72,5 +72,7 @@ export function LinkRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LinkRound.displayName = "IconLinkRound";
+
 export const IconLinkRound = LinkRound;
 export const LinkRoundIcon = LinkRound;

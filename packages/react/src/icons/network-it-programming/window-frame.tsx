@@ -109,5 +109,7 @@ export function WindowFrame({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WindowFrame.displayName = "IconWindowFrame";
+
 export const IconWindowFrame = WindowFrame;
 export const WindowFrameIcon = WindowFrame;

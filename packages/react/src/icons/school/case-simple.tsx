@@ -114,5 +114,7 @@ export function CaseSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CaseSimple.displayName = "IconCaseSimple";
+
 export const IconCaseSimple = CaseSimple;
 export const CaseSimpleIcon = CaseSimple;

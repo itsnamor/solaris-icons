@@ -118,5 +118,7 @@ export function RunningSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RunningSimple.displayName = "IconRunningSimple";
+
 export const IconRunningSimple = RunningSimple;
 export const RunningSimpleIcon = RunningSimple;

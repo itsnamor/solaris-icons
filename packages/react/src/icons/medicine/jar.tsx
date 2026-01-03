@@ -111,5 +111,7 @@ export function Jar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Jar.displayName = "IconJar";
+
 export const IconJar = Jar;
 export const JarIcon = Jar;

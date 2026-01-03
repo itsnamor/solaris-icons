@@ -86,5 +86,7 @@ export function Sticker({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Sticker.displayName = "IconSticker";
+
 export const IconSticker = Sticker;
 export const StickerIcon = Sticker;

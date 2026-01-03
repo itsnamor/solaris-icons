@@ -123,5 +123,7 @@ export function Palette({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Palette.displayName = "IconPalette";
+
 export const IconPalette = Palette;
 export const PaletteIcon = Palette;

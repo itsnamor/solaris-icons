@@ -91,5 +91,7 @@ export function ListCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListCheck.displayName = "IconListCheck";
+
 export const IconListCheck = ListCheck;
 export const ListCheckIcon = ListCheck;

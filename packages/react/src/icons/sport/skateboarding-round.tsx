@@ -126,5 +126,7 @@ export function SkateboardingRound({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SkateboardingRound.displayName = "IconSkateboardingRound";
+
 export const IconSkateboardingRound = SkateboardingRound;
 export const SkateboardingRoundIcon = SkateboardingRound;

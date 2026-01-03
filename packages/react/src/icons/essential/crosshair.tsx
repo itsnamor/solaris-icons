@@ -111,5 +111,7 @@ export function Crosshair({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Crosshair.displayName = "IconCrosshair";
+
 export const IconCrosshair = Crosshair;
 export const CrosshairIcon = Crosshair;

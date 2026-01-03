@@ -94,5 +94,7 @@ export function Reel({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Reel.displayName = "IconReel";
+
 export const IconReel = Reel;
 export const ReelIcon = Reel;

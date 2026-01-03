@@ -72,5 +72,7 @@ export function ArrowsUpDownMerge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArrowsUpDownMerge.displayName = "IconArrowsUpDownMerge";
+
 export const IconArrowsUpDownMerge = ArrowsUpDownMerge;
 export const ArrowsUpDownMergeIcon = ArrowsUpDownMerge;

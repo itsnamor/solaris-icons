@@ -99,5 +99,7 @@ export function Microphone({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Microphone.displayName = "IconMicrophone";
+
 export const IconMicrophone = Microphone;
 export const MicrophoneIcon = Microphone;

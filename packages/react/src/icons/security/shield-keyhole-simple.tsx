@@ -103,5 +103,7 @@ export function ShieldKeyholeSimple({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShieldKeyholeSimple.displayName = "IconShieldKeyholeSimple";
+
 export const IconShieldKeyholeSimple = ShieldKeyholeSimple;
 export const ShieldKeyholeSimpleIcon = ShieldKeyholeSimple;

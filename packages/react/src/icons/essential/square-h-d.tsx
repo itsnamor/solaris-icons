@@ -92,5 +92,7 @@ export function SquareHD({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareHD.displayName = "IconSquareHD";
+
 export const IconSquareHD = SquareHD;
 export const SquareHDIcon = SquareHD;

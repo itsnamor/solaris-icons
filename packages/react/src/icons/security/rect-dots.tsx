@@ -84,5 +84,7 @@ export function RectDots({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RectDots.displayName = "IconRectDots";
+
 export const IconRectDots = RectDots;
 export const RectDotsIcon = RectDots;

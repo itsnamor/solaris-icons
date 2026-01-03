@@ -99,5 +99,7 @@ export function Laptop({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Laptop.displayName = "IconLaptop";
+
 export const IconLaptop = Laptop;
 export const LaptopIcon = Laptop;

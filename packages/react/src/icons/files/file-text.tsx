@@ -112,5 +112,7 @@ export function FileText({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FileText.displayName = "IconFileText";
+
 export const IconFileText = FileText;
 export const FileTextIcon = FileText;

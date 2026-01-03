@@ -92,5 +92,7 @@ export function NotificationTextX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+NotificationTextX.displayName = "IconNotificationTextX";
+
 export const IconNotificationTextX = NotificationTextX;
 export const NotificationTextXIcon = NotificationTextX;

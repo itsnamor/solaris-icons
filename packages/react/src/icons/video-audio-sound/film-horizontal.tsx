@@ -60,5 +60,7 @@ export function FilmHorizontal({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FilmHorizontal.displayName = "IconFilmHorizontal";
+
 export const IconFilmHorizontal = FilmHorizontal;
 export const FilmHorizontalIcon = FilmHorizontal;

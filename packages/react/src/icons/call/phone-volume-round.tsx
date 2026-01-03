@@ -88,5 +88,7 @@ export function PhoneVolumeRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PhoneVolumeRound.displayName = "IconPhoneVolumeRound";
+
 export const IconPhoneVolumeRound = PhoneVolumeRound;
 export const PhoneVolumeRoundIcon = PhoneVolumeRound;

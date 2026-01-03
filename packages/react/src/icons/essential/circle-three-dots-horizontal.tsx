@@ -85,5 +85,7 @@ export function CircleThreeDotsHorizontal({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleThreeDotsHorizontal.displayName = "IconCircleThreeDotsHorizontal";
+
 export const IconCircleThreeDotsHorizontal = CircleThreeDotsHorizontal;
 export const CircleThreeDotsHorizontalIcon = CircleThreeDotsHorizontal;

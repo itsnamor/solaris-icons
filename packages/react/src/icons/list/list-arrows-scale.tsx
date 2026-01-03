@@ -91,5 +91,7 @@ export function ListArrowsScale({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListArrowsScale.displayName = "IconListArrowsScale";
+
 export const IconListArrowsScale = ListArrowsScale;
 export const ListArrowsScaleIcon = ListArrowsScale;

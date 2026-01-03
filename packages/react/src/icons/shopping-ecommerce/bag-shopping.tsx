@@ -98,5 +98,7 @@ export function BagShopping({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BagShopping.displayName = "IconBagShopping";
+
 export const IconBagShopping = BagShopping;
 export const BagShoppingIcon = BagShopping;

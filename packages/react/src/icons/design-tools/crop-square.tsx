@@ -107,5 +107,7 @@ export function CropSquare({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CropSquare.displayName = "IconCropSquare";
+
 export const IconCropSquare = CropSquare;
 export const CropSquareIcon = CropSquare;

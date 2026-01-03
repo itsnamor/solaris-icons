@@ -99,5 +99,7 @@ export function ShieldChevronsUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShieldChevronsUp.displayName = "IconShieldChevronsUp";
+
 export const IconShieldChevronsUp = ShieldChevronsUp;
 export const ShieldChevronsUpIcon = ShieldChevronsUp;

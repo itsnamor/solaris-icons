@@ -146,5 +146,7 @@ export function CircleQuaverArrowUp({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleQuaverArrowUp.displayName = "IconCircleQuaverArrowUp";
+
 export const IconCircleQuaverArrowUp = CircleQuaverArrowUp;
 export const CircleQuaverArrowUpIcon = CircleQuaverArrowUp;

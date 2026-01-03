@@ -95,5 +95,7 @@ export function CloudBolt({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CloudBolt.displayName = "IconCloudBolt";
+
 export const IconCloudBolt = CloudBolt;
 export const CloudBoltIcon = CloudBolt;

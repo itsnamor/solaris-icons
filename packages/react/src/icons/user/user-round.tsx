@@ -66,5 +66,7 @@ export function UserRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+UserRound.displayName = "IconUserRound";
+
 export const IconUserRound = UserRound;
 export const UserRoundIcon = UserRound;

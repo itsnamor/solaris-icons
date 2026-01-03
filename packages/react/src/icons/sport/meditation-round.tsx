@@ -112,5 +112,7 @@ export function MeditationRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MeditationRound.displayName = "IconMeditationRound";
+
 export const IconMeditationRound = MeditationRound;
 export const MeditationRoundIcon = MeditationRound;

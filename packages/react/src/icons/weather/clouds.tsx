@@ -74,5 +74,7 @@ export function Clouds({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Clouds.displayName = "IconClouds";
+
 export const IconClouds = Clouds;
 export const CloudsIcon = Clouds;

@@ -100,5 +100,7 @@ export function BagCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BagCheck.displayName = "IconBagCheck";
+
 export const IconBagCheck = BagCheck;
 export const BagCheckIcon = BagCheck;

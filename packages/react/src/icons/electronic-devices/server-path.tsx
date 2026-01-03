@@ -114,5 +114,7 @@ export function ServerPath({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ServerPath.displayName = "IconServerPath";
+
 export const IconServerPath = ServerPath;
 export const ServerPathIcon = ServerPath;

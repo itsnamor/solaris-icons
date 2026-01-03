@@ -106,5 +106,7 @@ export function HouseWifiAngle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HouseWifiAngle.displayName = "IconHouseWifiAngle";
+
 export const IconHouseWifiAngle = HouseWifiAngle;
 export const HouseWifiAngleIcon = HouseWifiAngle;

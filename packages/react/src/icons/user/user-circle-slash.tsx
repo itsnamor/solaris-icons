@@ -102,5 +102,7 @@ export function UserCircleSlash({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+UserCircleSlash.displayName = "IconUserCircleSlash";
+
 export const IconUserCircleSlash = UserCircleSlash;
 export const UserCircleSlashIcon = UserCircleSlash;

@@ -105,5 +105,7 @@ export function AirMouse({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AirMouse.displayName = "IconAirMouse";
+
 export const IconAirMouse = AirMouse;
 export const AirMouseIcon = AirMouse;

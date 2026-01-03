@@ -63,5 +63,7 @@ export function Infinity({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Infinity.displayName = "IconInfinity";
+
 export const IconInfinity = Infinity;
 export const InfinityIcon = Infinity;

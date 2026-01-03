@@ -93,5 +93,7 @@ export function Bluetooth({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bluetooth.displayName = "IconBluetooth";
+
 export const IconBluetooth = Bluetooth;
 export const BluetoothIcon = Bluetooth;

@@ -115,5 +115,7 @@ export function Buildings({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Buildings.displayName = "IconBuildings";
+
 export const IconBuildings = Buildings;
 export const BuildingsIcon = Buildings;

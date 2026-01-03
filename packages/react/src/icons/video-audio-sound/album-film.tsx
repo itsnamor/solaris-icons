@@ -99,5 +99,7 @@ export function AlbumFilm({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AlbumFilm.displayName = "IconAlbumFilm";
+
 export const IconAlbumFilm = AlbumFilm;
 export const AlbumFilmIcon = AlbumFilm;

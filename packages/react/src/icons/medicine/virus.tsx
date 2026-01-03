@@ -286,5 +286,7 @@ export function Virus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Virus.displayName = "IconVirus";
+
 export const IconVirus = Virus;
 export const VirusIcon = Virus;

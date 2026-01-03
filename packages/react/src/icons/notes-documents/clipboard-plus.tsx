@@ -105,5 +105,7 @@ export function ClipboardPlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ClipboardPlus.displayName = "IconClipboardPlus";
+
 export const IconClipboardPlus = ClipboardPlus;
 export const ClipboardPlusIcon = ClipboardPlus;

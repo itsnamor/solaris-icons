@@ -112,5 +112,7 @@ export function ImageRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ImageRound.displayName = "IconImageRound";
+
 export const IconImageRound = ImageRound;
 export const ImageRoundIcon = ImageRound;

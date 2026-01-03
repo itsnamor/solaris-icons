@@ -99,5 +99,7 @@ export function BookThick({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BookThick.displayName = "IconBookThick";
+
 export const IconBookThick = BookThick;
 export const BookThickIcon = BookThick;

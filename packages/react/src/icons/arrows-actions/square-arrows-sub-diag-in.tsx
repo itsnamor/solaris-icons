@@ -88,5 +88,7 @@ export function SquareArrowsSubDiagIn({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareArrowsSubDiagIn.displayName = "IconSquareArrowsSubDiagIn";
+
 export const IconSquareArrowsSubDiagIn = SquareArrowsSubDiagIn;
 export const SquareArrowsSubDiagInIcon = SquareArrowsSubDiagIn;

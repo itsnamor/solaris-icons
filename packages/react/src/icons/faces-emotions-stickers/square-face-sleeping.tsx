@@ -129,5 +129,7 @@ export function SquareFaceSleeping({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareFaceSleeping.displayName = "IconSquareFaceSleeping";
+
 export const IconSquareFaceSleeping = SquareFaceSleeping;
 export const SquareFaceSleepingIcon = SquareFaceSleeping;

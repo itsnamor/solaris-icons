@@ -81,5 +81,7 @@ export function ChipCard({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChipCard.displayName = "IconChipCard";
+
 export const IconChipCard = ChipCard;
 export const ChipCardIcon = ChipCard;

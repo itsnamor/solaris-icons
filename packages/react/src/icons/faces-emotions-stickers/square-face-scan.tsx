@@ -115,5 +115,7 @@ export function SquareFaceScan({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareFaceScan.displayName = "IconSquareFaceScan";
+
 export const IconSquareFaceScan = SquareFaceScan;
 export const SquareFaceScanIcon = SquareFaceScan;

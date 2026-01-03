@@ -111,5 +111,7 @@ export function Backpack({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Backpack.displayName = "IconBackpack";
+
 export const IconBackpack = Backpack;
 export const BackpackIcon = Backpack;

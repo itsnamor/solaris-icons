@@ -125,5 +125,7 @@ export function CircleUSB({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleUSB.displayName = "IconCircleUSB";
+
 export const IconCircleUSB = CircleUSB;
 export const CircleUSBIcon = CircleUSB;

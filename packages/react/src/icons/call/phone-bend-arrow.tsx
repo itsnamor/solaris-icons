@@ -99,5 +99,7 @@ export function PhoneBendArrow({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PhoneBendArrow.displayName = "IconPhoneBendArrow";
+
 export const IconPhoneBendArrow = PhoneBendArrow;
 export const PhoneBendArrowIcon = PhoneBendArrow;

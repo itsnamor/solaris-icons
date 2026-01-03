@@ -99,5 +99,7 @@ export function DiamondArrowBendUpRight({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DiamondArrowBendUpRight.displayName = "IconDiamondArrowBendUpRight";
+
 export const IconDiamondArrowBendUpRight = DiamondArrowBendUpRight;
 export const DiamondArrowBendUpRightIcon = DiamondArrowBendUpRight;

@@ -94,5 +94,7 @@ export function FaceSad({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FaceSad.displayName = "IconFaceSad";
+
 export const IconFaceSad = FaceSad;
 export const FaceSadIcon = FaceSad;

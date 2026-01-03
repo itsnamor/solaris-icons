@@ -96,5 +96,7 @@ export function ShoppingBasket({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShoppingBasket.displayName = "IconShoppingBasket";
+
 export const IconShoppingBasket = ShoppingBasket;
 export const ShoppingBasketIcon = ShoppingBasket;

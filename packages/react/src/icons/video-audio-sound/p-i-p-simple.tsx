@@ -81,5 +81,7 @@ export function PIPSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PIPSimple.displayName = "IconPIPSimple";
+
 export const IconPIPSimple = PIPSimple;
 export const PIPSimpleIcon = PIPSimple;

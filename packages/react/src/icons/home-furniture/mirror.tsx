@@ -101,5 +101,7 @@ export function Mirror({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Mirror.displayName = "IconMirror";
+
 export const IconMirror = Mirror;
 export const MirrorIcon = Mirror;

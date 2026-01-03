@@ -74,5 +74,7 @@ export function RewindForward({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RewindForward.displayName = "IconRewindForward";
+
 export const IconRewindForward = RewindForward;
 export const RewindForwardIcon = RewindForward;

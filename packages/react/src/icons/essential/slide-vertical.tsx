@@ -72,5 +72,7 @@ export function SlideVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SlideVertical.displayName = "IconSlideVertical";
+
 export const IconSlideVertical = SlideVertical;
 export const SlideVerticalIcon = SlideVertical;

@@ -126,5 +126,7 @@ export function CupHot({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CupHot.displayName = "IconCupHot";
+
 export const IconCupHot = CupHot;
 export const CupHotIcon = CupHot;

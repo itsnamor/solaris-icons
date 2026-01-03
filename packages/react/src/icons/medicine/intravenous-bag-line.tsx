@@ -135,5 +135,7 @@ export function IntravenousBagLine({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+IntravenousBagLine.displayName = "IconIntravenousBagLine";
+
 export const IconIntravenousBagLine = IntravenousBagLine;
 export const IntravenousBagLineIcon = IntravenousBagLine;

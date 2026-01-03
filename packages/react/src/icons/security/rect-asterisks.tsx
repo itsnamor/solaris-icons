@@ -82,5 +82,7 @@ export function RectAsterisks({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RectAsterisks.displayName = "IconRectAsterisks";
+
 export const IconRectAsterisks = RectAsterisks;
 export const RectAsterisksIcon = RectAsterisks;

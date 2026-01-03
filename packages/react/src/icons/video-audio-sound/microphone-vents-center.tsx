@@ -112,5 +112,7 @@ export function MicrophoneVentsCenter({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MicrophoneVentsCenter.displayName = "IconMicrophoneVentsCenter";
+
 export const IconMicrophoneVentsCenter = MicrophoneVentsCenter;
 export const MicrophoneVentsCenterIcon = MicrophoneVentsCenter;

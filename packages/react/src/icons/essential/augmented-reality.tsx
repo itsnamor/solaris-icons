@@ -88,5 +88,7 @@ export function AugmentedReality({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AugmentedReality.displayName = "IconAugmentedReality";
+
 export const IconAugmentedReality = AugmentedReality;
 export const AugmentedRealityIcon = AugmentedReality;

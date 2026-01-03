@@ -79,5 +79,7 @@ export function ChartLineArrowDown({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChartLineArrowDown.displayName = "IconChartLineArrowDown";
+
 export const IconChartLineArrowDown = ChartLineArrowDown;
 export const ChartLineArrowDownIcon = ChartLineArrowDown;

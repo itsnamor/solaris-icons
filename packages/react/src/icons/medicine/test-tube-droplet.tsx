@@ -88,5 +88,7 @@ export function TestTubeDroplet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TestTubeDroplet.displayName = "IconTestTubeDroplet";
+
 export const IconTestTubeDroplet = TestTubeDroplet;
 export const TestTubeDropletIcon = TestTubeDroplet;

@@ -131,5 +131,7 @@ export function HikingSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HikingSimple.displayName = "IconHikingSimple";
+
 export const IconHikingSimple = HikingSimple;
 export const HikingSimpleIcon = HikingSimple;

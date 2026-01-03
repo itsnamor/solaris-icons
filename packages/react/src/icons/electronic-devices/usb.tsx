@@ -107,5 +107,7 @@ export function Usb({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Usb.displayName = "IconUsb";
+
 export const IconUsb = Usb;
 export const UsbIcon = Usb;

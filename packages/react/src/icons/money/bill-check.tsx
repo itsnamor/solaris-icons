@@ -105,5 +105,7 @@ export function BillCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BillCheck.displayName = "IconBillCheck";
+
 export const IconBillCheck = BillCheck;
 export const BillCheckIcon = BillCheck;

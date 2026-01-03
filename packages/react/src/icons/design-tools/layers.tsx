@@ -87,5 +87,7 @@ export function Layers({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Layers.displayName = "IconLayers";
+
 export const IconLayers = Layers;
 export const LayersIcon = Layers;

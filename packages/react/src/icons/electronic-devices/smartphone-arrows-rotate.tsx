@@ -156,5 +156,7 @@ export function SmartphoneArrowsRotate({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartphoneArrowsRotate.displayName = "IconSmartphoneArrowsRotate";
+
 export const IconSmartphoneArrowsRotate = SmartphoneArrowsRotate;
 export const SmartphoneArrowsRotateIcon = SmartphoneArrowsRotate;

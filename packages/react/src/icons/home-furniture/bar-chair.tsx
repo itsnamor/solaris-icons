@@ -91,5 +91,7 @@ export function BarChair({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BarChair.displayName = "IconBarChair";
+
 export const IconBarChair = BarChair;
 export const BarChairIcon = BarChair;

@@ -70,5 +70,7 @@ export function TagHorizontal({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TagHorizontal.displayName = "IconTagHorizontal";
+
 export const IconTagHorizontal = TagHorizontal;
 export const TagHorizontalIcon = TagHorizontal;

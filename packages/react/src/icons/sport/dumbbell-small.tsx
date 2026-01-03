@@ -77,5 +77,7 @@ export function DumbbellSmall({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DumbbellSmall.displayName = "IconDumbbellSmall";
+
 export const IconDumbbellSmall = DumbbellSmall;
 export const DumbbellSmallIcon = DumbbellSmall;

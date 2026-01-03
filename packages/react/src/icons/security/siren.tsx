@@ -134,5 +134,7 @@ export function Siren({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Siren.displayName = "IconSiren";
+
 export const IconSiren = Siren;
 export const SirenIcon = Siren;

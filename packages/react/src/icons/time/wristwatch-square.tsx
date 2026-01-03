@@ -125,5 +125,7 @@ export function WristwatchSquare({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WristwatchSquare.displayName = "IconWristwatchSquare";
+
 export const IconWristwatchSquare = WristwatchSquare;
 export const WristwatchSquareIcon = WristwatchSquare;

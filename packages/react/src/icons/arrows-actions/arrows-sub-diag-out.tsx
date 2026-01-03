@@ -74,5 +74,7 @@ export function ArrowsSubDiagOut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArrowsSubDiagOut.displayName = "IconArrowsSubDiagOut";
+
 export const IconArrowsSubDiagOut = ArrowsSubDiagOut;
 export const ArrowsSubDiagOutIcon = ArrowsSubDiagOut;

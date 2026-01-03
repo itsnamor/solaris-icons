@@ -104,5 +104,7 @@ export function BookBookmarkSimple({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BookBookmarkSimple.displayName = "IconBookBookmarkSimple";
+
 export const IconBookBookmarkSimple = BookBookmarkSimple;
 export const BookBookmarkSimpleIcon = BookBookmarkSimple;

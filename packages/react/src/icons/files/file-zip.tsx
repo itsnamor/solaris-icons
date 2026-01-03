@@ -102,5 +102,7 @@ export function FileZip({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FileZip.displayName = "IconFileZip";
+
 export const IconFileZip = FileZip;
 export const FileZipIcon = FileZip;

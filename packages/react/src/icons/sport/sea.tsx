@@ -76,5 +76,7 @@ export function Sea({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Sea.displayName = "IconSea";
+
 export const IconSea = Sea;
 export const SeaIcon = Sea;

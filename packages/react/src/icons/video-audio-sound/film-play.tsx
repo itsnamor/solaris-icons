@@ -104,5 +104,7 @@ export function FilmPlay({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FilmPlay.displayName = "IconFilmPlay";
+
 export const IconFilmPlay = FilmPlay;
 export const FilmPlayIcon = FilmPlay;

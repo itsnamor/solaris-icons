@@ -65,5 +65,7 @@ export function Pause({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Pause.displayName = "IconPause";
+
 export const IconPause = Pause;
 export const PauseIcon = Pause;

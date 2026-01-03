@@ -121,5 +121,7 @@ export function TurntableMusicNote({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TurntableMusicNote.displayName = "IconTurntableMusicNote";
+
 export const IconTurntableMusicNote = TurntableMusicNote;
 export const TurntableMusicNoteIcon = TurntableMusicNote;

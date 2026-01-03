@@ -119,5 +119,7 @@ export function ChartRadial({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChartRadial.displayName = "IconChartRadial";
+
 export const IconChartRadial = ChartRadial;
 export const ChartRadialIcon = ChartRadial;

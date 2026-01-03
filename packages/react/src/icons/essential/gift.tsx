@@ -111,5 +111,7 @@ export function Gift({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Gift.displayName = "IconGift";
+
 export const IconGift = Gift;
 export const GiftIcon = Gift;

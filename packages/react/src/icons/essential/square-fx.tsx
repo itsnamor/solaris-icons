@@ -84,5 +84,7 @@ export function SquareFx({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareFx.displayName = "IconSquareFx";
+
 export const IconSquareFx = SquareFx;
 export const SquareFxIcon = SquareFx;

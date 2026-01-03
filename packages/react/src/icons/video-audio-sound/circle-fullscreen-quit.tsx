@@ -85,5 +85,7 @@ export function CircleFullscreenQuit({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleFullscreenQuit.displayName = "IconCircleFullscreenQuit";
+
 export const IconCircleFullscreenQuit = CircleFullscreenQuit;
 export const CircleFullscreenQuitIcon = CircleFullscreenQuit;

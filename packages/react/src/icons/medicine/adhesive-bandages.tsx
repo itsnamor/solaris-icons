@@ -113,5 +113,7 @@ export function AdhesiveBandages({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AdhesiveBandages.displayName = "IconAdhesiveBandages";
+
 export const IconAdhesiveBandages = AdhesiveBandages;
 export const AdhesiveBandagesIcon = AdhesiveBandages;

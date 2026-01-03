@@ -107,5 +107,7 @@ export function CalendarMagnifier({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CalendarMagnifier.displayName = "IconCalendarMagnifier";
+
 export const IconCalendarMagnifier = CalendarMagnifier;
 export const CalendarMagnifierIcon = CalendarMagnifier;

@@ -86,5 +86,7 @@ export function Copy({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Copy.displayName = "IconCopy";
+
 export const IconCopy = Copy;
 export const CopyIcon = Copy;

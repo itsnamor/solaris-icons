@@ -91,5 +91,7 @@ export function RulerPenCross({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RulerPenCross.displayName = "IconRulerPenCross";
+
 export const IconRulerPenCross = RulerPenCross;
 export const RulerPenCrossIcon = RulerPenCross;

@@ -91,5 +91,7 @@ export function Tuning({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Tuning.displayName = "IconTuning";
+
 export const IconTuning = Tuning;
 export const TuningIcon = Tuning;

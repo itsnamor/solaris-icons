@@ -76,5 +76,7 @@ export function Bag({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bag.displayName = "IconBag";
+
 export const IconBag = Bag;
 export const BagIcon = Bag;

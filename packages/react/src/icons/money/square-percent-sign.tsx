@@ -108,5 +108,7 @@ export function SquarePercentSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquarePercentSign.displayName = "IconSquarePercentSign";
+
 export const IconSquarePercentSign = SquarePercentSign;
 export const SquarePercentSignIcon = SquarePercentSign;

@@ -63,5 +63,7 @@ export function Broom({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Broom.displayName = "IconBroom";
+
 export const IconBroom = Broom;
 export const BroomIcon = Broom;

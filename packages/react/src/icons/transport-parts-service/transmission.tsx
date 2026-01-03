@@ -101,5 +101,7 @@ export function Transmission({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Transmission.displayName = "IconTransmission";
+
 export const IconTransmission = Transmission;
 export const TransmissionIcon = Transmission;

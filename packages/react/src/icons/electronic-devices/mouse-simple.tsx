@@ -76,5 +76,7 @@ export function MouseSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MouseSimple.displayName = "IconMouseSimple";
+
 export const IconMouseSimple = MouseSimple;
 export const MouseSimpleIcon = MouseSimple;

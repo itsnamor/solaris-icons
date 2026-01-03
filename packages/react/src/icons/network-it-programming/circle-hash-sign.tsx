@@ -100,5 +100,7 @@ export function CircleHashSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleHashSign.displayName = "IconCircleHashSign";
+
 export const IconCircleHashSign = CircleHashSign;
 export const CircleHashSignIcon = CircleHashSign;

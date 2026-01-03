@@ -64,5 +64,7 @@ export function Repeat({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Repeat.displayName = "IconRepeat";
+
 export const IconRepeat = Repeat;
 export const RepeatIcon = Repeat;

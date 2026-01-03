@@ -84,5 +84,7 @@ export function Power({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Power.displayName = "IconPower";
+
 export const IconPower = Power;
 export const PowerIcon = Power;

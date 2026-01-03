@@ -84,5 +84,7 @@ export function Weigher({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Weigher.displayName = "IconWeigher";
+
 export const IconWeigher = Weigher;
 export const WeigherIcon = Weigher;

@@ -111,5 +111,7 @@ export function StopwatchPause({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StopwatchPause.displayName = "IconStopwatchPause";
+
 export const IconStopwatchPause = StopwatchPause;
 export const StopwatchPauseIcon = StopwatchPause;

@@ -114,5 +114,7 @@ export function AlarmPause({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AlarmPause.displayName = "IconAlarmPause";
+
 export const IconAlarmPause = AlarmPause;
 export const AlarmPauseIcon = AlarmPause;

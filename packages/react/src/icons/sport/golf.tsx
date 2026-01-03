@@ -93,5 +93,7 @@ export function Golf({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Golf.displayName = "IconGolf";
+
 export const IconGolf = Golf;
 export const GolfIcon = Golf;

@@ -60,5 +60,7 @@ export function DumbbellsVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DumbbellsVertical.displayName = "IconDumbbellsVertical";
+
 export const IconDumbbellsVertical = DumbbellsVertical;
 export const DumbbellsVerticalIcon = DumbbellsVertical;

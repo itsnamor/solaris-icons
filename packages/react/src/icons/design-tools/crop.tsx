@@ -82,5 +82,7 @@ export function Crop({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Crop.displayName = "IconCrop";
+
 export const IconCrop = Crop;
 export const CropIcon = Crop;

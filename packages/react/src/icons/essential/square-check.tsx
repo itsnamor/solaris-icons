@@ -93,5 +93,7 @@ export function SquareCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareCheck.displayName = "IconSquareCheck";
+
 export const IconSquareCheck = SquareCheck;
 export const SquareCheckIcon = SquareCheck;

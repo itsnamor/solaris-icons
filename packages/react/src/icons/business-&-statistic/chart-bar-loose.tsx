@@ -111,5 +111,7 @@ export function ChartBarLoose({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChartBarLoose.displayName = "IconChartBarLoose";
+
 export const IconChartBarLoose = ChartBarLoose;
 export const ChartBarLooseIcon = ChartBarLoose;

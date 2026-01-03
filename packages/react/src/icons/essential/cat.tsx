@@ -122,5 +122,7 @@ export function Cat({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Cat.displayName = "IconCat";
+
 export const IconCat = Cat;
 export const CatIcon = Cat;

@@ -127,5 +127,7 @@ export function SlideImage({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SlideImage.displayName = "IconSlideImage";
+
 export const IconSlideImage = SlideImage;
 export const SlideImageIcon = SlideImage;

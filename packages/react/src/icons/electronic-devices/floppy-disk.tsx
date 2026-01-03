@@ -99,5 +99,7 @@ export function FloppyDisk({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FloppyDisk.displayName = "IconFloppyDisk";
+
 export const IconFloppyDisk = FloppyDisk;
 export const FloppyDiskIcon = FloppyDisk;

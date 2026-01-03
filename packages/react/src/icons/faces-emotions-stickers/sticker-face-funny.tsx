@@ -163,5 +163,7 @@ export function StickerFaceFunny({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StickerFaceFunny.displayName = "IconStickerFaceFunny";
+
 export const IconStickerFaceFunny = StickerFaceFunny;
 export const StickerFaceFunnyIcon = StickerFaceFunny;

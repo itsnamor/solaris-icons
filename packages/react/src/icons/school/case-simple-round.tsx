@@ -99,5 +99,7 @@ export function CaseSimpleRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CaseSimpleRound.displayName = "IconCaseSimpleRound";
+
 export const IconCaseSimpleRound = CaseSimpleRound;
 export const CaseSimpleRoundIcon = CaseSimpleRound;

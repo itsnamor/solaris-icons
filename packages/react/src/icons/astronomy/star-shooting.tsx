@@ -84,5 +84,7 @@ export function StarShooting({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StarShooting.displayName = "IconStarShooting";
+
 export const IconStarShooting = StarShooting;
 export const StarShootingIcon = StarShooting;

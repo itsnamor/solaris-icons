@@ -70,5 +70,7 @@ export function Bone({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bone.displayName = "IconBone";
+
 export const IconBone = Bone;
 export const BoneIcon = Bone;

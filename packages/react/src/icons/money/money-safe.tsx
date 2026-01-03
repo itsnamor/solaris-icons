@@ -140,5 +140,7 @@ export function MoneySafe({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MoneySafe.displayName = "IconMoneySafe";
+
 export const IconMoneySafe = MoneySafe;
 export const MoneySafeIcon = MoneySafe;

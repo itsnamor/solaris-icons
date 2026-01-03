@@ -79,5 +79,7 @@ export function Setting({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Setting.displayName = "IconSetting";
+
 export const IconSetting = Setting;
 export const SettingIcon = Setting;

@@ -96,5 +96,7 @@ export function InboxLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+InboxLine.displayName = "IconInboxLine";
+
 export const IconInboxLine = InboxLine;
 export const InboxLineIcon = InboxLine;

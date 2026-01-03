@@ -112,5 +112,7 @@ export function WheelAngle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WheelAngle.displayName = "IconWheelAngle";
+
 export const IconWheelAngle = WheelAngle;
 export const WheelAngleIcon = WheelAngle;

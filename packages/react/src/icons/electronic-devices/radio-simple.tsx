@@ -118,5 +118,7 @@ export function RadioSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RadioSimple.displayName = "IconRadioSimple";
+
 export const IconRadioSimple = RadioSimple;
 export const RadioSimpleIcon = RadioSimple;

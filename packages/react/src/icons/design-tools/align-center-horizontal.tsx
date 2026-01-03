@@ -90,5 +90,7 @@ export function AlignCenterHorizontal({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AlignCenterHorizontal.displayName = "IconAlignCenterHorizontal";
+
 export const IconAlignCenterHorizontal = AlignCenterHorizontal;
 export const AlignCenterHorizontalIcon = AlignCenterHorizontal;

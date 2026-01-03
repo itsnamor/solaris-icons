@@ -112,5 +112,7 @@ export function RectsArrowRight({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RectsArrowRight.displayName = "IconRectsArrowRight";
+
 export const IconRectsArrowRight = RectsArrowRight;
 export const RectsArrowRightIcon = RectsArrowRight;

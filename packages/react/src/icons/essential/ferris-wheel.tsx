@@ -116,5 +116,7 @@ export function FerrisWheel({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FerrisWheel.displayName = "IconFerrisWheel";
+
 export const IconFerrisWheel = FerrisWheel;
 export const FerrisWheelIcon = FerrisWheel;

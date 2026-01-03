@@ -61,5 +61,7 @@ export function TShirt({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TShirt.displayName = "IconTShirt";
+
 export const IconTShirt = TShirt;
 export const TShirtIcon = TShirt;

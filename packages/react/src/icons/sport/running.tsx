@@ -132,5 +132,7 @@ export function Running({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Running.displayName = "IconRunning";
+
 export const IconRunning = Running;
 export const RunningIcon = Running;

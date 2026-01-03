@@ -74,5 +74,7 @@ export function CodeSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CodeSimple.displayName = "IconCodeSimple";
+
 export const IconCodeSimple = CodeSimple;
 export const CodeSimpleIcon = CodeSimple;

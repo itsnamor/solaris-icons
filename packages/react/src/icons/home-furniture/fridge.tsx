@@ -121,5 +121,7 @@ export function Fridge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Fridge.displayName = "IconFridge";
+
 export const IconFridge = Fridge;
 export const FridgeIcon = Fridge;

@@ -102,5 +102,7 @@ export function CircleBluetooth({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleBluetooth.displayName = "IconCircleBluetooth";
+
 export const IconCircleBluetooth = CircleBluetooth;
 export const CircleBluetoothIcon = CircleBluetooth;

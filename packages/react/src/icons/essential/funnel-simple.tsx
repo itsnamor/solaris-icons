@@ -76,5 +76,7 @@ export function FunnelSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FunnelSimple.displayName = "IconFunnelSimple";
+
 export const IconFunnelSimple = FunnelSimple;
 export const FunnelSimpleIcon = FunnelSimple;

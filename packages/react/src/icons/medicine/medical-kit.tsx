@@ -132,5 +132,7 @@ export function MedicalKit({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MedicalKit.displayName = "IconMedicalKit";
+
 export const IconMedicalKit = MedicalKit;
 export const MedicalKitIcon = MedicalKit;

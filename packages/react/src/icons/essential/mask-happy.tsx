@@ -94,5 +94,7 @@ export function MaskHappy({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MaskHappy.displayName = "IconMaskHappy";
+
 export const IconMaskHappy = MaskHappy;
 export const MaskHappyIcon = MaskHappy;

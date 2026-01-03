@@ -152,5 +152,7 @@ export function JarPill({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+JarPill.displayName = "IconJarPill";
+
 export const IconJarPill = JarPill;
 export const JarPillIcon = JarPill;

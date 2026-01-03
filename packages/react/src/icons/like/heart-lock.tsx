@@ -88,5 +88,7 @@ export function HeartLock({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HeartLock.displayName = "IconHeartLock";
+
 export const IconHeartLock = HeartLock;
 export const HeartLockIcon = HeartLock;

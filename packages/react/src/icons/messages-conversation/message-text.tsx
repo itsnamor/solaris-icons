@@ -80,5 +80,7 @@ export function MessageText({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MessageText.displayName = "IconMessageText";
+
 export const IconMessageText = MessageText;
 export const MessageTextIcon = MessageText;

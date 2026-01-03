@@ -104,5 +104,7 @@ export function CartX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CartX.displayName = "IconCartX";
+
 export const IconCartX = CartX;
 export const CartXIcon = CartX;

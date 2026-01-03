@@ -103,5 +103,7 @@ export function ArmchairSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArmchairSimple.displayName = "IconArmchairSimple";
+
 export const IconArmchairSimple = ArmchairSimple;
 export const ArmchairSimpleIcon = ArmchairSimple;

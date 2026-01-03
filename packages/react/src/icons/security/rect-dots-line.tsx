@@ -114,5 +114,7 @@ export function RectDotsLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RectDotsLine.displayName = "IconRectDotsLine";
+
 export const IconRectDotsLine = RectDotsLine;
 export const RectDotsLineIcon = RectDotsLine;

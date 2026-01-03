@@ -113,5 +113,7 @@ export function WalletLineVertical({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WalletLineVertical.displayName = "IconWalletLineVertical";
+
 export const IconWalletLineVertical = WalletLineVertical;
 export const WalletLineVerticalIcon = WalletLineVertical;

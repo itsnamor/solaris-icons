@@ -72,5 +72,7 @@ export function Widget({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Widget.displayName = "IconWidget";
+
 export const IconWidget = Widget;
 export const WidgetIcon = Widget;

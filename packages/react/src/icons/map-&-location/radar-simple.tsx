@@ -61,5 +61,7 @@ export function RadarSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RadarSimple.displayName = "IconRadarSimple";
+
 export const IconRadarSimple = RadarSimple;
 export const RadarSimpleIcon = RadarSimple;

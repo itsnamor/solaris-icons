@@ -128,5 +128,7 @@ export function BluetoothWave({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BluetoothWave.displayName = "IconBluetoothWave";
+
 export const IconBluetoothWave = BluetoothWave;
 export const BluetoothWaveIcon = BluetoothWave;

@@ -111,5 +111,7 @@ export function Accumulator({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Accumulator.displayName = "IconAccumulator";
+
 export const IconAccumulator = Accumulator;
 export const AccumulatorIcon = Accumulator;

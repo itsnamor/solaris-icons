@@ -96,5 +96,7 @@ export function DoorOpen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DoorOpen.displayName = "IconDoorOpen";
+
 export const IconDoorOpen = DoorOpen;
 export const DoorOpenIcon = DoorOpen;

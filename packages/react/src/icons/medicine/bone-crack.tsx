@@ -90,5 +90,7 @@ export function BoneCrack({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BoneCrack.displayName = "IconBoneCrack";
+
 export const IconBoneCrack = BoneCrack;
 export const BoneCrackIcon = BoneCrack;

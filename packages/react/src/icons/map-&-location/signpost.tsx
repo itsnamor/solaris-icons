@@ -84,5 +84,7 @@ export function Signpost({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Signpost.displayName = "IconSignpost";
+
 export const IconSignpost = Signpost;
 export const SignpostIcon = Signpost;

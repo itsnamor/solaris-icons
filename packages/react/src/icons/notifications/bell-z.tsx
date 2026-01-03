@@ -112,5 +112,7 @@ export function BellZ({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BellZ.displayName = "IconBellZ";
+
 export const IconBellZ = BellZ;
 export const BellZIcon = BellZ;

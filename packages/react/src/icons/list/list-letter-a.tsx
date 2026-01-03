@@ -89,5 +89,7 @@ export function ListLetterA({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListLetterA.displayName = "IconListLetterA";
+
 export const IconListLetterA = ListLetterA;
 export const ListLetterAIcon = ListLetterA;

@@ -170,5 +170,7 @@ export function BombStarFace({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BombStarFace.displayName = "IconBombStarFace";
+
 export const IconBombStarFace = BombStarFace;
 export const BombStarFaceIcon = BombStarFace;

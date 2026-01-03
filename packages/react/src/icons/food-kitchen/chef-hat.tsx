@@ -81,5 +81,7 @@ export function ChefHat({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChefHat.displayName = "IconChefHat";
+
 export const IconChefHat = ChefHat;
 export const ChefHatIcon = ChefHat;

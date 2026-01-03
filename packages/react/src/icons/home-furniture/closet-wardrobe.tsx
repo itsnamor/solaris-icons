@@ -95,5 +95,7 @@ export function ClosetWardrobe({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ClosetWardrobe.displayName = "IconClosetWardrobe";
+
 export const IconClosetWardrobe = ClosetWardrobe;
 export const ClosetWardrobeIcon = ClosetWardrobe;

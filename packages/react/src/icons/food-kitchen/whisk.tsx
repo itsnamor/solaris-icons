@@ -75,5 +75,7 @@ export function Whisk({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Whisk.displayName = "IconWhisk";
+
 export const IconWhisk = Whisk;
 export const WhiskIcon = Whisk;

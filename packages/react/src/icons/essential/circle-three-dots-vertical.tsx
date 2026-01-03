@@ -85,5 +85,7 @@ export function CircleThreeDotsVertical({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleThreeDotsVertical.displayName = "IconCircleThreeDotsVertical";
+
 export const IconCircleThreeDotsVertical = CircleThreeDotsVertical;
 export const CircleThreeDotsVerticalIcon = CircleThreeDotsVertical;

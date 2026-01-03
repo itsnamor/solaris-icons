@@ -68,5 +68,7 @@ export function RulerAngular({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RulerAngular.displayName = "IconRulerAngular";
+
 export const IconRulerAngular = RulerAngular;
 export const RulerAngularIcon = RulerAngular;

@@ -163,5 +163,7 @@ export function Masks({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Masks.displayName = "IconMasks";
+
 export const IconMasks = Masks;
 export const MasksIcon = Masks;

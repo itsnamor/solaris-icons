@@ -94,5 +94,7 @@ export function Temperature({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Temperature.displayName = "IconTemperature";
+
 export const IconTemperature = Temperature;
 export const TemperatureIcon = Temperature;

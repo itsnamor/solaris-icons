@@ -118,5 +118,7 @@ export function ClipboardText({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ClipboardText.displayName = "IconClipboardText";
+
 export const IconClipboardText = ClipboardText;
 export const ClipboardTextIcon = ClipboardText;

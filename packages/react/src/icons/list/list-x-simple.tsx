@@ -97,5 +97,7 @@ export function ListXSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListXSimple.displayName = "IconListXSimple";
+
 export const IconListXSimple = ListXSimple;
 export const ListXSimpleIcon = ListXSimple;

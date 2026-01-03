@@ -144,5 +144,7 @@ export function CircleBeamNoteArrowUp({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleBeamNoteArrowUp.displayName = "IconCircleBeamNoteArrowUp";
+
 export const IconCircleBeamNoteArrowUp = CircleBeamNoteArrowUp;
 export const CircleBeamNoteArrowUpIcon = CircleBeamNoteArrowUp;

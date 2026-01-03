@@ -117,5 +117,7 @@ export function LayersLoose({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LayersLoose.displayName = "IconLayersLoose";
+
 export const IconLayersLoose = LayersLoose;
 export const LayersLooseIcon = LayersLoose;

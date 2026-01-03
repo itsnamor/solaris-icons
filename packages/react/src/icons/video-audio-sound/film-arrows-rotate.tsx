@@ -134,5 +134,7 @@ export function FilmArrowsRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FilmArrowsRotate.displayName = "IconFilmArrowsRotate";
+
 export const IconFilmArrowsRotate = FilmArrowsRotate;
 export const FilmArrowsRotateIcon = FilmArrowsRotate;

@@ -100,5 +100,7 @@ export function LinkSquare({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LinkSquare.displayName = "IconLinkSquare";
+
 export const IconLinkSquare = LinkSquare;
 export const LinkSquareIcon = LinkSquare;

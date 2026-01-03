@@ -92,5 +92,7 @@ export function SquareArrowCursor({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareArrowCursor.displayName = "IconSquareArrowCursor";
+
 export const IconSquareArrowCursor = SquareArrowCursor;
 export const SquareArrowCursorIcon = SquareArrowCursor;

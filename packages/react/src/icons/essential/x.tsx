@@ -82,5 +82,7 @@ export function X({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+X.displayName = "IconX";
+
 export const IconX = X;
 export const XIcon = X;

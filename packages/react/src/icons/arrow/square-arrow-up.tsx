@@ -87,5 +87,7 @@ export function SquareArrowUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareArrowUp.displayName = "IconSquareArrowUp";
+
 export const IconSquareArrowUp = SquareArrowUp;
 export const SquareArrowUpIcon = SquareArrowUp;

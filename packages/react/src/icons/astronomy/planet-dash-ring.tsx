@@ -111,5 +111,7 @@ export function PlanetDashRing({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PlanetDashRing.displayName = "IconPlanetDashRing";
+
 export const IconPlanetDashRing = PlanetDashRing;
 export const PlanetDashRingIcon = PlanetDashRing;

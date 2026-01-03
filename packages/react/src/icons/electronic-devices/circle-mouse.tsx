@@ -98,5 +98,7 @@ export function CircleMouse({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleMouse.displayName = "IconCircleMouse";
+
 export const IconCircleMouse = CircleMouse;
 export const CircleMouseIcon = CircleMouse;

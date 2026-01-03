@@ -99,5 +99,7 @@ export function SuitcaseLines({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SuitcaseLines.displayName = "IconSuitcaseLines";
+
 export const IconSuitcaseLines = SuitcaseLines;
 export const SuitcaseLinesIcon = SuitcaseLines;

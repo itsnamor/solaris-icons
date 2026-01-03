@@ -101,5 +101,7 @@ export function LightbulbBolt({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LightbulbBolt.displayName = "IconLightbulbBolt";
+
 export const IconLightbulbBolt = LightbulbBolt;
 export const LightbulbBoltIcon = LightbulbBolt;

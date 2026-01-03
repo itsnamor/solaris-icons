@@ -136,5 +136,7 @@ export function Podcast({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Podcast.displayName = "IconPodcast";
+
 export const IconPodcast = Podcast;
 export const PodcastIcon = Podcast;

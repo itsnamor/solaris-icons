@@ -66,5 +66,7 @@ export function Pipette({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Pipette.displayName = "IconPipette";
+
 export const IconPipette = Pipette;
 export const PipetteIcon = Pipette;

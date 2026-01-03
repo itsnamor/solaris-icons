@@ -90,5 +90,7 @@ export function SquareFaceConfounded({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareFaceConfounded.displayName = "IconSquareFaceConfounded";
+
 export const IconSquareFaceConfounded = SquareFaceConfounded;
 export const SquareFaceConfoundedIcon = SquareFaceConfounded;

@@ -64,5 +64,7 @@ export function SquarePaperclipRound({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquarePaperclipRound.displayName = "IconSquarePaperclipRound";
+
 export const IconSquarePaperclipRound = SquarePaperclipRound;
 export const SquarePaperclipRoundIcon = SquarePaperclipRound;

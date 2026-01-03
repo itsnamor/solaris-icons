@@ -99,5 +99,7 @@ export function PhoneArrowOut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PhoneArrowOut.displayName = "IconPhoneArrowOut";
+
 export const IconPhoneArrowOut = PhoneArrowOut;
 export const PhoneArrowOutIcon = PhoneArrowOut;

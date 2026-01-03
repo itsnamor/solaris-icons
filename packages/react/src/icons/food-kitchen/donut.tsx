@@ -148,5 +148,7 @@ export function Donut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Donut.displayName = "IconDonut";
+
 export const IconDonut = Donut;
 export const DonutIcon = Donut;

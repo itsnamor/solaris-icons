@@ -74,5 +74,7 @@ export function Bell({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bell.displayName = "IconBell";
+
 export const IconBell = Bell;
 export const BellIcon = Bell;

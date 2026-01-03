@@ -108,5 +108,7 @@ export function PhoneBendArrowRound({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PhoneBendArrowRound.displayName = "IconPhoneBendArrowRound";
+
 export const IconPhoneBendArrowRound = PhoneBendArrowRound;
 export const PhoneBendArrowRoundIcon = PhoneBendArrowRound;

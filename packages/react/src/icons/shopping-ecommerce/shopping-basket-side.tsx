@@ -110,5 +110,7 @@ export function ShoppingBasketSide({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShoppingBasketSide.displayName = "IconShoppingBasketSide";
+
 export const IconShoppingBasketSide = ShoppingBasketSide;
 export const ShoppingBasketSideIcon = ShoppingBasketSide;

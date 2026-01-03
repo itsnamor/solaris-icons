@@ -90,5 +90,7 @@ export function Terminal({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Terminal.displayName = "IconTerminal";
+
 export const IconTerminal = Terminal;
 export const TerminalIcon = Terminal;

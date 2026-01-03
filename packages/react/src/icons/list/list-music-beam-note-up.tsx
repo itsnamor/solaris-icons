@@ -100,5 +100,7 @@ export function ListMusicBeamNoteUp({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListMusicBeamNoteUp.displayName = "IconListMusicBeamNoteUp";
+
 export const IconListMusicBeamNoteUp = ListMusicBeamNoteUp;
 export const ListMusicBeamNoteUpIcon = ListMusicBeamNoteUp;

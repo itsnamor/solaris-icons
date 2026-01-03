@@ -65,5 +65,7 @@ export function Map({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Map.displayName = "IconMap";
+
 export const IconMap = Map;
 export const MapIcon = Map;

@@ -122,5 +122,7 @@ export function ReelSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ReelSimple.displayName = "IconReelSimple";
+
 export const IconReelSimple = ReelSimple;
 export const ReelSimpleIcon = ReelSimple;

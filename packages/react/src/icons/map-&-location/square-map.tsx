@@ -74,5 +74,7 @@ export function SquareMap({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareMap.displayName = "IconSquareMap";
+
 export const IconSquareMap = SquareMap;
 export const SquareMapIcon = SquareMap;

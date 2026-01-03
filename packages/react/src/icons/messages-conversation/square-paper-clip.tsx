@@ -61,5 +61,7 @@ export function SquarePaperClip({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquarePaperClip.displayName = "IconSquarePaperClip";
+
 export const IconSquarePaperClip = SquarePaperClip;
 export const SquarePaperClipIcon = SquarePaperClip;

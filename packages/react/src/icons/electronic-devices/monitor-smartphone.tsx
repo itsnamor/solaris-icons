@@ -135,5 +135,7 @@ export function MonitorSmartphone({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MonitorSmartphone.displayName = "IconMonitorSmartphone";
+
 export const IconMonitorSmartphone = MonitorSmartphone;
 export const MonitorSmartphoneIcon = MonitorSmartphone;

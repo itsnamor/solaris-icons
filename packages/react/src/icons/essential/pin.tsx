@@ -76,5 +76,7 @@ export function Pin({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Pin.displayName = "IconPin";
+
 export const IconPin = Pin;
 export const PinIcon = Pin;

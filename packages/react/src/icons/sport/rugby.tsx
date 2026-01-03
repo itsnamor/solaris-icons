@@ -82,5 +82,7 @@ export function Rugby({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Rugby.displayName = "IconRugby";
+
 export const IconRugby = Rugby;
 export const RugbyIcon = Rugby;

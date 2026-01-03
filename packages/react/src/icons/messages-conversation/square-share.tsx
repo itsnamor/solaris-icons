@@ -97,5 +97,7 @@ export function SquareShare({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareShare.displayName = "IconSquareShare";
+
 export const IconSquareShare = SquareShare;
 export const SquareShareIcon = SquareShare;

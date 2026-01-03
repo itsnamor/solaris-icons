@@ -112,5 +112,7 @@ export function UserCheckRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+UserCheckRound.displayName = "IconUserCheckRound";
+
 export const IconUserCheckRound = UserCheckRound;
 export const UserCheckRoundIcon = UserCheckRound;

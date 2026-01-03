@@ -111,5 +111,7 @@ export function Stretching({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Stretching.displayName = "IconStretching";
+
 export const IconStretching = Stretching;
 export const StretchingIcon = Stretching;

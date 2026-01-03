@@ -107,5 +107,7 @@ export function SidebarCode({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SidebarCode.displayName = "IconSidebarCode";
+
 export const IconSidebarCode = SidebarCode;
 export const SidebarCodeIcon = SidebarCode;

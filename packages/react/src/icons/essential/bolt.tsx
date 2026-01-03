@@ -67,5 +67,7 @@ export function Bolt({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bolt.displayName = "IconBolt";
+
 export const IconBolt = Bolt;
 export const BoltIcon = Bolt;

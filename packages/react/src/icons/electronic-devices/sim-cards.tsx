@@ -89,5 +89,7 @@ export function SimCards({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SimCards.displayName = "IconSimCards";
+
 export const IconSimCards = SimCards;
 export const SimCardsIcon = SimCards;

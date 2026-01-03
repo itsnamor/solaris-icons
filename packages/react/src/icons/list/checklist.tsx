@@ -118,5 +118,7 @@ export function Checklist({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Checklist.displayName = "IconChecklist";
+
 export const IconChecklist = Checklist;
 export const ChecklistIcon = Checklist;

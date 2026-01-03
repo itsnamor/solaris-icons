@@ -94,5 +94,7 @@ export function PenSquare({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PenSquare.displayName = "IconPenSquare";
+
 export const IconPenSquare = PenSquare;
 export const PenSquareIcon = PenSquare;

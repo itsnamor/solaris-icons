@@ -70,5 +70,7 @@ export function Skirt({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Skirt.displayName = "IconSkirt";
+
 export const IconSkirt = Skirt;
 export const SkirtIcon = Skirt;

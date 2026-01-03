@@ -102,5 +102,7 @@ export function SealPercentSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SealPercentSign.displayName = "IconSealPercentSign";
+
 export const IconSealPercentSign = SealPercentSign;
 export const SealPercentSignIcon = SealPercentSign;

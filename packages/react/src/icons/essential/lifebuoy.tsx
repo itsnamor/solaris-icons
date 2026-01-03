@@ -76,5 +76,7 @@ export function Lifebuoy({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Lifebuoy.displayName = "IconLifebuoy";
+
 export const IconLifebuoy = Lifebuoy;
 export const LifebuoyIcon = Lifebuoy;

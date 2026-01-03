@@ -55,5 +55,7 @@ export function Forward({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Forward.displayName = "IconForward";
+
 export const IconForward = Forward;
 export const ForwardIcon = Forward;

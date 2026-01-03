@@ -120,5 +120,7 @@ export function CardCredit({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CardCredit.displayName = "IconCardCredit";
+
 export const IconCardCredit = CardCredit;
 export const CardCreditIcon = CardCredit;

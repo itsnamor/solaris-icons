@@ -126,5 +126,7 @@ export function RemoteController({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RemoteController.displayName = "IconRemoteController";
+
 export const IconRemoteController = RemoteController;
 export const RemoteControllerIcon = RemoteController;

@@ -87,5 +87,7 @@ export function CircleLetterTCross({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleLetterTCross.displayName = "IconCircleLetterTCross";
+
 export const IconCircleLetterTCross = CircleLetterTCross;
 export const CircleLetterTCrossIcon = CircleLetterTCross;

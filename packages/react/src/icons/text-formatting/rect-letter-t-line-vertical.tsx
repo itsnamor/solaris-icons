@@ -111,5 +111,7 @@ export function RectLetterTLineVertical({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RectLetterTLineVertical.displayName = "IconRectLetterTLineVertical";
+
 export const IconRectLetterTLineVertical = RectLetterTLineVertical;
 export const RectLetterTLineVerticalIcon = RectLetterTLineVertical;

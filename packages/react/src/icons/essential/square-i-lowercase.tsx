@@ -111,5 +111,7 @@ export function SquareILowercase({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareILowercase.displayName = "IconSquareILowercase";
+
 export const IconSquareILowercase = SquareILowercase;
 export const SquareILowercaseIcon = SquareILowercase;

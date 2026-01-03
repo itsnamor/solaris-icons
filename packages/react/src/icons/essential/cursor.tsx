@@ -74,5 +74,7 @@ export function Cursor({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Cursor.displayName = "IconCursor";
+
 export const IconCursor = Cursor;
 export const CursorIcon = Cursor;

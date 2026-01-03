@@ -88,5 +88,7 @@ export function CircleQuestionMark({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleQuestionMark.displayName = "IconCircleQuestionMark";
+
 export const IconCircleQuestionMark = CircleQuestionMark;
 export const CircleQuestionMarkIcon = CircleQuestionMark;

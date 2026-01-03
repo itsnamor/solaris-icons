@@ -85,5 +85,7 @@ export function ClockArrowRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ClockArrowRotate.displayName = "IconClockArrowRotate";
+
 export const IconClockArrowRotate = ClockArrowRotate;
 export const ClockArrowRotateIcon = ClockArrowRotate;

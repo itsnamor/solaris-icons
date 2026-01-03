@@ -113,5 +113,7 @@ export function CloudStorage({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CloudStorage.displayName = "IconCloudStorage";
+
 export const IconCloudStorage = CloudStorage;
 export const CloudStorageIcon = CloudStorage;

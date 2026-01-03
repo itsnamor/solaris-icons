@@ -120,5 +120,7 @@ export function StarRings({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StarRings.displayName = "IconStarRings";
+
 export const IconStarRings = StarRings;
 export const StarRingsIcon = StarRings;

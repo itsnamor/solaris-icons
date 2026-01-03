@@ -97,5 +97,7 @@ export function MapPinRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MapPinRotate.displayName = "IconMapPinRotate";
+
 export const IconMapPinRotate = MapPinRotate;
 export const MapPinRotateIcon = MapPinRotate;

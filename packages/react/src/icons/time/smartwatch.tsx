@@ -105,5 +105,7 @@ export function Smartwatch({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Smartwatch.displayName = "IconSmartwatch";
+
 export const IconSmartwatch = Smartwatch;
 export const SmartwatchIcon = Smartwatch;

@@ -116,5 +116,7 @@ export function DumbbellLargeSimple({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DumbbellLargeSimple.displayName = "IconDumbbellLargeSimple";
+
 export const IconDumbbellLargeSimple = DumbbellLargeSimple;
 export const DumbbellLargeSimpleIcon = DumbbellLargeSimple;

@@ -87,5 +87,7 @@ export function Voicemail({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Voicemail.displayName = "IconVoicemail";
+
 export const IconVoicemail = Voicemail;
 export const VoicemailIcon = Voicemail;

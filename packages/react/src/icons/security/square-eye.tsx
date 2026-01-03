@@ -111,5 +111,7 @@ export function SquareEye({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareEye.displayName = "IconSquareEye";
+
 export const IconSquareEye = SquareEye;
 export const SquareEyeIcon = SquareEye;

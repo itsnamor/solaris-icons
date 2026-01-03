@@ -115,5 +115,7 @@ export function Television({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Television.displayName = "IconTelevision";
+
 export const IconTelevision = Television;
 export const TelevisionIcon = Television;

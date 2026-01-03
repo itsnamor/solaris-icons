@@ -93,5 +93,7 @@ export function MegaphoneSlash({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MegaphoneSlash.displayName = "IconMegaphoneSlash";
+
 export const IconMegaphoneSlash = MegaphoneSlash;
 export const MegaphoneSlashIcon = MegaphoneSlash;

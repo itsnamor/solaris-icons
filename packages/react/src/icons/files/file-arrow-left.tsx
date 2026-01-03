@@ -115,5 +115,7 @@ export function FileArrowLeft({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FileArrowLeft.displayName = "IconFileArrowLeft";
+
 export const IconFileArrowLeft = FileArrowLeft;
 export const FileArrowLeftIcon = FileArrowLeft;

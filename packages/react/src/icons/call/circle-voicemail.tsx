@@ -119,5 +119,7 @@ export function CircleVoicemail({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleVoicemail.displayName = "IconCircleVoicemail";
+
 export const IconCircleVoicemail = CircleVoicemail;
 export const CircleVoicemailIcon = CircleVoicemail;

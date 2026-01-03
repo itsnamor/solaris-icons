@@ -107,5 +107,7 @@ export function Fuel({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Fuel.displayName = "IconFuel";
+
 export const IconFuel = Fuel;
 export const FuelIcon = Fuel;

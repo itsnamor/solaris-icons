@@ -148,5 +148,7 @@ export function TuningThree({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TuningThree.displayName = "IconTuningThree";
+
 export const IconTuningThree = TuningThree;
 export const TuningThreeIcon = TuningThree;

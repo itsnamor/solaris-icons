@@ -97,5 +97,7 @@ export function ArchiveArrowUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArchiveArrowUp.displayName = "IconArchiveArrowUp";
+
 export const IconArchiveArrowUp = ArchiveArrowUp;
 export const ArchiveArrowUpIcon = ArchiveArrowUp;

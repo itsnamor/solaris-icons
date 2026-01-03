@@ -103,5 +103,7 @@ export function FolderOpen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FolderOpen.displayName = "IconFolderOpen";
+
 export const IconFolderOpen = FolderOpen;
 export const FolderOpenIcon = FolderOpen;

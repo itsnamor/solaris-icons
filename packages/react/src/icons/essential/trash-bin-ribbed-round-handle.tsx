@@ -96,5 +96,7 @@ export function TrashBinRibbedRoundHandle({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TrashBinRibbedRoundHandle.displayName = "IconTrashBinRibbedRoundHandle";
+
 export const IconTrashBinRibbedRoundHandle = TrashBinRibbedRoundHandle;
 export const TrashBinRibbedRoundHandleIcon = TrashBinRibbedRoundHandle;

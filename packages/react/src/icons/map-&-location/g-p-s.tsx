@@ -101,5 +101,7 @@ export function GPS({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+GPS.displayName = "IconGPS";
+
 export const IconGPS = GPS;
 export const GPSIcon = GPS;

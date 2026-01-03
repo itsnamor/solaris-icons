@@ -87,5 +87,7 @@ export function SquareArrowsRotate({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareArrowsRotate.displayName = "IconSquareArrowsRotate";
+
 export const IconSquareArrowsRotate = SquareArrowsRotate;
 export const SquareArrowsRotateIcon = SquareArrowsRotate;

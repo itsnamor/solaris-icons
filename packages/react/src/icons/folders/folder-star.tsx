@@ -81,5 +81,7 @@ export function FolderStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FolderStar.displayName = "IconFolderStar";
+
 export const IconFolderStar = FolderStar;
 export const FolderStarIcon = FolderStar;

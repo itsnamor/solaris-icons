@@ -92,5 +92,7 @@ export function TennisDashLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TennisDashLine.displayName = "IconTennisDashLine";
+
 export const IconTennisDashLine = TennisDashLine;
 export const TennisDashLineIcon = TennisDashLine;

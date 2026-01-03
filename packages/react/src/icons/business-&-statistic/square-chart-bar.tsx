@@ -82,5 +82,7 @@ export function SquareChartBar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareChartBar.displayName = "IconSquareChartBar";
+
 export const IconSquareChartBar = SquareChartBar;
 export const SquareChartBarIcon = SquareChartBar;

@@ -108,5 +108,7 @@ export function PhoneMessagePlusRound({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PhoneMessagePlusRound.displayName = "IconPhoneMessagePlusRound";
+
 export const IconPhoneMessagePlusRound = PhoneMessagePlusRound;
 export const PhoneMessagePlusRoundIcon = PhoneMessagePlusRound;

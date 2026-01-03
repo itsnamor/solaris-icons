@@ -67,5 +67,7 @@ export function Hourglass({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Hourglass.displayName = "IconHourglass";
+
 export const IconHourglass = Hourglass;
 export const HourglassIcon = Hourglass;

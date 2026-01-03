@@ -76,5 +76,7 @@ export function Rocket({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Rocket.displayName = "IconRocket";
+
 export const IconRocket = Rocket;
 export const RocketIcon = Rocket;

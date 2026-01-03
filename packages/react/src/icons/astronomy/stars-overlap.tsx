@@ -86,5 +86,7 @@ export function StarsOverlap({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StarsOverlap.displayName = "IconStarsOverlap";
+
 export const IconStarsOverlap = StarsOverlap;
 export const StarsOverlapIcon = StarsOverlap;

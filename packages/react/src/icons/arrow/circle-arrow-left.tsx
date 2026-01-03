@@ -85,5 +85,7 @@ export function CircleArrowLeft({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleArrowLeft.displayName = "IconCircleArrowLeft";
+
 export const IconCircleArrowLeft = CircleArrowLeft;
 export const CircleArrowLeftIcon = CircleArrowLeft;

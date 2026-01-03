@@ -90,5 +90,7 @@ export function SquareCode({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareCode.displayName = "IconSquareCode";
+
 export const IconSquareCode = SquareCode;
 export const SquareCodeIcon = SquareCode;

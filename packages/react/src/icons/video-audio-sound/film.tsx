@@ -86,5 +86,7 @@ export function Film({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Film.displayName = "IconFilm";
+
 export const IconFilm = Film;
 export const FilmIcon = Film;

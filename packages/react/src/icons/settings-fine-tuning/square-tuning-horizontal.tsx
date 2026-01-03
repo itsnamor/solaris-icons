@@ -144,5 +144,7 @@ export function SquareTuningHorizontal({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareTuningHorizontal.displayName = "IconSquareTuningHorizontal";
+
 export const IconSquareTuningHorizontal = SquareTuningHorizontal;
 export const SquareTuningHorizontalIcon = SquareTuningHorizontal;

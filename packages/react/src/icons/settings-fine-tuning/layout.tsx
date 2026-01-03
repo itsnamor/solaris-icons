@@ -72,5 +72,7 @@ export function Layout({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Layout.displayName = "IconLayout";
+
 export const IconLayout = Layout;
 export const LayoutIcon = Layout;

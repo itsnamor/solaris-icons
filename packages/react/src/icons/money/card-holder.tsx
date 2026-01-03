@@ -112,5 +112,7 @@ export function CardHolder({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CardHolder.displayName = "IconCardHolder";
+
 export const IconCardHolder = CardHolder;
 export const CardHolderIcon = CardHolder;

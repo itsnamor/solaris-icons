@@ -87,5 +87,7 @@ export function CameraArrowRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CameraArrowRotate.displayName = "IconCameraArrowRotate";
+
 export const IconCameraArrowRotate = CameraArrowRotate;
 export const CameraArrowRotateIcon = CameraArrowRotate;

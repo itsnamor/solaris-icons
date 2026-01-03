@@ -70,5 +70,7 @@ export function Check({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Check.displayName = "IconCheck";
+
 export const IconCheck = Check;
 export const CheckIcon = Check;

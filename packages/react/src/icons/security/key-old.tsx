@@ -94,5 +94,7 @@ export function KeyOld({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+KeyOld.displayName = "IconKeyOld";
+
 export const IconKeyOld = KeyOld;
 export const KeyOldIcon = KeyOld;

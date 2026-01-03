@@ -83,5 +83,7 @@ export function UserHeart({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+UserHeart.displayName = "IconUserHeart";
+
 export const IconUserHeart = UserHeart;
 export const UserHeartIcon = UserHeart;

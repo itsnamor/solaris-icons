@@ -108,5 +108,7 @@ export function Panorama({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Panorama.displayName = "IconPanorama";
+
 export const IconPanorama = Panorama;
 export const PanoramaIcon = Panorama;

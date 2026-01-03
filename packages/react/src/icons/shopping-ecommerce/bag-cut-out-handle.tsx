@@ -92,5 +92,7 @@ export function BagCutOutHandle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BagCutOutHandle.displayName = "IconBagCutOutHandle";
+
 export const IconBagCutOutHandle = BagCutOutHandle;
 export const BagCutOutHandleIcon = BagCutOutHandle;

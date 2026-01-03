@@ -106,5 +106,7 @@ export function BatteryLow({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BatteryLow.displayName = "IconBatteryLow";
+
 export const IconBatteryLow = BatteryLow;
 export const BatteryLowIcon = BatteryLow;

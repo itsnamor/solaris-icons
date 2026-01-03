@@ -66,5 +66,7 @@ export function Heart({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Heart.displayName = "IconHeart";
+
 export const IconHeart = Heart;
 export const HeartIcon = Heart;

@@ -86,5 +86,7 @@ export function Bottle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bottle.displayName = "IconBottle";
+
 export const IconBottle = Bottle;
 export const BottleIcon = Bottle;

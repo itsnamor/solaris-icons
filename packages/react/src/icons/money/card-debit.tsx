@@ -76,5 +76,7 @@ export function CardDebit({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CardDebit.displayName = "IconCardDebit";
+
 export const IconCardDebit = CardDebit;
 export const CardDebitIcon = CardDebit;

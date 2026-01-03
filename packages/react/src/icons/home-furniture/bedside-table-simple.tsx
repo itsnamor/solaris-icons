@@ -114,5 +114,7 @@ export function BedsideTableSimple({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BedsideTableSimple.displayName = "IconBedsideTableSimple";
+
 export const IconBedsideTableSimple = BedsideTableSimple;
 export const BedsideTableSimpleIcon = BedsideTableSimple;

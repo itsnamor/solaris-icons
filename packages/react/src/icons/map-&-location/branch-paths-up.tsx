@@ -99,5 +99,7 @@ export function BranchPathsUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BranchPathsUp.displayName = "IconBranchPathsUp";
+
 export const IconBranchPathsUp = BranchPathsUp;
 export const BranchPathsUpIcon = BranchPathsUp;

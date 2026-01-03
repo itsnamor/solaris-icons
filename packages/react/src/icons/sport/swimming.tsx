@@ -82,5 +82,7 @@ export function Swimming({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Swimming.displayName = "IconSwimming";
+
 export const IconSwimming = Swimming;
 export const SwimmingIcon = Swimming;

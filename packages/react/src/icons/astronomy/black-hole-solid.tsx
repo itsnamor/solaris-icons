@@ -121,5 +121,7 @@ export function BlackHoleSolid({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BlackHoleSolid.displayName = "IconBlackHoleSolid";
+
 export const IconBlackHoleSolid = BlackHoleSolid;
 export const BlackHoleSolidIcon = BlackHoleSolid;

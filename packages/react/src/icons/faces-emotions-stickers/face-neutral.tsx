@@ -103,5 +103,7 @@ export function FaceNeutral({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FaceNeutral.displayName = "IconFaceNeutral";
+
 export const IconFaceNeutral = FaceNeutral;
 export const FaceNeutralIcon = FaceNeutral;

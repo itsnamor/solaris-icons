@@ -86,5 +86,7 @@ export function SquareEraser({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareEraser.displayName = "IconSquareEraser";
+
 export const IconSquareEraser = SquareEraser;
 export const SquareEraserIcon = SquareEraser;

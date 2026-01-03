@@ -123,5 +123,7 @@ export function UserGroup({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+UserGroup.displayName = "IconUserGroup";
+
 export const IconUserGroup = UserGroup;
 export const UserGroupIcon = UserGroup;

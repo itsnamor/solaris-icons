@@ -139,5 +139,7 @@ export function Screencast({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Screencast.displayName = "IconScreencast";
+
 export const IconScreencast = Screencast;
 export const ScreencastIcon = Screencast;

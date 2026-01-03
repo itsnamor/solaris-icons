@@ -103,5 +103,7 @@ export function CloudArrowUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CloudArrowUp.displayName = "IconCloudArrowUp";
+
 export const IconCloudArrowUp = CloudArrowUp;
 export const CloudArrowUpIcon = CloudArrowUp;

@@ -87,5 +87,7 @@ export function SquareChevronLeft({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareChevronLeft.displayName = "IconSquareChevronLeft";
+
 export const IconSquareChevronLeft = SquareChevronLeft;
 export const SquareChevronLeftIcon = SquareChevronLeft;

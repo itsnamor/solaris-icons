@@ -87,5 +87,7 @@ export function FolderArrowRight({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FolderArrowRight.displayName = "IconFolderArrowRight";
+
 export const IconFolderArrowRight = FolderArrowRight;
 export const FolderArrowRightIcon = FolderArrowRight;

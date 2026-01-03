@@ -87,5 +87,7 @@ export function TuningHorizontal({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TuningHorizontal.displayName = "IconTuningHorizontal";
+
 export const IconTuningHorizontal = TuningHorizontal;
 export const TuningHorizontalIcon = TuningHorizontal;

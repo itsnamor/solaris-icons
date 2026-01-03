@@ -119,5 +119,7 @@ export function ThreeBuildings({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ThreeBuildings.displayName = "IconThreeBuildings";
+
 export const IconThreeBuildings = ThreeBuildings;
 export const ThreeBuildingsIcon = ThreeBuildings;

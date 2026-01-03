@@ -82,5 +82,7 @@ export function ShieldX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShieldX.displayName = "IconShieldX";
+
 export const IconShieldX = ShieldX;
 export const ShieldXIcon = ShieldX;

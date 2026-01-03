@@ -85,5 +85,7 @@ export function MessageSoundwaveRound({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MessageSoundwaveRound.displayName = "IconMessageSoundwaveRound";
+
 export const IconMessageSoundwaveRound = MessageSoundwaveRound;
 export const MessageSoundwaveRoundIcon = MessageSoundwaveRound;

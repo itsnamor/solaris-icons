@@ -131,5 +131,7 @@ export function ShoppingBasketCrissCross({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShoppingBasketCrissCross.displayName = "IconShoppingBasketCrissCross";
+
 export const IconShoppingBasketCrissCross = ShoppingBasketCrissCross;
 export const ShoppingBasketCrissCrossIcon = ShoppingBasketCrissCross;

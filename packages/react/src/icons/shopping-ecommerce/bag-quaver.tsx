@@ -126,5 +126,7 @@ export function BagQuaver({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BagQuaver.displayName = "IconBagQuaver";
+
 export const IconBagQuaver = BagQuaver;
 export const BagQuaverIcon = BagQuaver;

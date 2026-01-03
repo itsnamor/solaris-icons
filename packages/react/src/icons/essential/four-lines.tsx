@@ -76,5 +76,7 @@ export function FourLines({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FourLines.displayName = "IconFourLines";
+
 export const IconFourLines = FourLines;
 export const FourLinesIcon = FourLines;

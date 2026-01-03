@@ -89,5 +89,7 @@ export function Garage({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Garage.displayName = "IconGarage";
+
 export const IconGarage = Garage;
 export const GarageIcon = Garage;

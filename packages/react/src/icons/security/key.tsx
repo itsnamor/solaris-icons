@@ -62,5 +62,7 @@ export function Key({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Key.displayName = "IconKey";
+
 export const IconKey = Key;
 export const KeyIcon = Key;

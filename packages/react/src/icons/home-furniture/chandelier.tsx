@@ -105,5 +105,7 @@ export function Chandelier({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Chandelier.displayName = "IconChandelier";
+
 export const IconChandelier = Chandelier;
 export const ChandelierIcon = Chandelier;

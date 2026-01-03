@@ -93,5 +93,7 @@ export function SquareKeyInCorner({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareKeyInCorner.displayName = "IconSquareKeyInCorner";
+
 export const IconSquareKeyInCorner = SquareKeyInCorner;
 export const SquareKeyInCornerIcon = SquareKeyInCorner;

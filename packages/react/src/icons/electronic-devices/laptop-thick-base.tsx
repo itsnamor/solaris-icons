@@ -74,5 +74,7 @@ export function LaptopThickBase({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LaptopThickBase.displayName = "IconLaptopThickBase";
+
 export const IconLaptopThickBase = LaptopThickBase;
 export const LaptopThickBaseIcon = LaptopThickBase;

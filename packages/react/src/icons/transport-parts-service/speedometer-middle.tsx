@@ -97,5 +97,7 @@ export function SpeedometerMiddle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SpeedometerMiddle.displayName = "IconSpeedometerMiddle";
+
 export const IconSpeedometerMiddle = SpeedometerMiddle;
 export const SpeedometerMiddleIcon = SpeedometerMiddle;

@@ -103,5 +103,7 @@ export function BatteryCharge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BatteryCharge.displayName = "IconBatteryCharge";
+
 export const IconBatteryCharge = BatteryCharge;
 export const BatteryChargeIcon = BatteryCharge;

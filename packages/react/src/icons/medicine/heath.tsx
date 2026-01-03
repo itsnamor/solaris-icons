@@ -88,5 +88,7 @@ export function Heath({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Heath.displayName = "IconHeath";
+
 export const IconHeath = Heath;
 export const HeathIcon = Heath;

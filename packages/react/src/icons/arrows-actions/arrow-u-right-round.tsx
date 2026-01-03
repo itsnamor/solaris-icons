@@ -75,5 +75,7 @@ export function ArrowURightRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArrowURightRound.displayName = "IconArrowURightRound";
+
 export const IconArrowURightRound = ArrowURightRound;
 export const ArrowURightRoundIcon = ArrowURightRound;

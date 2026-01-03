@@ -108,5 +108,7 @@ export function ImagePlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ImagePlus.displayName = "IconImagePlus";
+
 export const IconImagePlus = ImagePlus;
 export const ImagePlusIcon = ImagePlus;

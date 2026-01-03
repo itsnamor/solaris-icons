@@ -98,5 +98,7 @@ export function BookOpen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BookOpen.displayName = "IconBookOpen";
+
 export const IconBookOpen = BookOpen;
 export const BookOpenIcon = BookOpen;

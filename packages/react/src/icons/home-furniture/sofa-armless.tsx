@@ -80,5 +80,7 @@ export function SofaArmless({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SofaArmless.displayName = "IconSofaArmless";
+
 export const IconSofaArmless = SofaArmless;
 export const SofaArmlessIcon = SofaArmless;

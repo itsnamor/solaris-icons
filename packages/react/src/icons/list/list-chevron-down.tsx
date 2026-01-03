@@ -97,5 +97,7 @@ export function ListChevronDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListChevronDown.displayName = "IconListChevronDown";
+
 export const IconListChevronDown = ListChevronDown;
 export const ListChevronDownIcon = ListChevronDown;

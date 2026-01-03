@@ -101,5 +101,7 @@ export function ThreeCirclesOverlap({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ThreeCirclesOverlap.displayName = "IconThreeCirclesOverlap";
+
 export const IconThreeCirclesOverlap = ThreeCirclesOverlap;
 export const ThreeCirclesOverlapIcon = ThreeCirclesOverlap;

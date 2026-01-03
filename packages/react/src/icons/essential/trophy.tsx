@@ -161,5 +161,7 @@ export function Trophy({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Trophy.displayName = "IconTrophy";
+
 export const IconTrophy = Trophy;
 export const TrophyIcon = Trophy;

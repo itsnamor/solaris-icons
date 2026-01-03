@@ -95,5 +95,7 @@ export function SquareCursor({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareCursor.displayName = "IconSquareCursor";
+
 export const IconSquareCursor = SquareCursor;
 export const SquareCursorIcon = SquareCursor;

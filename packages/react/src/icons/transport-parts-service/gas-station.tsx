@@ -118,5 +118,7 @@ export function GasStation({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+GasStation.displayName = "IconGasStation";
+
 export const IconGasStation = GasStation;
 export const GasStationIcon = GasStation;

@@ -107,5 +107,7 @@ export function MapPinEllipse({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MapPinEllipse.displayName = "IconMapPinEllipse";
+
 export const IconMapPinEllipse = MapPinEllipse;
 export const MapPinEllipseIcon = MapPinEllipse;

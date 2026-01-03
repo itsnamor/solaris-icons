@@ -117,5 +117,7 @@ export function Database({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Database.displayName = "IconDatabase";
+
 export const IconDatabase = Database;
 export const DatabaseIcon = Database;

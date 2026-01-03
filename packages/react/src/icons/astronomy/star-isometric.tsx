@@ -78,5 +78,7 @@ export function StarIsometric({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StarIsometric.displayName = "IconStarIsometric";
+
 export const IconStarIsometric = StarIsometric;
 export const StarIsometricIcon = StarIsometric;

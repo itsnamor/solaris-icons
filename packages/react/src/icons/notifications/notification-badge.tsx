@@ -75,5 +75,7 @@ export function NotificationBadge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+NotificationBadge.displayName = "IconNotificationBadge";
+
 export const IconNotificationBadge = NotificationBadge;
 export const NotificationBadgeIcon = NotificationBadge;

@@ -93,5 +93,7 @@ export function ChartPieLoose({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChartPieLoose.displayName = "IconChartPieLoose";
+
 export const IconChartPieLoose = ChartPieLoose;
 export const ChartPieLooseIcon = ChartPieLoose;

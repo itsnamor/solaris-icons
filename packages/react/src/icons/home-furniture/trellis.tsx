@@ -126,5 +126,7 @@ export function Trellis({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Trellis.displayName = "IconTrellis";
+
 export const IconTrellis = Trellis;
 export const TrellisIcon = Trellis;

@@ -104,5 +104,7 @@ export function Asteroid({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Asteroid.displayName = "IconAsteroid";
+
 export const IconAsteroid = Asteroid;
 export const AsteroidIcon = Asteroid;

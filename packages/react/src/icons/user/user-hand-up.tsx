@@ -97,5 +97,7 @@ export function UserHandUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+UserHandUp.displayName = "IconUserHandUp";
+
 export const IconUserHandUp = UserHandUp;
 export const UserHandUpIcon = UserHandUp;

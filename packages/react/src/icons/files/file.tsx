@@ -85,5 +85,7 @@ export function File({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+File.displayName = "IconFile";
+
 export const IconFile = File;
 export const FileIcon = File;

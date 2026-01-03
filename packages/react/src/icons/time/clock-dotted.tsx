@@ -124,5 +124,7 @@ export function ClockDotted({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ClockDotted.displayName = "IconClockDotted";
+
 export const IconClockDotted = ClockDotted;
 export const ClockDottedIcon = ClockDotted;

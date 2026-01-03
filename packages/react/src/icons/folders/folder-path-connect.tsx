@@ -103,5 +103,7 @@ export function FolderPathConnect({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FolderPathConnect.displayName = "IconFolderPathConnect";
+
 export const IconFolderPathConnect = FolderPathConnect;
 export const FolderPathConnectIcon = FolderPathConnect;

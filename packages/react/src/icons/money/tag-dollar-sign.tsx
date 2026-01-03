@@ -100,5 +100,7 @@ export function TagDollarSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TagDollarSign.displayName = "IconTagDollarSign";
+
 export const IconTagDollarSign = TagDollarSign;
 export const TagDollarSignIcon = TagDollarSign;

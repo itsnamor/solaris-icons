@@ -90,5 +90,7 @@ export function TriangleExclamationMark({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TriangleExclamationMark.displayName = "IconTriangleExclamationMark";
+
 export const IconTriangleExclamationMark = TriangleExclamationMark;
 export const TriangleExclamationMarkIcon = TriangleExclamationMark;

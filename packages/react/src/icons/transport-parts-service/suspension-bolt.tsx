@@ -107,5 +107,7 @@ export function SuspensionBolt({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SuspensionBolt.displayName = "IconSuspensionBolt";
+
 export const IconSuspensionBolt = SuspensionBolt;
 export const SuspensionBoltIcon = SuspensionBolt;

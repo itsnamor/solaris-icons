@@ -122,5 +122,7 @@ export function SeaSun({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SeaSun.displayName = "IconSeaSun";
+
 export const IconSeaSun = SeaSun;
 export const SeaSunIcon = SeaSun;

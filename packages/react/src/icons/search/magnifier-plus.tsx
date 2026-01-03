@@ -86,5 +86,7 @@ export function MagnifierPlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MagnifierPlus.displayName = "IconMagnifierPlus";
+
 export const IconMagnifierPlus = MagnifierPlus;
 export const MagnifierPlusIcon = MagnifierPlus;

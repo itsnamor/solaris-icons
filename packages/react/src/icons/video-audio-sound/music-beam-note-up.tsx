@@ -73,5 +73,7 @@ export function MusicBeamNoteUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MusicBeamNoteUp.displayName = "IconMusicBeamNoteUp";
+
 export const IconMusicBeamNoteUp = MusicBeamNoteUp;
 export const MusicBeamNoteUpIcon = MusicBeamNoteUp;

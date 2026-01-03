@@ -102,5 +102,7 @@ export function SquareGraphDot({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareGraphDot.displayName = "IconSquareGraphDot";
+
 export const IconSquareGraphDot = SquareGraphDot;
 export const SquareGraphDotIcon = SquareGraphDot;

@@ -100,5 +100,7 @@ export function SquareHashSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareHashSign.displayName = "IconSquareHashSign";
+
 export const IconSquareHashSign = SquareHashSign;
 export const SquareHashSignIcon = SquareHashSign;

@@ -99,5 +99,7 @@ export function RewindFiveBack({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RewindFiveBack.displayName = "IconRewindFiveBack";
+
 export const IconRewindFiveBack = RewindFiveBack;
 export const RewindFiveBackIcon = RewindFiveBack;

@@ -140,5 +140,7 @@ export function CardArrowsUpDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CardArrowsUpDown.displayName = "IconCardArrowsUpDown";
+
 export const IconCardArrowsUpDown = CardArrowsUpDown;
 export const CardArrowsUpDownIcon = CardArrowsUpDown;

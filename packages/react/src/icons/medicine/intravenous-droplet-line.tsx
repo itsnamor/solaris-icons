@@ -130,5 +130,7 @@ export function IntravenousDropletLine({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+IntravenousDropletLine.displayName = "IconIntravenousDropletLine";
+
 export const IconIntravenousDropletLine = IntravenousDropletLine;
 export const IntravenousDropletLineIcon = IntravenousDropletLine;

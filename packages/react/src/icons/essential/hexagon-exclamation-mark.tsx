@@ -96,5 +96,7 @@ export function HexagonExclamationMark({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HexagonExclamationMark.displayName = "IconHexagonExclamationMark";
+
 export const IconHexagonExclamationMark = HexagonExclamationMark;
 export const HexagonExclamationMarkIcon = HexagonExclamationMark;

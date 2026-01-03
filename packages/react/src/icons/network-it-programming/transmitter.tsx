@@ -136,5 +136,7 @@ export function Transmitter({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Transmitter.displayName = "IconTransmitter";
+
 export const IconTransmitter = Transmitter;
 export const TransmitterIcon = Transmitter;

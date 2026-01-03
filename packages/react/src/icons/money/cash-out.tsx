@@ -131,5 +131,7 @@ export function CashOut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CashOut.displayName = "IconCashOut";
+
 export const IconCashOut = CashOut;
 export const CashOutIcon = CashOut;

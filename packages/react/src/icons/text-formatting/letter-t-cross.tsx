@@ -82,5 +82,7 @@ export function LetterTCross({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LetterTCross.displayName = "IconLetterTCross";
+
 export const IconLetterTCross = LetterTCross;
 export const LetterTCrossIcon = LetterTCross;

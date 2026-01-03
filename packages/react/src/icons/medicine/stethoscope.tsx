@@ -104,5 +104,7 @@ export function Stethoscope({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Stethoscope.displayName = "IconStethoscope";
+
 export const IconStethoscope = Stethoscope;
 export const StethoscopeIcon = Stethoscope;

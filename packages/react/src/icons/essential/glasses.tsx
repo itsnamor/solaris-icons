@@ -81,5 +81,7 @@ export function Glasses({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Glasses.displayName = "IconGlasses";
+
 export const IconGlasses = Glasses;
 export const GlassesIcon = Glasses;

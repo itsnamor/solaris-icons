@@ -90,5 +90,7 @@ export function GraphPresent({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+GraphPresent.displayName = "IconGraphPresent";
+
 export const IconGraphPresent = GraphPresent;
 export const GraphPresentIcon = GraphPresent;

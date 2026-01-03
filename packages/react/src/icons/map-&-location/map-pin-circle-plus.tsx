@@ -93,5 +93,7 @@ export function MapPinCirclePlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MapPinCirclePlus.displayName = "IconMapPinCirclePlus";
+
 export const IconMapPinCirclePlus = MapPinCirclePlus;
 export const MapPinCirclePlusIcon = MapPinCirclePlus;

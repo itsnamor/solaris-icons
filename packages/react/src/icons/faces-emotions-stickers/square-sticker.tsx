@@ -84,5 +84,7 @@ export function SquareSticker({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareSticker.displayName = "IconSquareSticker";
+
 export const IconSquareSticker = SquareSticker;
 export const SquareStickerIcon = SquareSticker;

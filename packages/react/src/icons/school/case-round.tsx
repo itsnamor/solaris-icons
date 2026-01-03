@@ -130,5 +130,7 @@ export function CaseRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CaseRound.displayName = "IconCaseRound";
+
 export const IconCaseRound = CaseRound;
 export const CaseRoundIcon = CaseRound;

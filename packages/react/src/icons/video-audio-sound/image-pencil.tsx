@@ -117,5 +117,7 @@ export function ImagePencil({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ImagePencil.displayName = "IconImagePencil";
+
 export const IconImagePencil = ImagePencil;
 export const ImagePencilIcon = ImagePencil;

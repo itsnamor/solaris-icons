@@ -76,5 +76,7 @@ export function SquareSoundwave({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareSoundwave.displayName = "IconSquareSoundwave";
+
 export const IconSquareSoundwave = SquareSoundwave;
 export const SquareSoundwaveIcon = SquareSoundwave;

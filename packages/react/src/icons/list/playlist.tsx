@@ -97,5 +97,7 @@ export function Playlist({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Playlist.displayName = "IconPlaylist";
+
 export const IconPlaylist = Playlist;
 export const PlaylistIcon = Playlist;

@@ -138,5 +138,7 @@ export function SirenRounded({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SirenRounded.displayName = "IconSirenRounded";
+
 export const IconSirenRounded = SirenRounded;
 export const SirenRoundedIcon = SirenRounded;

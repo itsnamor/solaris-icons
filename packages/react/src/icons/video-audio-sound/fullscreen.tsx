@@ -85,5 +85,7 @@ export function Fullscreen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Fullscreen.displayName = "IconFullscreen";
+
 export const IconFullscreen = Fullscreen;
 export const FullscreenIcon = Fullscreen;

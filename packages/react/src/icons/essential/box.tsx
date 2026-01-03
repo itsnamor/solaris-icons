@@ -77,5 +77,7 @@ export function Box({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Box.displayName = "IconBox";
+
 export const IconBox = Box;
 export const BoxIcon = Box;

@@ -86,5 +86,7 @@ export function HeartPulseSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HeartPulseSimple.displayName = "IconHeartPulseSimple";
+
 export const IconHeartPulseSimple = HeartPulseSimple;
 export const HeartPulseSimpleIcon = HeartPulseSimple;

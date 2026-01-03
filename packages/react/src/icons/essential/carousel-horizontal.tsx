@@ -83,5 +83,7 @@ export function CarouselHorizontal({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CarouselHorizontal.displayName = "IconCarouselHorizontal";
+
 export const IconCarouselHorizontal = CarouselHorizontal;
 export const CarouselHorizontalIcon = CarouselHorizontal;

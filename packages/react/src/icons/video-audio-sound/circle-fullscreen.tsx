@@ -82,5 +82,7 @@ export function CircleFullscreen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleFullscreen.displayName = "IconCircleFullscreen";
+
 export const IconCircleFullscreen = CircleFullscreen;
 export const CircleFullscreenIcon = CircleFullscreen;

@@ -94,5 +94,7 @@ export function InboxBadge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+InboxBadge.displayName = "IconInboxBadge";
+
 export const IconInboxBadge = InboxBadge;
 export const InboxBadgeIcon = InboxBadge;

@@ -116,5 +116,7 @@ export function Case({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Case.displayName = "IconCase";
+
 export const IconCase = Case;
 export const CaseIcon = Case;

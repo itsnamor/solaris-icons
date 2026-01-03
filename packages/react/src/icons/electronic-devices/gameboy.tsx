@@ -122,5 +122,7 @@ export function Gameboy({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Gameboy.displayName = "IconGameboy";
+
 export const IconGameboy = Gameboy;
 export const GameboyIcon = Gameboy;

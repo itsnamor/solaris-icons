@@ -90,5 +90,7 @@ export function MessageBadgeRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MessageBadgeRound.displayName = "IconMessageBadgeRound";
+
 export const IconMessageBadgeRound = MessageBadgeRound;
 export const MessageBadgeRoundIcon = MessageBadgeRound;

@@ -123,5 +123,7 @@ export function ImageArrowUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ImageArrowUp.displayName = "IconImageArrowUp";
+
 export const IconImageArrowUp = ImageArrowUp;
 export const ImageArrowUpIcon = ImageArrowUp;

@@ -135,5 +135,7 @@ export function Projector({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Projector.displayName = "IconProjector";
+
 export const IconProjector = Projector;
 export const ProjectorIcon = Projector;

@@ -138,5 +138,7 @@ export function Incognito({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Incognito.displayName = "IconIncognito";
+
 export const IconIncognito = Incognito;
 export const IncognitoIcon = Incognito;

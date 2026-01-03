@@ -148,5 +148,7 @@ export function SignalTower({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SignalTower.displayName = "IconSignalTower";
+
 export const IconSignalTower = SignalTower;
 export const SignalTowerIcon = SignalTower;

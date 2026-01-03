@@ -95,5 +95,7 @@ export function RoutingMapPin({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RoutingMapPin.displayName = "IconRoutingMapPin";
+
 export const IconRoutingMapPin = RoutingMapPin;
 export const RoutingMapPinIcon = RoutingMapPin;

@@ -90,5 +90,7 @@ export function SquareChevronRight({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareChevronRight.displayName = "IconSquareChevronRight";
+
 export const IconSquareChevronRight = SquareChevronRight;
 export const SquareChevronRightIcon = SquareChevronRight;

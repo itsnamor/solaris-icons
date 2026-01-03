@@ -101,5 +101,7 @@ export function HandMoney({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HandMoney.displayName = "IconHandMoney";
+
 export const IconHandMoney = HandMoney;
 export const HandMoneyIcon = HandMoney;

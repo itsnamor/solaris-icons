@@ -126,5 +126,7 @@ export function SquareMapWithPin({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareMapWithPin.displayName = "IconSquareMapWithPin";
+
 export const IconSquareMapWithPin = SquareMapWithPin;
 export const SquareMapWithPinIcon = SquareMapWithPin;

@@ -71,5 +71,7 @@ export function ArrowRightDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArrowRightDown.displayName = "IconArrowRightDown";
+
 export const IconArrowRightDown = ArrowRightDown;
 export const ArrowRightDownIcon = ArrowRightDown;

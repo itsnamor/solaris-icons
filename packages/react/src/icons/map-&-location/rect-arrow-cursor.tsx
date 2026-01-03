@@ -98,5 +98,7 @@ export function RectArrowCursor({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RectArrowCursor.displayName = "IconRectArrowCursor";
+
 export const IconRectArrowCursor = RectArrowCursor;
 export const RectArrowCursorIcon = RectArrowCursor;

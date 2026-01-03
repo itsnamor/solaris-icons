@@ -88,5 +88,7 @@ export function BookSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BookSimple.displayName = "IconBookSimple";
+
 export const IconBookSimple = BookSimple;
 export const BookSimpleIcon = BookSimple;

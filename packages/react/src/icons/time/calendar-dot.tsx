@@ -121,5 +121,7 @@ export function CalendarDot({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CalendarDot.displayName = "IconCalendarDot";
+
 export const IconCalendarDot = CalendarDot;
 export const CalendarDotIcon = CalendarDot;

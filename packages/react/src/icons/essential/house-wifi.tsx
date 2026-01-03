@@ -106,5 +106,7 @@ export function HouseWifi({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HouseWifi.displayName = "IconHouseWifi";
+
 export const IconHouseWifi = HouseWifi;
 export const HouseWifiIcon = HouseWifi;

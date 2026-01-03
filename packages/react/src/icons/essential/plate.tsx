@@ -84,5 +84,7 @@ export function Plate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Plate.displayName = "IconPlate";
+
 export const IconPlate = Plate;
 export const PlateIcon = Plate;

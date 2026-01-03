@@ -94,5 +94,7 @@ export function CircleUser({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleUser.displayName = "IconCircleUser";
+
 export const IconCircleUser = CircleUser;
 export const CircleUserIcon = CircleUser;

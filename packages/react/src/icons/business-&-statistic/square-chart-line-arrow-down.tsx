@@ -96,5 +96,7 @@ export function SquareChartLineArrowDown({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareChartLineArrowDown.displayName = "IconSquareChartLineArrowDown";
+
 export const IconSquareChartLineArrowDown = SquareChartLineArrowDown;
 export const SquareChartLineArrowDownIcon = SquareChartLineArrowDown;

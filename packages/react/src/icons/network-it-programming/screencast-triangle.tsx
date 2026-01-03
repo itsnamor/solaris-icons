@@ -96,5 +96,7 @@ export function ScreencastTriangle({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ScreencastTriangle.displayName = "IconScreencastTriangle";
+
 export const IconScreencastTriangle = ScreencastTriangle;
 export const ScreencastTriangleIcon = ScreencastTriangle;

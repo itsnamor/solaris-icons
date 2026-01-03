@@ -90,5 +90,7 @@ export function HouseSmileAngle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HouseSmileAngle.displayName = "IconHouseSmileAngle";
+
 export const IconHouseSmileAngle = HouseSmileAngle;
 export const HouseSmileAngleIcon = HouseSmileAngle;

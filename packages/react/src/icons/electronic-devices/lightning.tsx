@@ -163,5 +163,7 @@ export function Lightning({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Lightning.displayName = "IconLightning";
+
 export const IconLightning = Lightning;
 export const LightningIcon = Lightning;

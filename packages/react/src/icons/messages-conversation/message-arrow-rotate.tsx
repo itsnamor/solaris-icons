@@ -78,5 +78,7 @@ export function MessageArrowRotate({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MessageArrowRotate.displayName = "IconMessageArrowRotate";
+
 export const IconMessageArrowRotate = MessageArrowRotate;
 export const MessageArrowRotateIcon = MessageArrowRotate;

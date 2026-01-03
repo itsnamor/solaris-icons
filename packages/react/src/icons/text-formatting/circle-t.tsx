@@ -84,5 +84,7 @@ export function CircleT({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleT.displayName = "IconCircleT";
+
 export const IconCircleT = CircleT;
 export const CircleTIcon = CircleT;

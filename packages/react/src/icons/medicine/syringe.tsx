@@ -76,5 +76,7 @@ export function Syringe({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Syringe.displayName = "IconSyringe";
+
 export const IconSyringe = Syringe;
 export const SyringeIcon = Syringe;

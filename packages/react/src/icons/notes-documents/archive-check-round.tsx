@@ -111,5 +111,7 @@ export function ArchiveCheckRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArchiveCheckRound.displayName = "IconArchiveCheckRound";
+
 export const IconArchiveCheckRound = ArchiveCheckRound;
 export const ArchiveCheckRoundIcon = ArchiveCheckRound;

@@ -142,5 +142,7 @@ export function Bacteria({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bacteria.displayName = "IconBacteria";
+
 export const IconBacteria = Bacteria;
 export const BacteriaIcon = Bacteria;

@@ -87,5 +87,7 @@ export function SquareFullscreenQuit({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareFullscreenQuit.displayName = "IconSquareFullscreenQuit";
+
 export const IconSquareFullscreenQuit = SquareFullscreenQuit;
 export const SquareFullscreenQuitIcon = SquareFullscreenQuit;

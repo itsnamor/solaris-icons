@@ -108,5 +108,7 @@ export function ImageX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ImageX.displayName = "IconImageX";
+
 export const IconImageX = ImageX;
 export const ImageXIcon = ImageX;

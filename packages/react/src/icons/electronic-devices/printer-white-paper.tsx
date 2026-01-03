@@ -116,5 +116,7 @@ export function PrinterWhitePaper({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PrinterWhitePaper.displayName = "IconPrinterWhitePaper";
+
 export const IconPrinterWhitePaper = PrinterWhitePaper;
 export const PrinterWhitePaperIcon = PrinterWhitePaper;

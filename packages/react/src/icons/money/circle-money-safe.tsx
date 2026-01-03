@@ -124,5 +124,7 @@ export function CircleMoneySafe({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleMoneySafe.displayName = "IconCircleMoneySafe";
+
 export const IconCircleMoneySafe = CircleMoneySafe;
 export const CircleMoneySafeIcon = CircleMoneySafe;

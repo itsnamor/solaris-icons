@@ -123,5 +123,7 @@ export function RewindFifteenForward({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RewindFifteenForward.displayName = "IconRewindFifteenForward";
+
 export const IconRewindFifteenForward = RewindFifteenForward;
 export const RewindFifteenForwardIcon = RewindFifteenForward;

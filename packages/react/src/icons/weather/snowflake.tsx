@@ -74,5 +74,7 @@ export function Snowflake({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Snowflake.displayName = "IconSnowflake";
+
 export const IconSnowflake = Snowflake;
 export const SnowflakeIcon = Snowflake;

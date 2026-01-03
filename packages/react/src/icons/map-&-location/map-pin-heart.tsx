@@ -78,5 +78,7 @@ export function MapPinHeart({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MapPinHeart.displayName = "IconMapPinHeart";
+
 export const IconMapPinHeart = MapPinHeart;
 export const MapPinHeartIcon = MapPinHeart;

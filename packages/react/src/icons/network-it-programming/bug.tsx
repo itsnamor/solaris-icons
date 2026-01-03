@@ -109,5 +109,7 @@ export function Bug({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bug.displayName = "IconBug";
+
 export const IconBug = Bug;
 export const BugIcon = Bug;

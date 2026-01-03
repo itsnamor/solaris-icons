@@ -80,5 +80,7 @@ export function SquareTLines({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareTLines.displayName = "IconSquareTLines";
+
 export const IconSquareTLines = SquareTLines;
 export const SquareTLinesIcon = SquareTLines;

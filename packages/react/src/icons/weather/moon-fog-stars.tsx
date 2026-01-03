@@ -128,5 +128,7 @@ export function MoonFogStars({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MoonFogStars.displayName = "IconMoonFogStars";
+
 export const IconMoonFogStars = MoonFogStars;
 export const MoonFogStarsIcon = MoonFogStars;

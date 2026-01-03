@@ -79,5 +79,7 @@ export function CirclePlay({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CirclePlay.displayName = "IconCirclePlay";
+
 export const IconCirclePlay = CirclePlay;
 export const CirclePlayIcon = CirclePlay;

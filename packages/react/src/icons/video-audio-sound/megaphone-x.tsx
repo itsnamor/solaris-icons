@@ -84,5 +84,7 @@ export function MegaphoneX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MegaphoneX.displayName = "IconMegaphoneX";
+
 export const IconMegaphoneX = MegaphoneX;
 export const MegaphoneXIcon = MegaphoneX;

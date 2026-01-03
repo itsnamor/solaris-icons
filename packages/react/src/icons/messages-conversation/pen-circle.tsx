@@ -88,5 +88,7 @@ export function PenCircle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PenCircle.displayName = "IconPenCircle";
+
 export const IconPenCircle = PenCircle;
 export const PenCircleIcon = PenCircle;

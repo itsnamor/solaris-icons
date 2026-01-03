@@ -112,5 +112,7 @@ export function FileCloud({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FileCloud.displayName = "IconFileCloud";
+
 export const IconFileCloud = FileCloud;
 export const FileCloudIcon = FileCloud;

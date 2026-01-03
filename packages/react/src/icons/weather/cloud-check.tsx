@@ -97,5 +97,7 @@ export function CloudCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CloudCheck.displayName = "IconCloudCheck";
+
 export const IconCloudCheck = CloudCheck;
 export const CloudCheckIcon = CloudCheck;

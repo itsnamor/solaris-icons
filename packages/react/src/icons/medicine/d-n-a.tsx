@@ -72,5 +72,7 @@ export function DNA({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DNA.displayName = "IconDNA";
+
 export const IconDNA = DNA;
 export const DNAIcon = DNA;

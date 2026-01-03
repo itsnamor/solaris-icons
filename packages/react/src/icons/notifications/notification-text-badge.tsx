@@ -105,5 +105,7 @@ export function NotificationTextBadge({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+NotificationTextBadge.displayName = "IconNotificationTextBadge";
+
 export const IconNotificationTextBadge = NotificationTextBadge;
 export const NotificationTextBadgeIcon = NotificationTextBadge;

@@ -94,5 +94,7 @@ export function Headphones({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Headphones.displayName = "IconHeadphones";
+
 export const IconHeadphones = Headphones;
 export const HeadphonesIcon = Headphones;

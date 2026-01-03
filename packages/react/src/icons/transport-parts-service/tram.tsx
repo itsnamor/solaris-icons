@@ -102,5 +102,7 @@ export function Tram({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Tram.displayName = "IconTram";
+
 export const IconTram = Tram;
 export const TramIcon = Tram;

@@ -83,5 +83,7 @@ export function CloudSun({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CloudSun.displayName = "IconCloudSun";
+
 export const IconCloudSun = CloudSun;
 export const CloudSunIcon = CloudSun;

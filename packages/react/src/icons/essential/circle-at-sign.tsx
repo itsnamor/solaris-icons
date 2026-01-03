@@ -100,5 +100,7 @@ export function CircleAtSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleAtSign.displayName = "IconCircleAtSign";
+
 export const IconCircleAtSign = CircleAtSign;
 export const CircleAtSignIcon = CircleAtSign;

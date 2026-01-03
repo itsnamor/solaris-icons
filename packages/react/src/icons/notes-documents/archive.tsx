@@ -101,5 +101,7 @@ export function Archive({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Archive.displayName = "IconArchive";
+
 export const IconArchive = Archive;
 export const ArchiveIcon = Archive;

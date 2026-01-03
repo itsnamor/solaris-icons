@@ -104,5 +104,7 @@ export function Diploma({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Diploma.displayName = "IconDiploma";
+
 export const IconDiploma = Diploma;
 export const DiplomaIcon = Diploma;

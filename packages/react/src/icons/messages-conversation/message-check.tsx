@@ -83,5 +83,7 @@ export function MessageCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MessageCheck.displayName = "IconMessageCheck";
+
 export const IconMessageCheck = MessageCheck;
 export const MessageCheckIcon = MessageCheck;

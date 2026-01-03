@@ -105,5 +105,7 @@ export function Calculator({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Calculator.displayName = "IconCalculator";
+
 export const IconCalculator = Calculator;
 export const CalculatorIcon = Calculator;

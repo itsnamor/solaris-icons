@@ -106,5 +106,7 @@ export function AlarmPlay({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AlarmPlay.displayName = "IconAlarmPlay";
+
 export const IconAlarmPlay = AlarmPlay;
 export const AlarmPlayIcon = AlarmPlay;

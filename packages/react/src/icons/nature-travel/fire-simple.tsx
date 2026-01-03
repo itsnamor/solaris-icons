@@ -57,5 +57,7 @@ export function FireSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FireSimple.displayName = "IconFireSimple";
+
 export const IconFireSimple = FireSimple;
 export const FireSimpleIcon = FireSimple;

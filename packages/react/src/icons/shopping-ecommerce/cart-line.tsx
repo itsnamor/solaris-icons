@@ -130,5 +130,7 @@ export function CartLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CartLine.displayName = "IconCartLine";
+
 export const IconCartLine = CartLine;
 export const CartLineIcon = CartLine;

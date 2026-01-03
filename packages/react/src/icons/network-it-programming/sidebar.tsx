@@ -78,5 +78,7 @@ export function Sidebar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Sidebar.displayName = "IconSidebar";
+
 export const IconSidebar = Sidebar;
 export const SidebarIcon = Sidebar;

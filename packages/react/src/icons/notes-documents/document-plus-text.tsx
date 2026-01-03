@@ -78,5 +78,7 @@ export function DocumentPlusText({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DocumentPlusText.displayName = "IconDocumentPlusText";
+
 export const IconDocumentPlusText = DocumentPlusText;
 export const DocumentPlusTextIcon = DocumentPlusText;

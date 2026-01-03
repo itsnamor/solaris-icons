@@ -111,5 +111,7 @@ export function PeopleEllipse({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PeopleEllipse.displayName = "IconPeopleEllipse";
+
 export const IconPeopleEllipse = PeopleEllipse;
 export const PeopleEllipseIcon = PeopleEllipse;

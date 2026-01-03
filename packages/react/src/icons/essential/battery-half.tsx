@@ -112,5 +112,7 @@ export function BatteryHalf({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BatteryHalf.displayName = "IconBatteryHalf";
+
 export const IconBatteryHalf = BatteryHalf;
 export const BatteryHalfIcon = BatteryHalf;

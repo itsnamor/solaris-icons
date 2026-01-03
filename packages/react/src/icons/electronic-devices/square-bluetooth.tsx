@@ -107,5 +107,7 @@ export function SquareBluetooth({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareBluetooth.displayName = "IconSquareBluetooth";
+
 export const IconSquareBluetooth = SquareBluetooth;
 export const SquareBluetoothIcon = SquareBluetooth;

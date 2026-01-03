@@ -97,5 +97,7 @@ export function AlignLeft({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AlignLeft.displayName = "IconAlignLeft";
+
 export const IconAlignLeft = AlignLeft;
 export const AlignLeftIcon = AlignLeft;

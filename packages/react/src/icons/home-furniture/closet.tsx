@@ -123,5 +123,7 @@ export function Closet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Closet.displayName = "IconCloset";
+
 export const IconCloset = Closet;
 export const ClosetIcon = Closet;

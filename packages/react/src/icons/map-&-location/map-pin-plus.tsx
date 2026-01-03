@@ -76,5 +76,7 @@ export function MapPinPlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MapPinPlus.displayName = "IconMapPinPlus";
+
 export const IconMapPinPlus = MapPinPlus;
 export const MapPinPlusIcon = MapPinPlus;

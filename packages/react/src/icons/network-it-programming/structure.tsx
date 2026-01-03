@@ -83,5 +83,7 @@ export function Structure({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Structure.displayName = "IconStructure";
+
 export const IconStructure = Structure;
 export const StructureIcon = Structure;

@@ -129,5 +129,7 @@ export function SquaresArrowRightUp({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquaresArrowRightUp.displayName = "IconSquaresArrowRightUp";
+
 export const IconSquaresArrowRightUp = SquaresArrowRightUp;
 export const SquaresArrowRightUpIcon = SquaresArrowRightUp;

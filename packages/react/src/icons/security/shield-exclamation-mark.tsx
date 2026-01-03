@@ -96,5 +96,7 @@ export function ShieldExclamationMark({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShieldExclamationMark.displayName = "IconShieldExclamationMark";
+
 export const IconShieldExclamationMark = ShieldExclamationMark;
 export const ShieldExclamationMarkIcon = ShieldExclamationMark;

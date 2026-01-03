@@ -107,5 +107,7 @@ export function GamepadX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+GamepadX.displayName = "IconGamepadX";
+
 export const IconGamepadX = GamepadX;
 export const GamepadXIcon = GamepadX;

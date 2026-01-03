@@ -113,5 +113,7 @@ export function MapPinAcademicCap({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MapPinAcademicCap.displayName = "IconMapPinAcademicCap";
+
 export const IconMapPinAcademicCap = MapPinAcademicCap;
 export const MapPinAcademicCapIcon = MapPinAcademicCap;

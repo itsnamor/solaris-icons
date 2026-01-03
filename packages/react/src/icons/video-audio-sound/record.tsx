@@ -99,5 +99,7 @@ export function Record({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Record.displayName = "IconRecord";
+
 export const IconRecord = Record;
 export const RecordIcon = Record;

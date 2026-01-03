@@ -111,5 +111,7 @@ export function Pills({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Pills.displayName = "IconPills";
+
 export const IconPills = Pills;
 export const PillsIcon = Pills;

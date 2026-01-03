@@ -83,5 +83,7 @@ export function ThreeDotsConnectCircle({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ThreeDotsConnectCircle.displayName = "IconThreeDotsConnectCircle";
+
 export const IconThreeDotsConnectCircle = ThreeDotsConnectCircle;
 export const ThreeDotsConnectCircleIcon = ThreeDotsConnectCircle;

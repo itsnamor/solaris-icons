@@ -108,5 +108,7 @@ export function CartPlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CartPlus.displayName = "IconCartPlus";
+
 export const IconCartPlus = CartPlus;
 export const CartPlusIcon = CartPlus;

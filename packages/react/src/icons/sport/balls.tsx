@@ -145,5 +145,7 @@ export function Balls({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Balls.displayName = "IconBalls";
+
 export const IconBalls = Balls;
 export const BallsIcon = Balls;

@@ -146,5 +146,7 @@ export function SunFogArrowDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SunFogArrowDown.displayName = "IconSunFogArrowDown";
+
 export const IconSunFogArrowDown = SunFogArrowDown;
 export const SunFogArrowDownIcon = SunFogArrowDown;

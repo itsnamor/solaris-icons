@@ -94,5 +94,7 @@ export function ChartXyUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChartXyUp.displayName = "IconChartXyUp";
+
 export const IconChartXyUp = ChartXyUp;
 export const ChartXyUpIcon = ChartXyUp;

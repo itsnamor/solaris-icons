@@ -115,5 +115,7 @@ export function SquareStickerFaceSmile({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareStickerFaceSmile.displayName = "IconSquareStickerFaceSmile";
+
 export const IconSquareStickerFaceSmile = SquareStickerFaceSmile;
 export const SquareStickerFaceSmileIcon = SquareStickerFaceSmile;

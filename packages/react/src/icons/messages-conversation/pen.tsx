@@ -65,5 +65,7 @@ export function Pen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Pen.displayName = "IconPen";
+
 export const IconPen = Pen;
 export const PenIcon = Pen;

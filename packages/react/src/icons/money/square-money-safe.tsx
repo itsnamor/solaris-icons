@@ -130,5 +130,7 @@ export function SquareMoneySafe({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareMoneySafe.displayName = "IconSquareMoneySafe";
+
 export const IconSquareMoneySafe = SquareMoneySafe;
 export const SquareMoneySafeIcon = SquareMoneySafe;

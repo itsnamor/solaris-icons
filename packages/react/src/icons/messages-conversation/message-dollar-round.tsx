@@ -87,5 +87,7 @@ export function MessageDollarRound({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MessageDollarRound.displayName = "IconMessageDollarRound";
+
 export const IconMessageDollarRound = MessageDollarRound;
 export const MessageDollarRoundIcon = MessageDollarRound;

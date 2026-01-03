@@ -96,5 +96,7 @@ export function GhostSmile({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+GhostSmile.displayName = "IconGhostSmile";
+
 export const IconGhostSmile = GhostSmile;
 export const GhostSmileIcon = GhostSmile;

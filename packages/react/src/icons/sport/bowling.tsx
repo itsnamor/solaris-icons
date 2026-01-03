@@ -123,5 +123,7 @@ export function Bowling({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bowling.displayName = "IconBowling";
+
 export const IconBowling = Bowling;
 export const BowlingIcon = Bowling;

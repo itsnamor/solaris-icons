@@ -76,5 +76,7 @@ export function Compass({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Compass.displayName = "IconCompass";
+
 export const IconCompass = Compass;
 export const CompassIcon = Compass;

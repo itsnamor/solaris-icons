@@ -82,5 +82,7 @@ export function BugSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BugSimple.displayName = "IconBugSimple";
+
 export const IconBugSimple = BugSimple;
 export const BugSimpleIcon = BugSimple;

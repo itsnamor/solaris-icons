@@ -109,5 +109,7 @@ export function CircleILowercase({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleILowercase.displayName = "IconCircleILowercase";
+
 export const IconCircleILowercase = CircleILowercase;
 export const CircleILowercaseIcon = CircleILowercase;

@@ -102,5 +102,7 @@ export function RecordVinyl({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RecordVinyl.displayName = "IconRecordVinyl";
+
 export const IconRecordVinyl = RecordVinyl;
 export const RecordVinylIcon = RecordVinyl;

@@ -128,5 +128,7 @@ export function GamepadCharge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+GamepadCharge.displayName = "IconGamepadCharge";
+
 export const IconGamepadCharge = GamepadCharge;
 export const GamepadChargeIcon = GamepadCharge;

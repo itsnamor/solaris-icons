@@ -63,5 +63,7 @@ export function MessageBadge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MessageBadge.displayName = "IconMessageBadge";
+
 export const IconMessageBadge = MessageBadge;
 export const MessageBadgeIcon = MessageBadge;

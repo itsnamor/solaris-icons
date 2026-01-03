@@ -59,5 +59,7 @@ export function Play({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Play.displayName = "IconPlay";
+
 export const IconPlay = Play;
 export const PlayIcon = Play;

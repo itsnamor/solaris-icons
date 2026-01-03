@@ -104,5 +104,7 @@ export function ServerSquareCloud({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ServerSquareCloud.displayName = "IconServerSquareCloud";
+
 export const IconServerSquareCloud = ServerSquareCloud;
 export const ServerSquareCloudIcon = ServerSquareCloud;

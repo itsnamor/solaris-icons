@@ -93,5 +93,7 @@ export function SquareI({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareI.displayName = "IconSquareI";
+
 export const IconSquareI = SquareI;
 export const SquareIIcon = SquareI;

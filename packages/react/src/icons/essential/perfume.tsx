@@ -162,5 +162,7 @@ export function Perfume({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Perfume.displayName = "IconPerfume";
+
 export const IconPerfume = Perfume;
 export const PerfumeIcon = Perfume;

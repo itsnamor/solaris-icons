@@ -95,5 +95,7 @@ export function SquareTransmission({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareTransmission.displayName = "IconSquareTransmission";
+
 export const IconSquareTransmission = SquareTransmission;
 export const SquareTransmissionIcon = SquareTransmission;

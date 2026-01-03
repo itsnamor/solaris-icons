@@ -76,5 +76,7 @@ export function Lock({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Lock.displayName = "IconLock";
+
 export const IconLock = Lock;
 export const LockIcon = Lock;

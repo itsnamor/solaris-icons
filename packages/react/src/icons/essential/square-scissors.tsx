@@ -92,5 +92,7 @@ export function SquareScissors({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareScissors.displayName = "IconSquareScissors";
+
 export const IconSquareScissors = SquareScissors;
 export const SquareScissorsIcon = SquareScissors;

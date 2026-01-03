@@ -72,5 +72,7 @@ export function Paw({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Paw.displayName = "IconPaw";
+
 export const IconPaw = Paw;
 export const PawIcon = Paw;

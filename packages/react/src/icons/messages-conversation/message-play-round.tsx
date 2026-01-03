@@ -84,5 +84,7 @@ export function MessagePlayRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MessagePlayRound.displayName = "IconMessagePlayRound";
+
 export const IconMessagePlayRound = MessagePlayRound;
 export const MessagePlayRoundIcon = MessagePlayRound;

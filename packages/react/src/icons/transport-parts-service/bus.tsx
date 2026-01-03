@@ -127,5 +127,7 @@ export function Bus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bus.displayName = "IconBus";
+
 export const IconBus = Bus;
 export const BusIcon = Bus;

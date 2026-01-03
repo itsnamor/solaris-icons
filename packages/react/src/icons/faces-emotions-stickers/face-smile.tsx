@@ -103,5 +103,7 @@ export function FaceSmile({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FaceSmile.displayName = "IconFaceSmile";
+
 export const IconFaceSmile = FaceSmile;
 export const FaceSmileIcon = FaceSmile;

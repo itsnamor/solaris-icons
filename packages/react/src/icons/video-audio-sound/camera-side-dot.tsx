@@ -87,5 +87,7 @@ export function CameraSideDot({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CameraSideDot.displayName = "IconCameraSideDot";
+
 export const IconCameraSideDot = CameraSideDot;
 export const CameraSideDotIcon = CameraSideDot;

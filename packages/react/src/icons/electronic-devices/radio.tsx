@@ -133,5 +133,7 @@ export function Radio({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Radio.displayName = "IconRadio";
+
 export const IconRadio = Radio;
 export const RadioIcon = Radio;

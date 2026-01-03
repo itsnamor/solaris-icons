@@ -82,5 +82,7 @@ export function Backspace({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Backspace.displayName = "IconBackspace";
+
 export const IconBackspace = Backspace;
 export const BackspaceIcon = Backspace;

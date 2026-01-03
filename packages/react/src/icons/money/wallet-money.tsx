@@ -160,5 +160,7 @@ export function WalletMoney({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WalletMoney.displayName = "IconWalletMoney";
+
 export const IconWalletMoney = WalletMoney;
 export const WalletMoneyIcon = WalletMoney;

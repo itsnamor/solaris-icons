@@ -68,5 +68,7 @@ export function Minus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Minus.displayName = "IconMinus";
+
 export const IconMinus = Minus;
 export const MinusIcon = Minus;

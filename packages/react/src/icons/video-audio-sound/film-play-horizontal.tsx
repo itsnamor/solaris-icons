@@ -105,5 +105,7 @@ export function FilmPlayHorizontal({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FilmPlayHorizontal.displayName = "IconFilmPlayHorizontal";
+
 export const IconFilmPlayHorizontal = FilmPlayHorizontal;
 export const FilmPlayHorizontalIcon = FilmPlayHorizontal;

@@ -84,5 +84,7 @@ export function Envelope({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Envelope.displayName = "IconEnvelope";
+
 export const IconEnvelope = Envelope;
 export const EnvelopeIcon = Envelope;

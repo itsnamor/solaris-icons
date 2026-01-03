@@ -94,5 +94,7 @@ export function PhoneCancel({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PhoneCancel.displayName = "IconPhoneCancel";
+
 export const IconPhoneCancel = PhoneCancel;
 export const PhoneCancelIcon = PhoneCancel;

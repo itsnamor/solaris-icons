@@ -95,5 +95,7 @@ export function RulerPen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RulerPen.displayName = "IconRulerPen";
+
 export const IconRulerPen = RulerPen;
 export const RulerPenIcon = RulerPen;

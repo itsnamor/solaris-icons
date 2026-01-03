@@ -62,5 +62,7 @@ export function ChevronUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChevronUp.displayName = "IconChevronUp";
+
 export const IconChevronUp = ChevronUp;
 export const ChevronUpIcon = ChevronUp;

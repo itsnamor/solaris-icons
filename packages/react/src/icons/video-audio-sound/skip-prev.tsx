@@ -84,5 +84,7 @@ export function SkipPrev({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SkipPrev.displayName = "IconSkipPrev";
+
 export const IconSkipPrev = SkipPrev;
 export const SkipPrevIcon = SkipPrev;

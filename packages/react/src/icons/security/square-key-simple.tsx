@@ -107,5 +107,7 @@ export function SquareKeySimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareKeySimple.displayName = "IconSquareKeySimple";
+
 export const IconSquareKeySimple = SquareKeySimple;
 export const SquareKeySimpleIcon = SquareKeySimple;

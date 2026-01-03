@@ -84,5 +84,7 @@ export function Wheel({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Wheel.displayName = "IconWheel";
+
 export const IconWheel = Wheel;
 export const WheelIcon = Wheel;

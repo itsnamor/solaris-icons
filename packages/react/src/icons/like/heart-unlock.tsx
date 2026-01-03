@@ -92,5 +92,7 @@ export function HeartUnlock({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HeartUnlock.displayName = "IconHeartUnlock";
+
 export const IconHeartUnlock = HeartUnlock;
 export const HeartUnlockIcon = HeartUnlock;

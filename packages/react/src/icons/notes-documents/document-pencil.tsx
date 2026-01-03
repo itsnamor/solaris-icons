@@ -100,5 +100,7 @@ export function DocumentPencil({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DocumentPencil.displayName = "IconDocumentPencil";
+
 export const IconDocumentPencil = DocumentPencil;
 export const DocumentPencilIcon = DocumentPencil;

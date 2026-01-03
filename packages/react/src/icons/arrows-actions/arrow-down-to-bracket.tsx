@@ -89,5 +89,7 @@ export function ArrowDownToBracket({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArrowDownToBracket.displayName = "IconArrowDownToBracket";
+
 export const IconArrowDownToBracket = ArrowDownToBracket;
 export const ArrowDownToBracketIcon = ArrowDownToBracket;

@@ -82,5 +82,7 @@ export function Leaf({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Leaf.displayName = "IconLeaf";
+
 export const IconLeaf = Leaf;
 export const LeafIcon = Leaf;

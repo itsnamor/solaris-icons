@@ -92,5 +92,7 @@ export function Square4K({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Square4K.displayName = "IconSquare4K";
+
 export const IconSquare4K = Square4K;
 export const Square4KIcon = Square4K;

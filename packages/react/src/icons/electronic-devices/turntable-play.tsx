@@ -125,5 +125,7 @@ export function TurntablePlay({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+TurntablePlay.displayName = "IconTurntablePlay";
+
 export const IconTurntablePlay = TurntablePlay;
 export const TurntablePlayIcon = TurntablePlay;

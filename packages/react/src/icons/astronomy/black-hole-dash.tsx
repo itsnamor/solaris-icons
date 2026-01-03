@@ -138,5 +138,7 @@ export function BlackHoleDash({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BlackHoleDash.displayName = "IconBlackHoleDash";
+
 export const IconBlackHoleDash = BlackHoleDash;
 export const BlackHoleDashIcon = BlackHoleDash;

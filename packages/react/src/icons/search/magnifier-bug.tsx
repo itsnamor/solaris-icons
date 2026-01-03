@@ -102,5 +102,7 @@ export function MagnifierBug({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MagnifierBug.displayName = "IconMagnifierBug";
+
 export const IconMagnifierBug = MagnifierBug;
 export const MagnifierBugIcon = MagnifierBug;

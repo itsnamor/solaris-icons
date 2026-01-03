@@ -82,5 +82,7 @@ export function Subtitles({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Subtitles.displayName = "IconSubtitles";
+
 export const IconSubtitles = Subtitles;
 export const SubtitlesIcon = Subtitles;

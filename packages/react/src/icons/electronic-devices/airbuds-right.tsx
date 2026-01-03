@@ -161,5 +161,7 @@ export function AirbudsRight({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AirbudsRight.displayName = "IconAirbudsRight";
+
 export const IconAirbudsRight = AirbudsRight;
 export const AirbudsRightIcon = AirbudsRight;

@@ -99,5 +99,7 @@ export function RocketBoost({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RocketBoost.displayName = "IconRocketBoost";
+
 export const IconRocketBoost = RocketBoost;
 export const RocketBoostIcon = RocketBoost;

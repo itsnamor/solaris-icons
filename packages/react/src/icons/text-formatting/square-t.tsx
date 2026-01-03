@@ -84,5 +84,7 @@ export function SquareT({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareT.displayName = "IconSquareT";
+
 export const IconSquareT = SquareT;
 export const SquareTIcon = SquareT;

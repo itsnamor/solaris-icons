@@ -118,5 +118,7 @@ export function InboxArchive({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+InboxArchive.displayName = "IconInboxArchive";
+
 export const IconInboxArchive = InboxArchive;
 export const InboxArchiveIcon = InboxArchive;

@@ -87,5 +87,7 @@ export function SmartSpeakerSimple({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartSpeakerSimple.displayName = "IconSmartSpeakerSimple";
+
 export const IconSmartSpeakerSimple = SmartSpeakerSimple;
 export const SmartSpeakerSimpleIcon = SmartSpeakerSimple;

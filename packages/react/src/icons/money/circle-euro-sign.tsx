@@ -82,5 +82,7 @@ export function CircleEuroSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleEuroSign.displayName = "IconCircleEuroSign";
+
 export const IconCircleEuroSign = CircleEuroSign;
 export const CircleEuroSignIcon = CircleEuroSign;

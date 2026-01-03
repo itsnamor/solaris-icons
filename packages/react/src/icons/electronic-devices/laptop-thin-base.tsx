@@ -82,5 +82,7 @@ export function LaptopThinBase({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LaptopThinBase.displayName = "IconLaptopThinBase";
+
 export const IconLaptopThinBase = LaptopThinBase;
 export const LaptopThinBaseIcon = LaptopThinBase;

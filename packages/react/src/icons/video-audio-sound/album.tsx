@@ -107,5 +107,7 @@ export function Album({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Album.displayName = "IconAlbum";
+
 export const IconAlbum = Album;
 export const AlbumIcon = Album;

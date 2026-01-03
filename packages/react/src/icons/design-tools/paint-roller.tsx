@@ -73,5 +73,7 @@ export function PaintRoller({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PaintRoller.displayName = "IconPaintRoller";
+
 export const IconPaintRoller = PaintRoller;
 export const PaintRollerIcon = PaintRoller;

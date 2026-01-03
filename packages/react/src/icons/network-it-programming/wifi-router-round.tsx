@@ -197,5 +197,7 @@ export function WifiRouterRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WifiRouterRound.displayName = "IconWifiRouterRound";
+
 export const IconWifiRouterRound = WifiRouterRound;
 export const WifiRouterRoundIcon = WifiRouterRound;

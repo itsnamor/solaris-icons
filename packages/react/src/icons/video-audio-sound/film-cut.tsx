@@ -122,5 +122,7 @@ export function FilmCut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FilmCut.displayName = "IconFilmCut";
+
 export const IconFilmCut = FilmCut;
 export const FilmCutIcon = FilmCut;

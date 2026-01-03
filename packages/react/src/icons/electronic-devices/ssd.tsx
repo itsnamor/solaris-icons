@@ -96,5 +96,7 @@ export function Ssd({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Ssd.displayName = "IconSsd";
+
 export const IconSsd = Ssd;
 export const SsdIcon = Ssd;

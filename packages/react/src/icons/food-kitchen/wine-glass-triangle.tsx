@@ -79,5 +79,7 @@ export function WineGlassTriangle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WineGlassTriangle.displayName = "IconWineGlassTriangle";
+
 export const IconWineGlassTriangle = WineGlassTriangle;
 export const WineGlassTriangleIcon = WineGlassTriangle;

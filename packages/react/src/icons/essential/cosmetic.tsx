@@ -118,5 +118,7 @@ export function Cosmetic({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Cosmetic.displayName = "IconCosmetic";
+
 export const IconCosmetic = Cosmetic;
 export const CosmeticIcon = Cosmetic;

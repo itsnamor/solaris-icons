@@ -110,5 +110,7 @@ export function FlashlightOn({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FlashlightOn.displayName = "IconFlashlightOn";
+
 export const IconFlashlightOn = FlashlightOn;
 export const FlashlightOnIcon = FlashlightOn;

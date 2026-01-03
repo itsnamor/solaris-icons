@@ -135,5 +135,7 @@ export function Passport({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Passport.displayName = "IconPassport";
+
 export const IconPassport = Passport;
 export const PassportIcon = Passport;

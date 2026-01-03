@@ -76,5 +76,7 @@ export function BillX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BillX.displayName = "IconBillX";
+
 export const IconBillX = BillX;
 export const BillXIcon = BillX;

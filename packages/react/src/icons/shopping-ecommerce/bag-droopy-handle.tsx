@@ -84,5 +84,7 @@ export function BagDroopyHandle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BagDroopyHandle.displayName = "IconBagDroopyHandle";
+
 export const IconBagDroopyHandle = BagDroopyHandle;
 export const BagDroopyHandleIcon = BagDroopyHandle;

@@ -115,5 +115,7 @@ export function FileCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FileCheck.displayName = "IconFileCheck";
+
 export const IconFileCheck = FileCheck;
 export const FileCheckIcon = FileCheck;

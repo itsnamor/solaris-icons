@@ -122,5 +122,7 @@ export function WirelessCharge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WirelessCharge.displayName = "IconWirelessCharge";
+
 export const IconWirelessCharge = WirelessCharge;
 export const WirelessChargeIcon = WirelessCharge;

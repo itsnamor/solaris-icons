@@ -160,5 +160,7 @@ export function WifiRouterSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WifiRouterSimple.displayName = "IconWifiRouterSimple";
+
 export const IconWifiRouterSimple = WifiRouterSimple;
 export const WifiRouterSimpleIcon = WifiRouterSimple;

@@ -90,5 +90,7 @@ export function SquareArrowsUpDownMerge({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareArrowsUpDownMerge.displayName = "IconSquareArrowsUpDownMerge";
+
 export const IconSquareArrowsUpDownMerge = SquareArrowsUpDownMerge;
 export const SquareArrowsUpDownMergeIcon = SquareArrowsUpDownMerge;

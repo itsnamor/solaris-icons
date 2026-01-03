@@ -97,5 +97,7 @@ export function Eye({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Eye.displayName = "IconEye";
+
 export const IconEye = Eye;
 export const EyeIcon = Eye;

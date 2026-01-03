@@ -113,5 +113,7 @@ export function StarsSmall({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StarsSmall.displayName = "IconStarsSmall";
+
 export const IconStarsSmall = StarsSmall;
 export const StarsSmallIcon = StarsSmall;

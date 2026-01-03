@@ -147,5 +147,7 @@ export function Boombox({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Boombox.displayName = "IconBoombox";
+
 export const IconBoombox = Boombox;
 export const BoomboxIcon = Boombox;

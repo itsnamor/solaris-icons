@@ -93,5 +93,7 @@ export function MonitorCamera({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MonitorCamera.displayName = "IconMonitorCamera";
+
 export const IconMonitorCamera = MonitorCamera;
 export const MonitorCameraIcon = MonitorCamera;

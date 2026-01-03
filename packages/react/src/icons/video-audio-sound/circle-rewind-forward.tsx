@@ -89,5 +89,7 @@ export function CircleRewindForward({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleRewindForward.displayName = "IconCircleRewindForward";
+
 export const IconCircleRewindForward = CircleRewindForward;
 export const CircleRewindForwardIcon = CircleRewindForward;

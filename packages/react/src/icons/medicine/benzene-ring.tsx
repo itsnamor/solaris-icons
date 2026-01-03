@@ -114,5 +114,7 @@ export function BenzeneRing({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BenzeneRing.displayName = "IconBenzeneRing";
+
 export const IconBenzeneRing = BenzeneRing;
 export const BenzeneRingIcon = BenzeneRing;

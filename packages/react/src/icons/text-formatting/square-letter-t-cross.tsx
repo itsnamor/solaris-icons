@@ -87,5 +87,7 @@ export function SquareLetterTCross({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareLetterTCross.displayName = "IconSquareLetterTCross";
+
 export const IconSquareLetterTCross = SquareLetterTCross;
 export const SquareLetterTCrossIcon = SquareLetterTCross;

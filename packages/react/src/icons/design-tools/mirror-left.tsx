@@ -113,5 +113,7 @@ export function MirrorLeft({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MirrorLeft.displayName = "IconMirrorLeft";
+
 export const IconMirrorLeft = MirrorLeft;
 export const MirrorLeftIcon = MirrorLeft;

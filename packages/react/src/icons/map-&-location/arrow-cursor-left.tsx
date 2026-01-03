@@ -66,5 +66,7 @@ export function ArrowCursorLeft({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ArrowCursorLeft.displayName = "IconArrowCursorLeft";
+
 export const IconArrowCursorLeft = ArrowCursorLeft;
 export const ArrowCursorLeftIcon = ArrowCursorLeft;

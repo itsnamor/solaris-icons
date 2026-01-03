@@ -85,5 +85,7 @@ export function FolderBookmark({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FolderBookmark.displayName = "IconFolderBookmark";
+
 export const IconFolderBookmark = FolderBookmark;
 export const FolderBookmarkIcon = FolderBookmark;

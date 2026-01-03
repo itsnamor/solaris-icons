@@ -92,5 +92,7 @@ export function ShieldKeyhole({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShieldKeyhole.displayName = "IconShieldKeyhole";
+
 export const IconShieldKeyhole = ShieldKeyhole;
 export const ShieldKeyholeIcon = ShieldKeyhole;

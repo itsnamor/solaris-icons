@@ -87,5 +87,7 @@ export function CircleTransmission({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleTransmission.displayName = "IconCircleTransmission";
+
 export const IconCircleTransmission = CircleTransmission;
 export const CircleTransmissionIcon = CircleTransmission;

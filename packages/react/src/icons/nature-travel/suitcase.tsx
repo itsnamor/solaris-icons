@@ -95,5 +95,7 @@ export function Suitcase({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Suitcase.displayName = "IconSuitcase";
+
 export const IconSuitcase = Suitcase;
 export const SuitcaseIcon = Suitcase;

@@ -94,5 +94,7 @@ export function Eraser({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Eraser.displayName = "IconEraser";
+
 export const IconEraser = Eraser;
 export const EraserIcon = Eraser;

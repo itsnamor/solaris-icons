@@ -124,5 +124,7 @@ export function EvChargeStation({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+EvChargeStation.displayName = "IconEvChargeStation";
+
 export const IconEvChargeStation = EvChargeStation;
 export const EvChargeStationIcon = EvChargeStation;

@@ -109,5 +109,7 @@ export function Balloon({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Balloon.displayName = "IconBalloon";
+
 export const IconBalloon = Balloon;
 export const BalloonIcon = Balloon;

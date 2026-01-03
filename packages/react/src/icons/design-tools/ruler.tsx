@@ -74,5 +74,7 @@ export function Ruler({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Ruler.displayName = "IconRuler";
+
 export const IconRuler = Ruler;
 export const RulerIcon = Ruler;

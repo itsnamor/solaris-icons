@@ -68,5 +68,7 @@ export function LinkBrokenSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LinkBrokenSimple.displayName = "IconLinkBrokenSimple";
+
 export const IconLinkBrokenSimple = LinkBrokenSimple;
 export const LinkBrokenSimpleIcon = LinkBrokenSimple;

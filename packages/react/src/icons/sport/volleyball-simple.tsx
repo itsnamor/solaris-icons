@@ -79,5 +79,7 @@ export function VolleyballSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+VolleyballSimple.displayName = "IconVolleyballSimple";
+
 export const IconVolleyballSimple = VolleyballSimple;
 export const VolleyballSimpleIcon = VolleyballSimple;

@@ -84,5 +84,7 @@ export function FlipVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FlipVertical.displayName = "IconFlipVertical";
+
 export const IconFlipVertical = FlipVertical;
 export const FlipVerticalIcon = FlipVertical;

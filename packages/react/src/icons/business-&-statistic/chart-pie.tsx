@@ -97,5 +97,7 @@ export function ChartPie({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChartPie.displayName = "IconChartPie";
+
 export const IconChartPie = ChartPie;
 export const ChartPieIcon = ChartPie;

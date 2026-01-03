@@ -109,5 +109,7 @@ export function DialogRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DialogRound.displayName = "IconDialogRound";
+
 export const IconDialogRound = DialogRound;
 export const DialogRoundIcon = DialogRound;

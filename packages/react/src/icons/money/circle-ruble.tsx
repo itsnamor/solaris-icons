@@ -92,5 +92,7 @@ export function CircleRuble({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleRuble.displayName = "IconCircleRuble";
+
 export const IconCircleRuble = CircleRuble;
 export const CircleRubleIcon = CircleRuble;

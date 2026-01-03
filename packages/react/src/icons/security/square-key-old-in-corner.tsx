@@ -103,5 +103,7 @@ export function SquareKeyOldInCorner({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareKeyOldInCorner.displayName = "IconSquareKeyOldInCorner";
+
 export const IconSquareKeyOldInCorner = SquareKeyOldInCorner;
 export const SquareKeyOldInCornerIcon = SquareKeyOldInCorner;

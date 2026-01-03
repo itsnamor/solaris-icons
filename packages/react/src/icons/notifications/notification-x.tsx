@@ -82,5 +82,7 @@ export function NotificationX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+NotificationX.displayName = "IconNotificationX";
+
 export const IconNotificationX = NotificationX;
 export const NotificationXIcon = NotificationX;

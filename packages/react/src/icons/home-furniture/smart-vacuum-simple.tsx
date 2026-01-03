@@ -108,5 +108,7 @@ export function SmartVacuumSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartVacuumSimple.displayName = "IconSmartVacuumSimple";
+
 export const IconSmartVacuumSimple = SmartVacuumSimple;
 export const SmartVacuumSimpleIcon = SmartVacuumSimple;

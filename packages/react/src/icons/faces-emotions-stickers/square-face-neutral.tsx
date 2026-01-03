@@ -96,5 +96,7 @@ export function SquareFaceNeutral({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareFaceNeutral.displayName = "IconSquareFaceNeutral";
+
 export const IconSquareFaceNeutral = SquareFaceNeutral;
 export const SquareFaceNeutralIcon = SquareFaceNeutral;

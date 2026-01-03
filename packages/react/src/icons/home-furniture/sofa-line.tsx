@@ -107,5 +107,7 @@ export function SofaLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SofaLine.displayName = "IconSofaLine";
+
 export const IconSofaLine = SofaLine;
 export const SofaLineIcon = SofaLine;

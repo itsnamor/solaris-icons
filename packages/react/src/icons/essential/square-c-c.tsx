@@ -92,5 +92,7 @@ export function SquareCC({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareCC.displayName = "IconSquareCC";
+
 export const IconSquareCC = SquareCC;
 export const SquareCCIcon = SquareCC;

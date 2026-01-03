@@ -82,5 +82,7 @@ export function Bookmark({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Bookmark.displayName = "IconBookmark";
+
 export const IconBookmark = Bookmark;
 export const BookmarkIcon = Bookmark;

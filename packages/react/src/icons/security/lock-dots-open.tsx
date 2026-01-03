@@ -97,5 +97,7 @@ export function LockDotsOpen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LockDotsOpen.displayName = "IconLockDotsOpen";
+
 export const IconLockDotsOpen = LockDotsOpen;
 export const LockDotsOpenIcon = LockDotsOpen;

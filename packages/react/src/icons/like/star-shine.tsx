@@ -95,5 +95,7 @@ export function StarShine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StarShine.displayName = "IconStarShine";
+
 export const IconStarShine = StarShine;
 export const StarShineIcon = StarShine;

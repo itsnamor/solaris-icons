@@ -115,5 +115,7 @@ export function Winrar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Winrar.displayName = "IconWinrar";
+
 export const IconWinrar = Winrar;
 export const WinrarIcon = Winrar;

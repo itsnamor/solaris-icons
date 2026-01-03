@@ -110,5 +110,7 @@ export function GamepadWire({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+GamepadWire.displayName = "IconGamepadWire";
+
 export const IconGamepadWire = GamepadWire;
 export const GamepadWireIcon = GamepadWire;

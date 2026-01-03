@@ -120,5 +120,7 @@ export function ServerSquareArrowsRotate({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ServerSquareArrowsRotate.displayName = "IconServerSquareArrowsRotate";
+
 export const IconServerSquareArrowsRotate = ServerSquareArrowsRotate;
 export const ServerSquareArrowsRotateIcon = ServerSquareArrowsRotate;

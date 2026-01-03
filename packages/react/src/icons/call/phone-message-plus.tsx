@@ -103,5 +103,7 @@ export function PhoneMessagePlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PhoneMessagePlus.displayName = "IconPhoneMessagePlus";
+
 export const IconPhoneMessagePlus = PhoneMessagePlus;
 export const PhoneMessagePlusIcon = PhoneMessagePlus;

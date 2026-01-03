@@ -107,5 +107,7 @@ export function WidgetCirclesSquares({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WidgetCirclesSquares.displayName = "IconWidgetCirclesSquares";
+
 export const IconWidgetCirclesSquares = WidgetCirclesSquares;
 export const WidgetCirclesSquaresIcon = WidgetCirclesSquares;

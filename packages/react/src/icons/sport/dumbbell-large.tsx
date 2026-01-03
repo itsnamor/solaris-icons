@@ -67,5 +67,7 @@ export function DumbbellLarge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DumbbellLarge.displayName = "IconDumbbellLarge";
+
 export const IconDumbbellLarge = DumbbellLarge;
 export const DumbbellLargeIcon = DumbbellLarge;

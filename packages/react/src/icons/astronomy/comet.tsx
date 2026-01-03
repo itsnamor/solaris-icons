@@ -79,5 +79,7 @@ export function Comet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Comet.displayName = "IconComet";
+
 export const IconComet = Comet;
 export const CometIcon = Comet;

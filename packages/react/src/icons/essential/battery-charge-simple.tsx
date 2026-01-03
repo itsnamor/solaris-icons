@@ -124,5 +124,7 @@ export function BatteryChargeSimple({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BatteryChargeSimple.displayName = "IconBatteryChargeSimple";
+
 export const IconBatteryChargeSimple = BatteryChargeSimple;
 export const BatteryChargeSimpleIcon = BatteryChargeSimple;

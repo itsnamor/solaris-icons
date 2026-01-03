@@ -151,5 +151,7 @@ export function FaceFunny({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FaceFunny.displayName = "IconFaceFunny";
+
 export const IconFaceFunny = FaceFunny;
 export const FaceFunnyIcon = FaceFunny;

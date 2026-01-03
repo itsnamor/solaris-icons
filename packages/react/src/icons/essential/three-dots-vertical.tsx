@@ -94,5 +94,7 @@ export function ThreeDotsVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ThreeDotsVertical.displayName = "IconThreeDotsVertical";
+
 export const IconThreeDotsVertical = ThreeDotsVertical;
 export const ThreeDotsVerticalIcon = ThreeDotsVertical;

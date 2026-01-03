@@ -78,5 +78,7 @@ export function PaperPlainLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PaperPlainLine.displayName = "IconPaperPlainLine";
+
 export const IconPaperPlainLine = PaperPlainLine;
 export const PaperPlainLineIcon = PaperPlainLine;

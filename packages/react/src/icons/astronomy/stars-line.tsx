@@ -128,5 +128,7 @@ export function StarsLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StarsLine.displayName = "IconStarsLine";
+
 export const IconStarsLine = StarsLine;
 export const StarsLineIcon = StarsLine;

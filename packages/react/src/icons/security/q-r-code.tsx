@@ -187,5 +187,7 @@ export function QRCode({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+QRCode.displayName = "IconQRCode";
+
 export const IconQRCode = QRCode;
 export const QRCodeIcon = QRCode;

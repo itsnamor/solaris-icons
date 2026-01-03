@@ -94,5 +94,7 @@ export function LinkCircle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+LinkCircle.displayName = "IconLinkCircle";
+
 export const IconLinkCircle = LinkCircle;
 export const LinkCircleIcon = LinkCircle;

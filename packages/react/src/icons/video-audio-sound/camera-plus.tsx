@@ -104,5 +104,7 @@ export function CameraPlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CameraPlus.displayName = "IconCameraPlus";
+
 export const IconCameraPlus = CameraPlus;
 export const CameraPlusIcon = CameraPlus;

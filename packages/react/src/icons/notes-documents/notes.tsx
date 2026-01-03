@@ -110,5 +110,7 @@ export function Notes({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Notes.displayName = "IconNotes";
+
 export const IconNotes = Notes;
 export const NotesIcon = Notes;

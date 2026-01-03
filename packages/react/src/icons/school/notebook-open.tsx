@@ -94,5 +94,7 @@ export function NotebookOpen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+NotebookOpen.displayName = "IconNotebookOpen";
+
 export const IconNotebookOpen = NotebookOpen;
 export const NotebookOpenIcon = NotebookOpen;

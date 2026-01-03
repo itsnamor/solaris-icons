@@ -84,5 +84,7 @@ export function FolderCloud({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FolderCloud.displayName = "IconFolderCloud";
+
 export const IconFolderCloud = FolderCloud;
 export const FolderCloudIcon = FolderCloud;

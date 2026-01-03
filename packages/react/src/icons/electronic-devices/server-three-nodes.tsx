@@ -93,5 +93,7 @@ export function ServerThreeNodes({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ServerThreeNodes.displayName = "IconServerThreeNodes";
+
 export const IconServerThreeNodes = ServerThreeNodes;
 export const ServerThreeNodesIcon = ServerThreeNodes;

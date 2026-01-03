@@ -109,5 +109,7 @@ export function BedFront({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BedFront.displayName = "IconBedFront";
+
 export const IconBedFront = BedFront;
 export const BedFrontIcon = BedFront;

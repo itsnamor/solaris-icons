@@ -115,6 +115,8 @@ export function ${componentName}({ variant = "linear", ...props }: IconProps) {
 	return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+${componentName}.displayName = "Icon${componentName}";
+
 export const Icon${componentName} = ${componentName};
 export const ${componentName}Icon = ${componentName};
 `;

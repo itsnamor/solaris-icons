@@ -108,5 +108,7 @@ export function Cpu({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Cpu.displayName = "IconCpu";
+
 export const IconCpu = Cpu;
 export const CpuIcon = Cpu;

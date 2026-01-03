@@ -90,5 +90,7 @@ export function SquarePulse({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquarePulse.displayName = "IconSquarePulse";
+
 export const IconSquarePulse = SquarePulse;
 export const SquarePulseIcon = SquarePulse;

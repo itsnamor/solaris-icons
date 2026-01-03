@@ -76,5 +76,7 @@ export function MapPinMinus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MapPinMinus.displayName = "IconMapPinMinus";
+
 export const IconMapPinMinus = MapPinMinus;
 export const MapPinMinusIcon = MapPinMinus;

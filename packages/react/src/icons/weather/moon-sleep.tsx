@@ -91,5 +91,7 @@ export function MoonSleep({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MoonSleep.displayName = "IconMoonSleep";
+
 export const IconMoonSleep = MoonSleep;
 export const MoonSleepIcon = MoonSleep;

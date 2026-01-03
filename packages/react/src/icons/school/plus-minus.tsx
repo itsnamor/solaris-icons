@@ -91,5 +91,7 @@ export function PlusMinus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PlusMinus.displayName = "IconPlusMinus";
+
 export const IconPlusMinus = PlusMinus;
 export const PlusMinusIcon = PlusMinus;

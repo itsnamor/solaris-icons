@@ -89,5 +89,7 @@ export function SdCard({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SdCard.displayName = "IconSdCard";
+
 export const IconSdCard = SdCard;
 export const SdCardIcon = SdCard;

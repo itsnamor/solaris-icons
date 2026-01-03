@@ -90,5 +90,7 @@ export function ChartPieSnug({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ChartPieSnug.displayName = "IconChartPieSnug";
+
 export const IconChartPieSnug = ChartPieSnug;
 export const ChartPieSnugIcon = ChartPieSnug;

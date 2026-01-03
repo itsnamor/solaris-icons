@@ -98,5 +98,7 @@ export function PillsThree({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PillsThree.displayName = "IconPillsThree";
+
 export const IconPillsThree = PillsThree;
 export const PillsThreeIcon = PillsThree;

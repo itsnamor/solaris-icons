@@ -96,5 +96,7 @@ export function CircleArrowsLeftRightMerge({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleArrowsLeftRightMerge.displayName = "IconCircleArrowsLeftRightMerge";
+
 export const IconCircleArrowsLeftRightMerge = CircleArrowsLeftRightMerge;
 export const CircleArrowsLeftRightMergeIcon = CircleArrowsLeftRightMerge;

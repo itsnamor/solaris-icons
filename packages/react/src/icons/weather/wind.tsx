@@ -85,5 +85,7 @@ export function Wind({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Wind.displayName = "IconWind";
+
 export const IconWind = Wind;
 export const WindIcon = Wind;

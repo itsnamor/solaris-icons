@@ -79,5 +79,7 @@ export function Fire({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Fire.displayName = "IconFire";
+
 export const IconFire = Fire;
 export const FireIcon = Fire;

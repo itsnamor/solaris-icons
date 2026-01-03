@@ -87,5 +87,7 @@ export function SmartphoneTopNotch({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SmartphoneTopNotch.displayName = "IconSmartphoneTopNotch";
+
 export const IconSmartphoneTopNotch = SmartphoneTopNotch;
 export const SmartphoneTopNotchIcon = SmartphoneTopNotch;

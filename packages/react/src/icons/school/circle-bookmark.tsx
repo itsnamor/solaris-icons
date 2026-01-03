@@ -81,5 +81,7 @@ export function CircleBookmark({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleBookmark.displayName = "IconCircleBookmark";
+
 export const IconCircleBookmark = CircleBookmark;
 export const CircleBookmarkIcon = CircleBookmark;

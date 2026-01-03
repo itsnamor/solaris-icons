@@ -84,5 +84,7 @@ export function BagX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BagX.displayName = "IconBagX";
+
 export const IconBagX = BagX;
 export const BagXIcon = BagX;

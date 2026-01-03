@@ -85,5 +85,7 @@ export function FileCorrupted({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FileCorrupted.displayName = "IconFileCorrupted";
+
 export const IconFileCorrupted = FileCorrupted;
 export const FileCorruptedIcon = FileCorrupted;

@@ -121,5 +121,7 @@ export function FrameT({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FrameT.displayName = "IconFrameT";
+
 export const IconFrameT = FrameT;
 export const FrameTIcon = FrameT;

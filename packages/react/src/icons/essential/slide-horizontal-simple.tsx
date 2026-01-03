@@ -97,5 +97,7 @@ export function SlideHorizontalSimple({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SlideHorizontalSimple.displayName = "IconSlideHorizontalSimple";
+
 export const IconSlideHorizontalSimple = SlideHorizontalSimple;
 export const SlideHorizontalSimpleIcon = SlideHorizontalSimple;

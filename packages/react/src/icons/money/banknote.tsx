@@ -111,5 +111,7 @@ export function Banknote({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Banknote.displayName = "IconBanknote";
+
 export const IconBanknote = Banknote;
 export const BanknoteIcon = Banknote;

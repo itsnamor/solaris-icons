@@ -87,5 +87,7 @@ export function AlignCenterHorizontalSpacing({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AlignCenterHorizontalSpacing.displayName = "IconAlignCenterHorizontalSpacing";
+
 export const IconAlignCenterHorizontalSpacing = AlignCenterHorizontalSpacing;
 export const AlignCenterHorizontalSpacingIcon = AlignCenterHorizontalSpacing;

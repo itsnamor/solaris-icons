@@ -128,5 +128,7 @@ export function FaceSleeping({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FaceSleeping.displayName = "IconFaceSleeping";
+
 export const IconFaceSleeping = FaceSleeping;
 export const FaceSleepingIcon = FaceSleeping;

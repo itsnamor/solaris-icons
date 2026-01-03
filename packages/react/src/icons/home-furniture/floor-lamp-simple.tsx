@@ -114,5 +114,7 @@ export function FloorLampSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FloorLampSimple.displayName = "IconFloorLampSimple";
+
 export const IconFloorLampSimple = FloorLampSimple;
 export const FloorLampSimpleIcon = FloorLampSimple;

@@ -93,5 +93,7 @@ export function SquareArrowRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareArrowRotate.displayName = "IconSquareArrowRotate";
+
 export const IconSquareArrowRotate = SquareArrowRotate;
 export const SquareArrowRotateIcon = SquareArrowRotate;

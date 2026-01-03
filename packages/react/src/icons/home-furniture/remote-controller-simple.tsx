@@ -114,5 +114,7 @@ export function RemoteControllerSimple({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RemoteControllerSimple.displayName = "IconRemoteControllerSimple";
+
 export const IconRemoteControllerSimple = RemoteControllerSimple;
 export const RemoteControllerSimpleIcon = RemoteControllerSimple;

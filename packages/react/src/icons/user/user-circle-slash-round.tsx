@@ -111,5 +111,7 @@ export function UserCircleSlashRound({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+UserCircleSlashRound.displayName = "IconUserCircleSlashRound";
+
 export const IconUserCircleSlashRound = UserCircleSlashRound;
 export const UserCircleSlashRoundIcon = UserCircleSlashRound;

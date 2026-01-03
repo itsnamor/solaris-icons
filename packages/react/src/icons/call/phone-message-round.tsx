@@ -95,5 +95,7 @@ export function PhoneMessageRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PhoneMessageRound.displayName = "IconPhoneMessageRound";
+
 export const IconPhoneMessageRound = PhoneMessageRound;
 export const PhoneMessageRoundIcon = PhoneMessageRound;

@@ -108,5 +108,7 @@ export function VolumeKnob({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+VolumeKnob.displayName = "IconVolumeKnob";
+
 export const IconVolumeKnob = VolumeKnob;
 export const VolumeKnobIcon = VolumeKnob;

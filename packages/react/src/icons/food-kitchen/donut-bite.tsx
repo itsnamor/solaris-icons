@@ -166,5 +166,7 @@ export function DonutBite({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DonutBite.displayName = "IconDonutBite";
+
 export const IconDonutBite = DonutBite;
 export const DonutBiteIcon = DonutBite;

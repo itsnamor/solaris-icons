@@ -127,5 +127,7 @@ export function ShoppingBasketLines({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShoppingBasketLines.displayName = "IconShoppingBasketLines";
+
 export const IconShoppingBasketLines = ShoppingBasketLines;
 export const ShoppingBasketLinesIcon = ShoppingBasketLines;

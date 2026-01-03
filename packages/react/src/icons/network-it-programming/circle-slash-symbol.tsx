@@ -88,5 +88,7 @@ export function CircleSlashSymbol({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleSlashSymbol.displayName = "IconCircleSlashSymbol";
+
 export const IconCircleSlashSymbol = CircleSlashSymbol;
 export const CircleSlashSymbolIcon = CircleSlashSymbol;

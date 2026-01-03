@@ -92,5 +92,7 @@ export function FolderSecure({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FolderSecure.displayName = "IconFolderSecure";
+
 export const IconFolderSecure = FolderSecure;
 export const FolderSecureIcon = FolderSecure;

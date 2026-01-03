@@ -93,5 +93,7 @@ export function FileStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FileStar.displayName = "IconFileStar";
+
 export const IconFileStar = FileStar;
 export const FileStarIcon = FileStar;

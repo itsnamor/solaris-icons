@@ -106,5 +106,7 @@ export function Shop({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Shop.displayName = "IconShop";
+
 export const IconShop = Shop;
 export const ShopIcon = Shop;

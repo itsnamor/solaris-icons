@@ -84,5 +84,7 @@ export function RectLetterT({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RectLetterT.displayName = "IconRectLetterT";
+
 export const IconRectLetterT = RectLetterT;
 export const RectLetterTIcon = RectLetterT;

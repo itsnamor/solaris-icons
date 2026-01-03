@@ -109,5 +109,7 @@ export function AlarmX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+AlarmX.displayName = "IconAlarmX";
+
 export const IconAlarmX = AlarmX;
 export const AlarmXIcon = AlarmX;

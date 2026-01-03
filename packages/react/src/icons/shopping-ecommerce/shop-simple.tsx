@@ -97,5 +97,7 @@ export function ShopSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ShopSimple.displayName = "IconShopSimple";
+
 export const IconShopSimple = ShopSimple;
 export const ShopSimpleIcon = ShopSimple;

@@ -92,5 +92,7 @@ export function Copyright({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Copyright.displayName = "IconCopyright";
+
 export const IconCopyright = Copyright;
 export const CopyrightIcon = Copyright;

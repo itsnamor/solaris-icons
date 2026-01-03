@@ -82,5 +82,7 @@ export function Plus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Plus.displayName = "IconPlus";
+
 export const IconPlus = Plus;
 export const PlusIcon = Plus;

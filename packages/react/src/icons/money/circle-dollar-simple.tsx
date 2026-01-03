@@ -87,5 +87,7 @@ export function CircleDollarSimple({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleDollarSimple.displayName = "IconCircleDollarSimple";
+
 export const IconCircleDollarSimple = CircleDollarSimple;
 export const CircleDollarSimpleIcon = CircleDollarSimple;

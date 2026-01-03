@@ -79,5 +79,7 @@ export function CupPaper({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CupPaper.displayName = "IconCupPaper";
+
 export const IconCupPaper = CupPaper;
 export const CupPaperIcon = CupPaper;

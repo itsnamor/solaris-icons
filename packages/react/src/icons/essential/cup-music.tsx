@@ -230,5 +230,7 @@ export function CupMusic({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CupMusic.displayName = "IconCupMusic";
+
 export const IconCupMusic = CupMusic;
 export const CupMusicIcon = CupMusic;

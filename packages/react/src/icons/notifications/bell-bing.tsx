@@ -88,5 +88,7 @@ export function BellBing({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BellBing.displayName = "IconBellBing";
+
 export const IconBellBing = BellBing;
 export const BellBingIcon = BellBing;

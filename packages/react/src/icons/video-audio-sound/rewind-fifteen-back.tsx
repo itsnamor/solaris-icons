@@ -120,5 +120,7 @@ export function RewindFifteenBack({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RewindFifteenBack.displayName = "IconRewindFifteenBack";
+
 export const IconRewindFifteenBack = RewindFifteenBack;
 export const RewindFifteenBackIcon = RewindFifteenBack;

@@ -65,5 +65,7 @@ export function RollingPin({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RollingPin.displayName = "IconRollingPin";
+
 export const IconRollingPin = RollingPin;
 export const RollingPinIcon = RollingPin;

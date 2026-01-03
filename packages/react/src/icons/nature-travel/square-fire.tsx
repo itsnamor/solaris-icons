@@ -82,5 +82,7 @@ export function SquareFire({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareFire.displayName = "IconSquareFire";
+
 export const IconSquareFire = SquareFire;
 export const SquareFireIcon = SquareFire;

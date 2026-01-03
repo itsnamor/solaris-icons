@@ -87,5 +87,7 @@ export function PlanetSolidRing({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PlanetSolidRing.displayName = "IconPlanetSolidRing";
+
 export const IconPlanetSolidRing = PlanetSolidRing;
 export const PlanetSolidRingIcon = PlanetSolidRing;

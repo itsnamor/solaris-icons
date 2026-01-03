@@ -90,5 +90,7 @@ export function WineGlass({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WineGlass.displayName = "IconWineGlass";
+
 export const IconWineGlass = WineGlass;
 export const WineGlassIcon = WineGlass;

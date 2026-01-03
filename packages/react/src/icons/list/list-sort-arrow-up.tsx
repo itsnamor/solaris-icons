@@ -113,5 +113,7 @@ export function ListSortArrowUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListSortArrowUp.displayName = "IconListSortArrowUp";
+
 export const IconListSortArrowUp = ListSortArrowUp;
 export const ListSortArrowUpIcon = ListSortArrowUp;

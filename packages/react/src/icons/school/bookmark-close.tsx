@@ -85,5 +85,7 @@ export function BookmarkClose({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BookmarkClose.displayName = "IconBookmarkClose";
+
 export const IconBookmarkClose = BookmarkClose;
 export const BookmarkCloseIcon = BookmarkClose;

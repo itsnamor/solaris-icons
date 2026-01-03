@@ -87,5 +87,7 @@ export function RankingStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RankingStar.displayName = "IconRankingStar";
+
 export const IconRankingStar = RankingStar;
 export const RankingStarIcon = RankingStar;

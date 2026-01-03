@@ -64,5 +64,7 @@ export function KickScooter({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+KickScooter.displayName = "IconKickScooter";
+
 export const IconKickScooter = KickScooter;
 export const KickScooterIcon = KickScooter;

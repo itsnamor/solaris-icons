@@ -91,5 +91,7 @@ export function ListX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+ListX.displayName = "IconListX";
+
 export const IconListX = ListX;
 export const ListXIcon = ListX;

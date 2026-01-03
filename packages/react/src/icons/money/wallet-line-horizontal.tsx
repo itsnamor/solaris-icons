@@ -126,5 +126,7 @@ export function WalletLineHorizontal({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WalletLineHorizontal.displayName = "IconWalletLineHorizontal";
+
 export const IconWalletLineHorizontal = WalletLineHorizontal;
 export const WalletLineHorizontalIcon = WalletLineHorizontal;

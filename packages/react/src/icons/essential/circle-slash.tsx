@@ -66,5 +66,7 @@ export function CircleSlash({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CircleSlash.displayName = "IconCircleSlash";
+
 export const IconCircleSlash = CircleSlash;
 export const CircleSlashIcon = CircleSlash;

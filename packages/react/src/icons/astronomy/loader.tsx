@@ -72,5 +72,7 @@ export function Loader({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Loader.displayName = "IconLoader";
+
 export const IconLoader = Loader;
 export const LoaderIcon = Loader;

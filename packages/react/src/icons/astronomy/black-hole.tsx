@@ -225,5 +225,7 @@ export function BlackHole({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+BlackHole.displayName = "IconBlackHole";
+
 export const IconBlackHole = BlackHole;
 export const BlackHoleIcon = BlackHole;

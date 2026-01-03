@@ -109,5 +109,7 @@ export function Socket({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Socket.displayName = "IconSocket";
+
 export const IconSocket = Socket;
 export const SocketIcon = Socket;

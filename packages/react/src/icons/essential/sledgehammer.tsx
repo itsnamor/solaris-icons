@@ -71,5 +71,7 @@ export function Sledgehammer({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Sledgehammer.displayName = "IconSledgehammer";
+
 export const IconSledgehammer = Sledgehammer;
 export const SledgehammerIcon = Sledgehammer;

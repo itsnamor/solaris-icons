@@ -87,5 +87,7 @@ export function FolderCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+FolderCheck.displayName = "IconFolderCheck";
+
 export const IconFolderCheck = FolderCheck;
 export const FolderCheckIcon = FolderCheck;

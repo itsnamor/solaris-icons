@@ -66,5 +66,7 @@ export function StarRainbow({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+StarRainbow.displayName = "IconStarRainbow";
+
 export const IconStarRainbow = StarRainbow;
 export const StarRainbowIcon = StarRainbow;

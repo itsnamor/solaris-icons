@@ -78,5 +78,7 @@ export function Document({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Document.displayName = "IconDocument";
+
 export const IconDocument = Document;
 export const DocumentIcon = Document;

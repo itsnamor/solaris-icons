@@ -77,5 +77,7 @@ export function Droplets({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Droplets.displayName = "IconDroplets";
+
 export const IconDroplets = Droplets;
 export const DropletsIcon = Droplets;

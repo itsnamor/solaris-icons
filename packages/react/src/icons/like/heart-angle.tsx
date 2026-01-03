@@ -64,5 +64,7 @@ export function HeartAngle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+HeartAngle.displayName = "IconHeartAngle";
+
 export const IconHeartAngle = HeartAngle;
 export const HeartAngleIcon = HeartAngle;

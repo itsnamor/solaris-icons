@@ -94,5 +94,7 @@ export function PlayStream({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+PlayStream.displayName = "IconPlayStream";
+
 export const IconPlayStream = PlayStream;
 export const PlayStreamIcon = PlayStream;

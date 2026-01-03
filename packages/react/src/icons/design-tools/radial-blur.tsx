@@ -110,5 +110,7 @@ export function RadialBlur({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+RadialBlur.displayName = "IconRadialBlur";
+
 export const IconRadialBlur = RadialBlur;
 export const RadialBlurIcon = RadialBlur;

@@ -70,5 +70,7 @@ export function Paperclip({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Paperclip.displayName = "IconPaperclip";
+
 export const IconPaperclip = Paperclip;
 export const PaperclipIcon = Paperclip;

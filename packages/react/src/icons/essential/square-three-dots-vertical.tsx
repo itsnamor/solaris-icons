@@ -87,5 +87,7 @@ export function SquareThreeDotsVertical({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareThreeDotsVertical.displayName = "IconSquareThreeDotsVertical";
+
 export const IconSquareThreeDotsVertical = SquareThreeDotsVertical;
 export const SquareThreeDotsVerticalIcon = SquareThreeDotsVertical;

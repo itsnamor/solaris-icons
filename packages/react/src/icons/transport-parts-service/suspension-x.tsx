@@ -88,5 +88,7 @@ export function SuspensionX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SuspensionX.displayName = "IconSuspensionX";
+
 export const IconSuspensionX = SuspensionX;
 export const SuspensionXIcon = SuspensionX;

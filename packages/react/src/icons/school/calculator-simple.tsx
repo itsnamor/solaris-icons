@@ -86,5 +86,7 @@ export function CalculatorSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CalculatorSimple.displayName = "IconCalculatorSimple";
+
 export const IconCalculatorSimple = CalculatorSimple;
 export const CalculatorSimpleIcon = CalculatorSimple;

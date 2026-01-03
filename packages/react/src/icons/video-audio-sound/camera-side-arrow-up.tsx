@@ -98,5 +98,7 @@ export function CameraSideArrowUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CameraSideArrowUp.displayName = "IconCameraSideArrowUp";
+
 export const IconCameraSideArrowUp = CameraSideArrowUp;
 export const CameraSideArrowUpIcon = CameraSideArrowUp;

@@ -97,5 +97,7 @@ export function Keyboard({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Keyboard.displayName = "IconKeyboard";
+
 export const IconKeyboard = Keyboard;
 export const KeyboardIcon = Keyboard;

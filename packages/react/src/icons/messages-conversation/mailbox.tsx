@@ -132,5 +132,7 @@ export function Mailbox({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Mailbox.displayName = "IconMailbox";
+
 export const IconMailbox = Mailbox;
 export const MailboxIcon = Mailbox;

@@ -115,5 +115,7 @@ export function Accessibility({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Accessibility.displayName = "IconAccessibility";
+
 export const IconAccessibility = Accessibility;
 export const AccessibilityIcon = Accessibility;

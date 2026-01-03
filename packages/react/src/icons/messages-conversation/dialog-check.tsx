@@ -64,5 +64,7 @@ export function DialogCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+DialogCheck.displayName = "IconDialogCheck";
+
 export const IconDialogCheck = DialogCheck;
 export const DialogCheckIcon = DialogCheck;

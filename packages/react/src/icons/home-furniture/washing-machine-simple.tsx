@@ -114,5 +114,7 @@ export function WashingMachineSimple({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+WashingMachineSimple.displayName = "IconWashingMachineSimple";
+
 export const IconWashingMachineSimple = WashingMachineSimple;
 export const WashingMachineSimpleIcon = WashingMachineSimple;

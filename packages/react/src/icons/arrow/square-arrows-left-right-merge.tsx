@@ -90,5 +90,7 @@ export function SquareArrowsLeftRightMerge({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+SquareArrowsLeftRightMerge.displayName = "IconSquareArrowsLeftRightMerge";
+
 export const IconSquareArrowsLeftRightMerge = SquareArrowsLeftRightMerge;
 export const SquareArrowsLeftRightMergeIcon = SquareArrowsLeftRightMerge;

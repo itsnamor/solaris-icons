@@ -97,5 +97,7 @@ export function MagnifierPlusRound({
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+MagnifierPlusRound.displayName = "IconMagnifierPlusRound";
+
 export const IconMagnifierPlusRound = MagnifierPlusRound;
 export const MagnifierPlusRoundIcon = MagnifierPlusRound;

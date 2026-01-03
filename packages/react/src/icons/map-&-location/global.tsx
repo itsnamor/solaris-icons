@@ -105,5 +105,7 @@ export function Global({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+Global.displayName = "IconGlobal";
+
 export const IconGlobal = Global;
 export const GlobalIcon = Global;

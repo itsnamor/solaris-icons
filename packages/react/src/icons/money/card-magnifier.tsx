@@ -115,5 +115,7 @@ export function CardMagnifier({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
+CardMagnifier.displayName = "IconCardMagnifier";
+
 export const IconCardMagnifier = CardMagnifier;
 export const CardMagnifierIcon = CardMagnifier;
