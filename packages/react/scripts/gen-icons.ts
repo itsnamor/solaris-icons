@@ -1,7 +1,11 @@
 import { mkdir, readdir, readFile, rm, writeFile } from "node:fs/promises";
 import { join } from "node:path";
+import { $ } from "bun";
 
-const CORE_OPTIMIZED_PATH = join(import.meta.dir, "../../core/assets/optimized");
+const CORE_OPTIMIZED_PATH = join(
+  import.meta.dir,
+  "../../core/assets/optimized",
+);
 const OUTPUT_ICONS_PATH = join(import.meta.dir, "../src/icons");
 
 const VARIANTS = [
@@ -225,6 +229,9 @@ async function main(): Promise<void> {
   await writeFile(mainTsPath, `${allExports.join("\n")}\n`);
 
   console.log("✅ Icon generation complete!");
+
+  await $`bun run format`;
+  await $`bun run check:biome --write`;
 }
 
 main().catch(console.error);
