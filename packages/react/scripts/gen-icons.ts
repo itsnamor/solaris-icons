@@ -1,7 +1,7 @@
 import { mkdir, readdir, readFile, rm, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 
-const CORE_OPTIMIZED_PATH = join(import.meta.dir, "../../core/optimized");
+const CORE_OPTIMIZED_PATH = join(import.meta.dir, "../../core/assets/optimized");
 const OUTPUT_ICONS_PATH = join(import.meta.dir, "../src/icons");
 
 const VARIANTS = [

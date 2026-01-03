@@ -4,7 +4,7 @@ import { startCase } from "lodash-es";
 export function Optimized() {
 	// Eagerly import all SVGs in the core assets as URLs
 	const svgModules = import.meta.glob(
-		"../../../packages/core/optimized/**/*.svg",
+		"../../../packages/core/assets/optimized/**/*.svg",
 		{
 			// as: "url",
 			eager: true,
