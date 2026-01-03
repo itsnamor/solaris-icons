@@ -14,7 +14,9 @@
 		"gen:optimized-svg": "bun run ./scripts/gen-optimized-svg.ts"
 	},
 	"devDependencies": {
-		"@types/bun": "latest"
+		"@types/bun": "latest",
+		"ollama": "^0.6.3",
+		"sharp": "^0.34.5"
 	},
 	"peerDependencies": {
 		"typescript": "^5"
