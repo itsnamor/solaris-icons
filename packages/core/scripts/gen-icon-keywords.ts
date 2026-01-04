@@ -45,7 +45,8 @@ const result = await Promise.all(
 		);
 
 		const response = await ollama.chat({
-			model: "llava",
+			// model: "llava",
+			model: " llava-llama3:8b",
 			format: "json",
 			messages: [
 				{
@@ -57,7 +58,7 @@ Requirements:
 - Avoid redundant terms already present in the name or category.
 
 Output Format:
-- Return keywords as a JSON array of strings. Example: { keywords: ["keyword1", "keyword2", "keyword3"]}
+- Return keywords as a JSON array of strings. Example: { keywords: ["keyword1", "keyword2", "keyword3"] }
 - Ensure all keywords are in lowercase.
 - Limit the list to a maximum of 10 keywords and minimum of 3 keywords.`,
 				},
