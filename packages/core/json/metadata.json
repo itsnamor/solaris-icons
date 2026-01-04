@@ -1,0 +1,7520 @@
+[
+  {
+    "icon": "pause",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "image-heart",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "film-play-horizontal",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "film-arrows-rotate",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "rewind-five-back",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "image-pencil",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-circle",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "repeat",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "shuffle",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "rewind-forward",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "music-quaver",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-rewind-back",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "p-i-p-arrow-quit",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "film-cut-chevron",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "film",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "microphone",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-beam-note-arrow-up",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "record",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "megaphone-small",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-play",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "music-beam-note-up",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "playback-speed",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "reel",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "images",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "clapperboard",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "album-music-beam-note",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "record-vinyl",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "camera",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "slider-music-beam-note-up",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "microphone-vents-center",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "clapperboard-open",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "square",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "rewind-five-forward",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "clapperboard-open-play",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "camera-plus",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "slide-image",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "film-horizontal",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "clapperboard-play",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "slider-music-quaver",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "album-film",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-fullscreen-quit",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "image-x",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "repeat-once",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "rewind-fifteen-back",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "clapperboard-text",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "album-image",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "megaphone-loud",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "p-i-p",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "megaphone",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "image",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "image-simple",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "music-beam-note-down",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "fullscreen-quit",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-pause",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "film-play",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "skip-prev",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "rewind-fifteen-forward",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "camera-side-dot",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "image-arrow-down",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "rewind-back",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-square",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "skip-next",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "camera-simple",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "image-plus",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "camera-side-plus",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "play-stream",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-quaver-arrow-up",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-rewind-forward",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "camera-side-arrow-up",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "repeat-line",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "camera-square",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "image-arrow-up",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "panorama",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "film-cut",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "clapperboard-pencil",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "podcast",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "rewind-ten-forward",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "microphone-simple",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "square-fullscreen-quit",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "megaphone-slash",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "p-i-p-simple",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "square-soundwave",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "square-fullscreen",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "camera-side",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "p-i-p-arrow",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "rewind-ten-back",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "music-notes",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "fullscreen",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "image-round",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "play",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "image-check",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "music-beam-notes",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "camera-arrow-rotate",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "album",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "soundwave",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "microphone-four-vents",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "megaphone-x",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "album-music-quaver",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-soundwave",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-fullscreen",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-image",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "reel-simple",
+    "categoryDir": "video-audio-sound",
+    "category": "Video, Audio, Sound",
+    "keywords": []
+  },
+  {
+    "icon": "circle-mouse",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "airbuds-x",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "airbuds",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "gamepad-wire",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "circle-plug",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "airbuds-case-charge",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "lightning",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "ssd",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "lightbulb-bolt",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "tablet",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "airbuds-right",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "cpu-bolt",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "gameboy",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "smartphone-top-notch",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "monitor",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "sd-card",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "bluetooth-wave",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "radio",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "airbuds-charge",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "lightbulb-simple",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "projector",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "airbuds-case",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "television",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "boombox",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "laptop-thin-base",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "cpu",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "smartphone",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "smartphone-fingerprint",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "telescope",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "floppy-disk",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "smartphone-rotate",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "airbuds-case-front",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "gamepad",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "printer",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "sim-card",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "smartphone-vibration",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "smartphone-arrows-rotate",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "smart-speaker",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "headphones",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "smartphone-rotate-orientation",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "server",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "smart-speaker-round",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "smart-speaker-simple",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "server-square-arrows-rotate",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "weigher",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "cassette",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "gamepad-old",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "gamepad-x",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "mouse-simple",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "smartphone-rotate-angle",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "mouse",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "headphones-sound",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "square-bluetooth",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "airbuds-left",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "headphones-round",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "usb",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "server-three-nodes",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "printer-simple",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-storage",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "bluetooth",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "printer-white-paper",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "wireless-charge",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "circle-bluetooth",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "laptop-thick-base",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "display",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "server-square-cloud",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "lightbulb",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "monitor-camera",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "server-simple",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "laptop",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "turntable-music-note",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "laptop-thick-base-loose",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "turntable",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "turntable-play",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "server-path",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "ssd-round",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "server-square",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "radio-simple",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "gamepad-charge",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "headphones-sound-round",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "airbuds-case-open",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "keyboard",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "sim-cards",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "airbuds-check",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "socket",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "monitor-smartphone",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "devices",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "chip-card",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "cassette-simple",
+    "categoryDir": "electronic-devices",
+    "category": "Electronic, Devices",
+    "keywords": []
+  },
+  {
+    "icon": "dislike",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "medal-star-square",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "like",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "medal-star-round",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "heart",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "heart-lock",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "medal-ribbon-star",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "heart-broken",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "medal-star",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "star",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "medal-ribbon",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "heart-unlock",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "star-shine",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "heart-shine",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "heart-angle",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "medal-ribbons-star",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "hearts",
+    "categoryDir": "like",
+    "category": "Like",
+    "keywords": []
+  },
+  {
+    "icon": "ufo-flying",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "star-isometric",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "asteroid",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "planet",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "atom",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "star-shooting",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "rocket-boost",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "black-hole",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "ufo",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "black-hole-dash",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "stars-overlap",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "circle-star",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "star-rings",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "star-ring",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "comet",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "planet-solid-ring",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "comet-stars",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "loader",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "earth",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "black-hole-solid",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "satellite",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "stars-small",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "planets",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "male",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "rocket",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "star-rainbow",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "female",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "stars-line",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "infinity",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "planet-dash-ring",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "star-fall",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "ufo-boost",
+    "categoryDir": "astronomy",
+    "category": "Astronomy",
+    "keywords": []
+  },
+  {
+    "icon": "home",
+    "categoryDir": "building-&-infrastructure",
+    "category": "Building, Infrastructure",
+    "keywords": []
+  },
+  {
+    "icon": "buildings",
+    "categoryDir": "building-&-infrastructure",
+    "category": "Building, Infrastructure",
+    "keywords": []
+  },
+  {
+    "icon": "city",
+    "categoryDir": "building-&-infrastructure",
+    "category": "Building, Infrastructure",
+    "keywords": []
+  },
+  {
+    "icon": "three-buildings",
+    "categoryDir": "building-&-infrastructure",
+    "category": "Building, Infrastructure",
+    "keywords": []
+  },
+  {
+    "icon": "hospital",
+    "categoryDir": "building-&-infrastructure",
+    "category": "Building, Infrastructure",
+    "keywords": []
+  },
+  {
+    "icon": "three-buildings-circle-window",
+    "categoryDir": "building-&-infrastructure",
+    "category": "Building, Infrastructure",
+    "keywords": []
+  },
+  {
+    "icon": "garage",
+    "categoryDir": "building-&-infrastructure",
+    "category": "Building, Infrastructure",
+    "keywords": []
+  },
+  {
+    "icon": "chef-hat",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "cup-paper",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "cup",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "donut",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "oven-mitts-simple",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "oven-mitts",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "wine-glass-triangle",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "corkscrew",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "wine-glass",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "cup-tea",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "chef-hat-heart",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "chef-hat-simple",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "cup-hot",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "whisk",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "donut-bite",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "rolling-pin",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "ladle",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "bottle",
+    "categoryDir": "food-kitchen",
+    "category": "Food, Kitchen",
+    "keywords": []
+  },
+  {
+    "icon": "rect-dots",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "siren",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "square-key",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "square-key-old-in-corner",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "scanner-round",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield-minus",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield-plus",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "eye",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "lock-keyhole-line",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield-keyhole",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "bomb",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "lock-keyhole-open",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "square-eye",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "lock-open",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield-star",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "lock",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "q-r-code",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "lock-dots",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "square-key-simple",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield-simple",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "key-simple",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "key",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "scan",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "square-key-in-corner",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "eye-close",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield-chevrons-up",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield-user",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "rect-asterisks",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "incognito",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "lock-keyhole-line-open",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "rect-dots-line",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield-x",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield-keyhole-simple",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "key-old",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield-check",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield-exclamation-mark",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "code-scan",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "bomb-star-face",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "lock-keyhole",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "square-key-old",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "scanner",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "siren-rounded",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "bomb-star",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "lock-dots-open",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "shield-global",
+    "categoryDir": "security",
+    "category": "Security",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrow-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-rotate",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "chevron-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-left-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-right",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "chevrons-right",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-chevron-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "chevrons-left",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-left-right",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrows-left-right",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrow-right",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrows-up-down-merge",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-chevron-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-chevrons-left",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrows-diag-in",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-chevrons-right",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrow-right-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrow-left-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrows-up-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrow-left-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "chevron-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-chevrons-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrows-left-right",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-chevron-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-up-down-merge",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-chevrons-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-chevrons-left",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrow-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-right-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrow-right-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-chevron-left",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-left-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-rotate",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-left",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-right-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-chevrons-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrow-rotate",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-left-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-left",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-rotate",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-chevron-right",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-right",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrow-left",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "chevron-right",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-chevrons-right",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-right-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "chevrons-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-left-right-merge",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-chevrons-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrows-rotate",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-right-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrows-left-right-merge",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-chevron-right",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-left-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-chevron-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-up-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-arrows-left-right-merge",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "chevrons-up",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "chevron-left",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "circle-chevron-left",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrows-up-down-merge",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrows-up-down",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "arrows-rotate",
+    "categoryDir": "arrow",
+    "category": "Arrow",
+    "keywords": []
+  },
+  {
+    "icon": "sidebar",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "screencast-triangle",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "wifi-router-simple",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "transmitter",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "hash-sign-message",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "wifi-router",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "circle-u-s-b",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "code",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "terminal",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "sidebar-text",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "bug",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "wifi-router-round",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "bug-simple",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "code-simple",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "signal-tower-simple",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "screencast",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "circle-code",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "window-frame",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "square-slash",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "signal-tower",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "sidebar-code",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "command",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "hash-sign",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "square-u-s-b",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "circle-hash-sign",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "structure",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "square-hash-sign",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "u-s-b",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "transmitter-simple",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "circle-slash-symbol",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "square-code",
+    "categoryDir": "network-it-programming",
+    "category": "Network, IT, Programming",
+    "keywords": []
+  },
+  {
+    "icon": "square-fire",
+    "categoryDir": "nature-travel",
+    "category": "Nature, Travel",
+    "keywords": []
+  },
+  {
+    "icon": "leaf",
+    "categoryDir": "nature-travel",
+    "category": "Nature, Travel",
+    "keywords": []
+  },
+  {
+    "icon": "bonfire",
+    "categoryDir": "nature-travel",
+    "category": "Nature, Travel",
+    "keywords": []
+  },
+  {
+    "icon": "fire-simple",
+    "categoryDir": "nature-travel",
+    "category": "Nature, Travel",
+    "keywords": []
+  },
+  {
+    "icon": "fire",
+    "categoryDir": "nature-travel",
+    "category": "Nature, Travel",
+    "keywords": []
+  },
+  {
+    "icon": "flame",
+    "categoryDir": "nature-travel",
+    "category": "Nature, Travel",
+    "keywords": []
+  },
+  {
+    "icon": "suitcase-lines",
+    "categoryDir": "nature-travel",
+    "category": "Nature, Travel",
+    "keywords": []
+  },
+  {
+    "icon": "suitcase",
+    "categoryDir": "nature-travel",
+    "category": "Nature, Travel",
+    "keywords": []
+  },
+  {
+    "icon": "suitcase-tag",
+    "categoryDir": "nature-travel",
+    "category": "Nature, Travel",
+    "keywords": []
+  },
+  {
+    "icon": "link-simple",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "rect-letter-t-line-vertical",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "link-square",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "circle-t",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "eraser",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "circle-i",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "circle-letter-t-cross",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "circle-u",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "square-b",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "frame-t",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "link-broken",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "letter-i",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "letter-u",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "letter-t",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "letter-t-cross",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "link",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "link-simple-horizontal",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "square-t-lines",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "link-round-angle",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "square-letter-t-cross",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "square-i",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "circle-b",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "square-u",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "link-broken-simple",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "link-circle",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "backspace",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "square-t",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "rect-letter-t",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "square-eraser",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "link-round",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "lines-spacing",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "circle-eraser",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "letter-b",
+    "categoryDir": "text-formatting",
+    "category": "Text Formatting",
+    "keywords": []
+  },
+  {
+    "icon": "running",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "balls",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "golf",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "meditation",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "sea-sun",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "dumbbell-large",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "football",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "skateboarding",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "bowling",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "dumbbells-vertical",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "bicycling-round",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "treadmill",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "walking",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "basketball",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "dumbbell-small",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "hiking-simple",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "volleyball-simple",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "dumbbells",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "body-shape-simple",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "volleyball",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "running-simple",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "hiking-round",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "rugby",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "ranking-star",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "running-round",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "skateboarding-round",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "skateboard",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "walking-round",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "stretching-round",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "swimming",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "meditation-round",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "body-shape",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "tennis",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "treadmill-round",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "stretching",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "sea",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "tennis-dash-line",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "dumbbell-large-simple",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "hiking",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "bicycling",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "dumbbell",
+    "categoryDir": "sport",
+    "category": "Sports",
+    "keywords": []
+  },
+  {
+    "icon": "user-heart",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-minus",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-hand-up",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-speak",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-heart-round",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-x",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-check-round",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-x-round",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-group",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-hands",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-circle-slash",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "circle-user",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "users",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-minus-round",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-round",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-plus-round",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-circle-slash-round",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-check",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-speak-round",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-plus",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "user-i-d-card",
+    "categoryDir": "user",
+    "category": "Users",
+    "keywords": []
+  },
+  {
+    "icon": "calendar-date",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "clock-dotted-more",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "smartwatch-charge",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "calendar-dot",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "calendar",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "hourglass",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "smartwatch",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "alarm-z",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "alarm-play",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "clock-dotted",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "alarm-plus",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "circle-clock",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "hourglass-line",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "calendar-magnifier",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "alarm-pause",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "stopwatch-play",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "clock-arrow-rotate",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "wristwatch",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "alarm-x",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "alarm-minus",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "stopwatch",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "calendar-plus",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "calendar-simple",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "square-clock",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "alarm",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "wristwatch-square",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "stopwatch-pause",
+    "categoryDir": "time",
+    "category": "Time",
+    "keywords": []
+  },
+  {
+    "icon": "magnifier-minus-round",
+    "categoryDir": "search",
+    "category": "Search",
+    "keywords": []
+  },
+  {
+    "icon": "magnifier-plus-simple",
+    "categoryDir": "search",
+    "category": "Search",
+    "keywords": []
+  },
+  {
+    "icon": "magnifier-round",
+    "categoryDir": "search",
+    "category": "Search",
+    "keywords": []
+  },
+  {
+    "icon": "magnifier-bug",
+    "categoryDir": "search",
+    "category": "Search",
+    "keywords": []
+  },
+  {
+    "icon": "magnifier-simple",
+    "categoryDir": "search",
+    "category": "Search",
+    "keywords": []
+  },
+  {
+    "icon": "magnifier-plus",
+    "categoryDir": "search",
+    "category": "Search",
+    "keywords": []
+  },
+  {
+    "icon": "magnifier-bug-round",
+    "categoryDir": "search",
+    "category": "Search",
+    "keywords": []
+  },
+  {
+    "icon": "magnifier",
+    "categoryDir": "search",
+    "category": "Search",
+    "keywords": []
+  },
+  {
+    "icon": "magnifier-plus-round",
+    "categoryDir": "search",
+    "category": "Search",
+    "keywords": []
+  },
+  {
+    "icon": "magnifier-minus-simple",
+    "categoryDir": "search",
+    "category": "Search",
+    "keywords": []
+  },
+  {
+    "icon": "magnifier-bug-simple",
+    "categoryDir": "search",
+    "category": "Search",
+    "keywords": []
+  },
+  {
+    "icon": "magnifier-minus",
+    "categoryDir": "search",
+    "category": "Search",
+    "keywords": []
+  },
+  {
+    "icon": "square-4-k",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "cat",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "house-smile",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "power",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-minus",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "crown",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "database",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "crosshair",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "box-simple",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "lifebuoy",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "magic-stick",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-plus",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "ferris-wheel",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "fuel",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "skirt",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "flag",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-slash",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "house-line-angle",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "cup-music",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "balloon",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "confetti-star-heart",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "slide-vertical-simple",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "three-dots-connect",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "pin",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "house-line",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "bed",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-x",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "battery-half",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "box",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "slide-horizontal",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-three-dots-horizontal",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "minus",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "triangle-exclamation-mark",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "hanger-cloth",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-three-dots-vertical",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "droplet",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "hexagon-exclamation-mark",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "cursor",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "battery-low-simple",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "bolt",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "trash-bin-ribbed",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-e",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "mask-sad",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "battery-full",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "house-plus",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "perfume",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "trophy",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "house-line-vertical-angle",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "slide-vertical",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "smart-house",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "cup-first",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "body",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "crown-simple",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-plus",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-on-base",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "cup-star",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "paw",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-check",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "house-smile-angle",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "three-dots-horizontal",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "battery-full-simple",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "crown-line",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "house-wifi-angle",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-three-dots-horizontal",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "plate",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "three-lines",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "house-plus-angle",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "sledgehammer",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "winrar",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-exclamation-mark",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-at-sign",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "glasses",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-scissors",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "crown-star",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-c-c",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "trash-bin",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "slide-horizontal-simple",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "ghost",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "flag-swallowtail",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "gift",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "three-dots-connect-circle",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "house-line-vertical",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "pin-list",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "t-shirt",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "augmented-reality",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "figma",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "ghost-smile",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "confetti",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "magnet",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-broken-plus",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "feed",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "paper-bin",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "battery-low",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-i-lowercase",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-rotate-check",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-question-mark",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "battery-charge",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "trash-bin-round-handle",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-h-q",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-x",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "flashlight-on",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-minus",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "umbrella",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "carousel-vertical",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "delivery",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "house-wifi",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-i-lowercase",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "broom",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "flashlight",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-h-d",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "copy",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-exclamation-mark",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "scissors",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-at-sign",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "copyright",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "battery-half-simple",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "magnet-wave",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "subtitles",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "trash-bin-ribbed-round-handle",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-bolt",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-cursor",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-check",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-fx",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "accessibility",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-pin",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-question-mark",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "four-lines",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-broken",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "check",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "smart-house-angle",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "three-dots-vertical",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "circle-three-dots-vertical",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "star-stick",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "funnel-simple",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "funnel",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "octagon-slash",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "x",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "star-stick-loose",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "carousel-horizontal",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "masks",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "battery-charge-simple",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "plus",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "mask-happy",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "hanger",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "square-x-x-x",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "cosmetic",
+    "categoryDir": "essential",
+    "category": "Essential, UI",
+    "keywords": []
+  },
+  {
+    "icon": "pen-square",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-soundwave-round",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "paperclip-round",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-code",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "paperclip",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "inbox-archive",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "inbox",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "envelope-letter",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "inbox-arrow-down",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "check-check",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-heart",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "arrows-forward-left",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "pen-line",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "inbox-line",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "mailbox",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "dialog-round",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "square-paperclip-round",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "dialog-check",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "inbox-arrow-up",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "arrows-forward-right",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "paper-plain-line",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "inbox-badge",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "envelope-badge",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-text-round",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-play-round",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "pen-circle",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "pen",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-arrow-rotate",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "dialog",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-check-round",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "envelope",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "paper-plain-simple",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "square-paper-clip",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "paper-plane",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-text",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-dots-round",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-dots",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-dollar-round",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "square-share",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-soundwave",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-heart-round",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-badge-round",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-round",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-check",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "square-forward",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "forward",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "message-badge",
+    "categoryDir": "messages-conversation",
+    "category": "Messages, conversation",
+    "keywords": []
+  },
+  {
+    "icon": "phone-message-plus",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-round",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-arrow-in",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-arrow-in-round",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-message-plus-round",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-handup",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-bend-arrow-round",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-volume",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-message-round",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-cancel",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-bend-arrow",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-arrow-out-round",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-handup-round",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "voicemail",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "circle-voicemail",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-message",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-arrow-out",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "square-voicemail",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-cancel-round",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "phone-volume-round",
+    "categoryDir": "call",
+    "category": "Call",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-bend-right-up",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-down-to-line",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-bend-left-down",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-right-to-line",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-sub-diag-small",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "reorder",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-left-to-line",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "circle-left-down-out",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-sub-diag-out-short",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-right-up-in",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "rects-arrow-up",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-u-right-round",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-down-to-rect",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-bend-up-right",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "circle-right-up-in",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-right-to-rect",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-right-up-out",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-u-left",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-bend-left-up",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-four-arrows-in",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-right-to-line",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-down-to-bracket",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-sub-diag-out",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-right-to-arc",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-left-down-out",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-left-down-in",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-four-arrows-out",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-bend-right-down",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-left-to-line",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-sub-diag-in-short",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrows-sub-diag-in",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-bend-down-right",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "rects-arrow-left",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-down-to-arc",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "door-open",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-down-to-line",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-to-line",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrows-sub-diag-in",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-up-to-line",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-u-right",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrows-sub-diag-out",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-up-from-rect",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "squares-arrow-right-up",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-up-from-bracket",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "circle-right-up-out",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-bend-up-left",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-u-left",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-u-right",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-right-from-arc",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-bend-down-left",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "circle-left-down-in",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-u-right-round",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "rects-arrow-right",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-up-from-arc",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "squares-arrow-left-down",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-u-left-round",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-left-from-rect",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-u-left-round",
+    "categoryDir": "arrows-actions",
+    "category": "Arrows Action",
+    "keywords": []
+  },
+  {
+    "icon": "bill-x",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "bill-list",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "circle-dollar-sign",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "wallet-line-vertical",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "wallet-money",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "money-wad",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "card-arrows-up-down",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "bill",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "circle-dollar-simple",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "circle-euro-sign",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "card-arrow-up",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "tag-horizontal",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "ticket-star",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "card-arrow-down",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "banknotes",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "wallet-line-horizontal",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "card-magnifier",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "bill-check",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "ticket-percent-sign",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "cash-out",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "square-percent-sign",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "card-holder",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "banknote",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "seal-percent-sign",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "card-debit",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "circle-ruble",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "ticket",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "bag-dollar-sign",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "square-money-safe",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "money-safe",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "tag",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "tag-dollar-sign",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "seal-check",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "circle-money-safe",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "card-credit",
+    "categoryDir": "money",
+    "category": "Money",
+    "keywords": []
+  },
+  {
+    "icon": "list-x-simple",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-arrow-down",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-x",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "playlist",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-check",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-letter-a",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-arrows-scale",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-chevron-up",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-clock",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "bill-list-line",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-arrow-up-simple",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-music-beam-note-up",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-lines-long-to-short",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-sort-arrow-down",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-chevron-down",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-chevron-up-simple",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-sort-arrow-up",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "square-checklist",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-heart-simple",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-music-beam-note-simple",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-check-simple",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-music-quaver",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "playlist-simple",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-arrow-down-simple",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-arrow-up",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "checklist",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-heart",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "list-chevron-down-simple",
+    "categoryDir": "list",
+    "category": "List",
+    "keywords": []
+  },
+  {
+    "icon": "jar-pill",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "pills-tablet",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "square-pulse-simple",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "stethoscope",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "intravenous-droplet-line",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "thermometer",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "bone",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "square-pulse",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "jar",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "intravenous-bag",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "pill",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "adhesive-bandages",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "intravenous-setup-droplet",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "pills-three",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "benzene-ring",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "intravenous-bag-line",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "heath",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "bone-crack",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "pills",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "syringe",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "d-n-a",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "medical-kit",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "bacteria",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "intravenous-setup",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "test-tube-droplet",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "test-tube",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "bone-broken",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "heart-pulse-simple",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "virus",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "heart-pulse",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "square-bones",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "adhesive-bandage",
+    "categoryDir": "medicine",
+    "category": "Medicine",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-cursor-left",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "signpost",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "map-pin-heart",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "map-pin-minus",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "map-pin-magnifier",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "g-p-s",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "map-pin-ellipse",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "radar-simple",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "square-arrow-cursor",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "map-pin-academic-cap",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-cursor-right",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "globe",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "square-compose",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "point-on-map",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "circle-compass",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "point-on-rect-map",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "map-pin-rotate",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "map-pin-plus",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "rect-arrow-cursor",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "map",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "branch-paths-down",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "routing-map-pin",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-cursor-down",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "routing-dots",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "routing-arrow",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "people-ellipse",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "compass",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "map-pin-circle-plus",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "branch-paths-up",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "diamond-arrow-bend-up-right",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "map-pin",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "radar",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "square-map-with-pin",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "signpost-line",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "square-map",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "global",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "arrow-cursor-up",
+    "categoryDir": "map-&-location",
+    "category": "Map & Location",
+    "keywords": []
+  },
+  {
+    "icon": "square-chart-bar",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "square-graph-dot",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "chart-bar",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "chart-radial",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "chart-line-arrow-down",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "chart-xy-up",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "square-graph",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "square-chart-bar-up",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "square-chart-line-arrow-down",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "chart-pie-snug",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "chart-pie",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "graph-present",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "square-line-arrow-up",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "square-line-arrow-up-dot",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "chart-line-arrow-up",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "chart-pie-loose",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "square-line-arrow-down-dot",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "chart-bar-loose",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "chart-xy-down",
+    "categoryDir": "business-&-statistic",
+    "category": "Business, Statistic",
+    "keywords": []
+  },
+  {
+    "icon": "file-text",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-arrow-up",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-check",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-arrow-down",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-smile",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-corrupted",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-star",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-figma",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-zip",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-cloud",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-arrow-right",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-arrow-left",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-code",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "file-x",
+    "categoryDir": "files",
+    "category": "Files",
+    "keywords": []
+  },
+  {
+    "icon": "three-circles-overlap",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "ruler-pen",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "paint-palette",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "align-bottom",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "mirror-left",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "align-center-horizontal",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "layers",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "three-squares",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "align-center-vertical",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "layers-loose",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "radial-blur",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "flip-horizontal",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "crop",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "align-right",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "ruler-angular",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "align-center-vertical-spacing",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "paint-roller",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "align-left",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "palette-round",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "ruler",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "flip-vertical",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "pipette",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "align-center-horizontal-spacing",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "crop-square",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "align-top",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "mirror-right",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "wave-sine-x",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "ruler-pen-cross",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "palette",
+    "categoryDir": "design-tools",
+    "category": "Design, Tools",
+    "keywords": []
+  },
+  {
+    "icon": "hand-stars",
+    "categoryDir": "hands",
+    "category": "Hands",
+    "keywords": []
+  },
+  {
+    "icon": "hand-shake",
+    "categoryDir": "hands",
+    "category": "Hands",
+    "keywords": []
+  },
+  {
+    "icon": "hand-heart",
+    "categoryDir": "hands",
+    "category": "Hands",
+    "keywords": []
+  },
+  {
+    "icon": "hand-money",
+    "categoryDir": "hands",
+    "category": "Hands",
+    "keywords": []
+  },
+  {
+    "icon": "hand-pills",
+    "categoryDir": "hands",
+    "category": "Hands",
+    "keywords": []
+  },
+  {
+    "icon": "folder-minus",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder-star",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder-path-connect",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder-with-file",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder-secure",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder-x",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder-plus",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder-open",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder-arrow-right",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder-cloud",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder-simple",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder-bookmark",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "folder-check",
+    "categoryDir": "folders",
+    "category": "Folders",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-asterisk",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "moon-sleep",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-storm",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-plus",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-check",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-sun",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "sun-beam",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "moon-stars",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "sun-fog-arrow-down",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "sun-fog-arrow-up",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "moon",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "wind",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "stars",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "moon-fog-stars",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "snowflake",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-sun-beam",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "clouds",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-fog",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-arrow-down",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "tornado",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "droplets",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-snowfall",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "sun-beam-long",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-bolt-simple",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-droplet",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-droplets",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "temperature",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-bolt",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "tornado-small",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-x",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-arrow-up",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "moon-cloud",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "sun-fog",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-rain",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "cloud-minus",
+    "categoryDir": "weather",
+    "category": "Weather",
+    "keywords": []
+  },
+  {
+    "icon": "lamp",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "chandelier",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "remote-controller-simple",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "bath",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "bed-front",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "sofa-armless",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "air-conditioner-on",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "armchair",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "speaker",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "closet-wardrobe",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "volume-knob",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "sofa-line",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "bar-chair",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "chair",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "air-conditioner",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "bedside-cabinet",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "chair-swivel",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "air-mouse",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "speaker-simple",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "floor-lamp-simple",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "washing-machine-simple",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "sofa",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "armchair-simple",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "washing-machine",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "remote-controller",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "floor-lamp",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "smart-vacuum-simple",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "bedside-table",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "bedside-table-simple",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "smart-vacuum",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "fridge",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "bedside-table-two-drawers",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "closet",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "trellis",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "mirror",
+    "categoryDir": "home-furniture",
+    "category": "Home, Furniture",
+    "keywords": []
+  },
+  {
+    "icon": "bag-cut-out-handle",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "cart-x",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "bag-smile",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "cart-line",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "bag-check",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "shopping-basket-side-simple",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "shopping-basket",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "cart-plus",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "bag-shopping",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "cart-check",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "shop",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "bag-music-note",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "shop-line",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "bag-line",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "cart-mesh-cross",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "bag-x",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "cart-mesh",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "cart",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "bag-quaver",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "shopping-basket-lines",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "shopping-basket-criss-cross",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "shopping-basket-side",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "bag",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "bag-droopy-handle",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "bag-heart",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "cart-simple",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "shop-simple",
+    "categoryDir": "shopping-ecommerce",
+    "category": "Shopping, Ecommerce",
+    "keywords": []
+  },
+  {
+    "icon": "widget-circles-squares",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "widget",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "layout",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "square-tuning",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "widget-plus",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "tuning-three-horizontal",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "square-tuning-horizontal",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "tuning",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "setting",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "four-petals",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "tuning-three",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "widget-four-circles",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "setting-simple",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "tuning-horizontal",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "layout-masonry",
+    "categoryDir": "settings-fine-tuning",
+    "category": "Settings, Fine Tuning",
+    "keywords": []
+  },
+  {
+    "icon": "notebook-open",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "case-round",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "case-simple",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "bookmark",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "book-open",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "calculator",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "academic-cap-simple",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "diploma-verified",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "calculator-simple",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "case-simple-round",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "book-bookmark-simple",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "square-notebook",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "passport",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "passport-simple",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "book-thick",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "book-simple",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "bookmark-open",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "diploma",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "plus-minus",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "book",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "bookmark-line-horizontal",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "case",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "academic-cap",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "book-bookmark",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "backpack",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "notebook-bookmark",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "bookmark-close",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "notebook-simple",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "circle-bookmark",
+    "categoryDir": "school",
+    "category": "School",
+    "keywords": []
+  },
+  {
+    "icon": "square-face-funny",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "face-funny",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "square-face-confounded",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "square-face-sleeping",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "sticker-face-smile",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "face-sleeping",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "square-sticker-face-smile",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "square-face-scan",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "square-face-neutral",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "face-confounded",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "face-scan",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "square-face-sad",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "sticker",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "face-mask",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "square-sticker",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "square-face-smile",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "face-smile",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "square-face-mask",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "face-sad",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "sticker-face-funny",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "face-neutral",
+    "categoryDir": "faces-emotions-stickers",
+    "category": "Faces, Emotions, Stickers",
+    "keywords": []
+  },
+  {
+    "icon": "document-plus-text",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "documents-simple",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "archive-arrow-up-round",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "archive",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "document-pencil",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "document",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "clipboard-check",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "archive-arrow-down",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "archive-arrow-down-round",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "notes",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "archive-check",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "clipboard-heart",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "archive-check-round",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "clipboard-list",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "archive-arrow-up",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "clipboard-remove",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "documents",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "notebook",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "squares",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "document-text",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "clipboard-text",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "clipboard-plus",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "clipboard",
+    "categoryDir": "notes-documents",
+    "category": "Notes",
+    "keywords": []
+  },
+  {
+    "icon": "notification-badge",
+    "categoryDir": "notifications",
+    "category": "Notifications",
+    "keywords": []
+  },
+  {
+    "icon": "notification-text-badge",
+    "categoryDir": "notifications",
+    "category": "Notifications",
+    "keywords": []
+  },
+  {
+    "icon": "notification-text-x",
+    "categoryDir": "notifications",
+    "category": "Notifications",
+    "keywords": []
+  },
+  {
+    "icon": "bell-z",
+    "categoryDir": "notifications",
+    "category": "Notifications",
+    "keywords": []
+  },
+  {
+    "icon": "notification-x",
+    "categoryDir": "notifications",
+    "category": "Notifications",
+    "keywords": []
+  },
+  {
+    "icon": "bell",
+    "categoryDir": "notifications",
+    "category": "Notifications",
+    "keywords": []
+  },
+  {
+    "icon": "bell-bing",
+    "categoryDir": "notifications",
+    "category": "Notifications",
+    "keywords": []
+  },
+  {
+    "icon": "gas-station",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "speedometer-middle",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "square-transmission",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "wheel",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "bus",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "tram",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "shock-absorber",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "wheel-angle",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "kick-scooter",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "speedometer-high",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "scooter",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "speedometer-low",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "circle-transmission",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "transmission",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "accumulator",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "suspension-bolt",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "ev-charge-station",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "suspension-x",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  },
+  {
+    "icon": "suspension",
+    "categoryDir": "transport-parts-service",
+    "category": "Transport, Parts, Service",
+    "keywords": []
+  }
+]
