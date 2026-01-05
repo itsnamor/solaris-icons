@@ -1,7 +1,7 @@
 @import "tailwindcss";
-@import "fumadocs-ui/css/ocean.css";
+@import "@heroui/styles"; 
+@import "fumadocs-ui/css/solar.css";
 @import "fumadocs-ui/css/preset.css";
-
 
 @layer base {
   aside [data-radix-scroll-area-viewport] a {

@@ -33,7 +33,7 @@ const VARIANTS = {
         stroke="currentColor"
         strokeLinecap="round"
         strokeWidth="1.5"
-        clip-path="url(#a)"
+        clipPath="url(#a)"
       >
         <path d="M10 11H3m7 5H3" />
         <path strokeLinejoin="round" d="m14 13.5 2.1 2.5 3.9-5" />

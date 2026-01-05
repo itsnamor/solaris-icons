@@ -55,7 +55,8 @@ function svgToJsx(svgContent: string): string {
     .replace(/stroke-dashoffset/g, "strokeDashoffset")
     .replace(/stroke-miterlimit/g, "strokeMiterlimit")
     .replace(/stroke-opacity/g, "strokeOpacity")
-    .replace(/fill-opacity/g, "fillOpacity");
+    .replace(/fill-opacity/g, "fillOpacity")
+    .replace(/clip-path/g, "clipPath");
 
   return jsx;
 }

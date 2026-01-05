@@ -19,7 +19,7 @@ const VARIANTS = {
   ),
   broken: (
     <>
-      <g clip-path="url(#a)">
+      <g clipPath="url(#a)">
         <path
           stroke="currentColor"
           strokeLinecap="round"
@@ -65,7 +65,7 @@ const VARIANTS = {
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="1.5"
-        clip-path="url(#a)"
+        clipPath="url(#a)"
       >
         <path d="M19.729 10.928a8 8 0 1 1-2.072-3.585l.707.707" opacity=".5" />
         <path d="M14.121 8.05h4.243V3.808" />

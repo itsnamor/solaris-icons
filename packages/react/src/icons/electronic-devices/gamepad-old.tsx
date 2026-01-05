@@ -4,7 +4,7 @@ import type { IconProps } from "../../types";
 const VARIANTS = {
   linear: (
     <>
-      <g clip-path="url(#a)">
+      <g clipPath="url(#a)">
         <path
           stroke="currentColor"
           strokeLinecap="round"
@@ -44,7 +44,7 @@ const VARIANTS = {
   ),
   broken: (
     <>
-      <g clip-path="url(#a)">
+      <g clipPath="url(#a)">
         <path
           stroke="currentColor"
           strokeLinecap="round"
@@ -71,7 +71,7 @@ const VARIANTS = {
   ),
   outline: (
     <>
-      <g fill="currentColor" clip-path="url(#a)">
+      <g fill="currentColor" clipPath="url(#a)">
         <path d="M16 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0m2 3a1 1 0 1 1-2 0 1 1 0 0 1 2 0" />
         <path
           fillRule="evenodd"
@@ -101,7 +101,7 @@ const VARIANTS = {
   ),
   "line-duotone": (
     <>
-      <g clip-path="url(#a)">
+      <g clipPath="url(#a)">
         <path
           stroke="currentColor"
           strokeLinecap="round"
