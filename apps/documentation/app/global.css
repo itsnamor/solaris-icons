@@ -7,4 +7,8 @@
   aside [data-radix-scroll-area-viewport] a {
     @apply mb-1;
   }
+
+  nav button {
+    @apply cursor-pointer;
+  }
 }

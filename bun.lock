@@ -16,6 +16,7 @@
       "version": "0.0.0",
       "dependencies": {
         "@orama/orama": "^3.1.18",
+        "@solaris-icons/react": "^0.1.4",
         "fumadocs-core": "16.4.3",
         "fumadocs-mdx": "14.2.4",
         "fumadocs-ui": "16.4.3",
@@ -1294,6 +1295,8 @@
     "compression/negotiator": ["negotiator@0.6.4", "", {}, "sha512-myRT3DiWPHqho5PrJaIRyaMv2kgYf0mUVgBNOYMuCH5Ki1yEiQaf/ZJuQ62nvpc44wL5WDbTX7yGJi1Neevw8w=="],
 
     "csso/css-tree": ["css-tree@2.2.1", "", { "dependencies": { "mdn-data": "2.0.28", "source-map-js": "^1.0.1" } }, "sha512-OA0mILzGc1kCOCSJerOeqDxDQ4HOh+G8NbOJFOTgOCzpw7fCBubk0fEyxp8AgOL/jvLgYA/uV0cMbe43ElF1JA=="],
+
+    "documentation/@solaris-icons/react": ["@solaris-icons/react@0.1.4", "", { "peerDependencies": { "react": "^19.2.3", "react-dom": "^19.2.3" } }, "sha512-uGgajyjLyQ0j3TkYmpKc2cnVdTGIEe5FUYmU8UPZR0NHOjUDZPOJpCSdY8ywmWclcNkfDqQptGFTvlTnUdEUmA=="],
 
     "mime-types/mime-db": ["mime-db@1.33.0", "", {}, "sha512-BHJ/EKruNIqJf/QahvxwQZXKygOQ256myeN/Ew+THcAa5q+PjyTTMMeNQC4DZw5AwfvelsUrA6B67NKMqXDbzQ=="],
 
