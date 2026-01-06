@@ -1,9 +1,9 @@
 {
-  "pages": [
-    "index",
-    "---Installation---",
-    "...installation",
-    "---Usage---",
-    "...usage"
-  ]
+	"pages": [
+		"index",
+		"---Installation---",
+		"...installation",
+		"---Usage---",
+		"...usage"
+	]
 }

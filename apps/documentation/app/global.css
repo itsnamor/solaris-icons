@@ -1,14 +1,14 @@
 @import "tailwindcss";
-@import "@heroui/styles"; 
+@import "@heroui/styles";
 @import "fumadocs-ui/css/solar.css";
 @import "fumadocs-ui/css/preset.css";
 
 @layer base {
-  aside [data-radix-scroll-area-viewport] a {
-    @apply mb-1;
-  }
+	aside [data-radix-scroll-area-viewport] a {
+		@apply mb-1;
+	}
 
-  nav button {
-    @apply cursor-pointer;
-  }
+	nav button {
+		@apply cursor-pointer;
+	}
 }
