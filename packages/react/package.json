@@ -19,7 +19,7 @@
   "scripts": {
     "gen:icons": "bun run ./scripts/gen-icons.ts",
     "build": "bun run build:assets && bun run build:types",
-    "build:assets": "bun build main.ts --outdir dist --target node --minify --external react --external react-dom --external react/jsx-runtime",
+    "build:assets": "bun run ./scripts/build.ts",
     "build:types": "tsc --declaration --emitDeclarationOnly --outDir dist",
     "format": "biome format --write",
     "check:type": "tsc --noEmit",

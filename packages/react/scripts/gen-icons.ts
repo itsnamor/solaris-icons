@@ -187,7 +187,9 @@ async function processCategoryDir(
     if (result) {
       const outputFilePath = join(outputCategoryPath, `${iconDir.name}.tsx`);
       await writeFile(outputFilePath, result.content);
-      exports.push(`export * from "./${categoryName}/${iconDir.name}";`);
+      exports.push(
+        `export * from "./src/icons/${categoryName}/${iconDir.name}";`,
+      );
       console.log(`  ✓ ${iconDir.name}.tsx`);
     }
   }
@@ -224,7 +226,7 @@ async function main(): Promise<void> {
   }
 
   // Create main.ts with all exports
-  const indexPath = join(import.meta.dir, "../src/icons/index.ts");
+  const indexPath = join(import.meta.dir, "../main.ts");
   await writeFile(indexPath, `${allExports.join("\n")}\n`);
 
   console.log("✅ Icon generation complete!");
