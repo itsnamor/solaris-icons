@@ -119,10 +119,7 @@ const VARIANTS = {
   ),
 };
 
-export function SkateboardingRound({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SkateboardingRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

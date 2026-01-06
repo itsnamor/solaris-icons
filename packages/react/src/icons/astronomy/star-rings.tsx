@@ -116,7 +116,7 @@ const VARIANTS = {
   ),
 };
 
-export function StarRings({ variant = "linear", ...props }: IconProps) {
+function StarRings({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

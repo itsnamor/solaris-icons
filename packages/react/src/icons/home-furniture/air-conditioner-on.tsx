@@ -111,7 +111,7 @@ const VARIANTS = {
   ),
 };
 
-export function AirConditionerOn({ variant = "linear", ...props }: IconProps) {
+function AirConditionerOn({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

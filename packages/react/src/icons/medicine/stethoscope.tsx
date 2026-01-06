@@ -100,7 +100,7 @@ const VARIANTS = {
   ),
 };
 
-export function Stethoscope({ variant = "linear", ...props }: IconProps) {
+function Stethoscope({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -100,7 +100,7 @@ const VARIANTS = {
   ),
 };
 
-export function IntravenousSetup({ variant = "linear", ...props }: IconProps) {
+function IntravenousSetup({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

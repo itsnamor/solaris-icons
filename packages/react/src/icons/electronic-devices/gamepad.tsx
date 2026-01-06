@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function Gamepad({ variant = "linear", ...props }: IconProps) {
+function Gamepad({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

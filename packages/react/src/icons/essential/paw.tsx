@@ -68,7 +68,7 @@ const VARIANTS = {
   ),
 };
 
-export function Paw({ variant = "linear", ...props }: IconProps) {
+function Paw({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

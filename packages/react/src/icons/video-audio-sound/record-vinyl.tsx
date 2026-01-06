@@ -98,7 +98,7 @@ const VARIANTS = {
   ),
 };
 
-export function RecordVinyl({ variant = "linear", ...props }: IconProps) {
+function RecordVinyl({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

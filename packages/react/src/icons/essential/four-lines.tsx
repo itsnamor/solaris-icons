@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function FourLines({ variant = "linear", ...props }: IconProps) {
+function FourLines({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

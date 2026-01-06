@@ -135,7 +135,7 @@ const VARIANTS = {
   ),
 };
 
-export function Screencast({ variant = "linear", ...props }: IconProps) {
+function Screencast({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

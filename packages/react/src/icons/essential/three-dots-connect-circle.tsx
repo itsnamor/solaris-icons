@@ -76,10 +76,7 @@ const VARIANTS = {
   ),
 };
 
-export function ThreeDotsConnectCircle({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ThreeDotsConnectCircle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

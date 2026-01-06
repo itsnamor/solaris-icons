@@ -62,10 +62,7 @@ const VARIANTS = {
   ),
 };
 
-export function TrashBinRoundHandle({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function TrashBinRoundHandle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

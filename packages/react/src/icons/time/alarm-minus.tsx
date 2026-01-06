@@ -105,7 +105,7 @@ const VARIANTS = {
   ),
 };
 
-export function AlarmMinus({ variant = "linear", ...props }: IconProps) {
+function AlarmMinus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

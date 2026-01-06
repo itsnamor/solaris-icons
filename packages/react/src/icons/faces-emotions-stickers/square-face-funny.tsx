@@ -149,7 +149,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareFaceFunny({ variant = "linear", ...props }: IconProps) {
+function SquareFaceFunny({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

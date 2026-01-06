@@ -83,7 +83,7 @@ const VARIANTS = {
   ),
 };
 
-export function Voicemail({ variant = "linear", ...props }: IconProps) {
+function Voicemail({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

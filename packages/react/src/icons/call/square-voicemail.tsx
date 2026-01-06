@@ -105,7 +105,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareVoicemail({ variant = "linear", ...props }: IconProps) {
+function SquareVoicemail({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

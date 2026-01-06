@@ -76,7 +76,7 @@ const VARIANTS = {
   ),
 };
 
-export function OvenMitts({ variant = "linear", ...props }: IconProps) {
+function OvenMitts({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

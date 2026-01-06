@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function Gift({ variant = "linear", ...props }: IconProps) {
+function Gift({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -80,10 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleTransmission({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function CircleTransmission({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

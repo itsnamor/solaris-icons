@@ -100,7 +100,7 @@ const VARIANTS = {
   ),
 };
 
-export function PhoneVolume({ variant = "linear", ...props }: IconProps) {
+function PhoneVolume({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

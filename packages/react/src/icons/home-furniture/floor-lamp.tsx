@@ -137,7 +137,7 @@ const VARIANTS = {
   ),
 };
 
-export function FloorLamp({ variant = "linear", ...props }: IconProps) {
+function FloorLamp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -83,10 +83,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareFaceConfounded({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquareFaceConfounded({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

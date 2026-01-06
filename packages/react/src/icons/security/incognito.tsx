@@ -134,7 +134,7 @@ const VARIANTS = {
   ),
 };
 
-export function Incognito({ variant = "linear", ...props }: IconProps) {
+function Incognito({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

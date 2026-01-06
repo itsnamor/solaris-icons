@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function PointOnMap({ variant = "linear", ...props }: IconProps) {
+function PointOnMap({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

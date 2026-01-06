@@ -74,7 +74,7 @@ const VARIANTS = {
   ),
 };
 
-export function MapPinHeart({ variant = "linear", ...props }: IconProps) {
+function MapPinHeart({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

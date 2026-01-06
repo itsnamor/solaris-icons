@@ -66,7 +66,7 @@ const VARIANTS = {
   ),
 };
 
-export function LinesSpacing({ variant = "linear", ...props }: IconProps) {
+function LinesSpacing({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

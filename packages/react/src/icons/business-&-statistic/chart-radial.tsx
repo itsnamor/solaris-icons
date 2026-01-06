@@ -115,7 +115,7 @@ const VARIANTS = {
   ),
 };
 
-export function ChartRadial({ variant = "linear", ...props }: IconProps) {
+function ChartRadial({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

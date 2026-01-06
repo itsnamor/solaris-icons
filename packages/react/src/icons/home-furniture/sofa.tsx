@@ -95,7 +95,7 @@ const VARIANTS = {
   ),
 };
 
-export function Sofa({ variant = "linear", ...props }: IconProps) {
+function Sofa({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

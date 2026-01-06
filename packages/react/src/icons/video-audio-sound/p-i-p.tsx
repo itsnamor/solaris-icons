@@ -82,7 +82,7 @@ const VARIANTS = {
   ),
 };
 
-export function PIP({ variant = "linear", ...props }: IconProps) {
+function PIP({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

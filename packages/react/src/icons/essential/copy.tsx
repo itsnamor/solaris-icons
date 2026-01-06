@@ -82,7 +82,7 @@ const VARIANTS = {
   ),
 };
 
-export function Copy({ variant = "linear", ...props }: IconProps) {
+function Copy({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

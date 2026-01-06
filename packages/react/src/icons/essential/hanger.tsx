@@ -59,7 +59,7 @@ const VARIANTS = {
   ),
 };
 
-export function Hanger({ variant = "linear", ...props }: IconProps) {
+function Hanger({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

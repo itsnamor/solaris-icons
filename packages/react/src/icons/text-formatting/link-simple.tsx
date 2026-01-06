@@ -81,7 +81,7 @@ const VARIANTS = {
   ),
 };
 
-export function LinkSimple({ variant = "linear", ...props }: IconProps) {
+function LinkSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

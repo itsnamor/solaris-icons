@@ -86,10 +86,7 @@ const VARIANTS = {
   ),
 };
 
-export function SlideVerticalSimple({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SlideVerticalSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

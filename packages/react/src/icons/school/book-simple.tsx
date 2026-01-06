@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function BookSimple({ variant = "linear", ...props }: IconProps) {
+function BookSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareEye({ variant = "linear", ...props }: IconProps) {
+function SquareEye({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

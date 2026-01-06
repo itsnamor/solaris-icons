@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function Crop({ variant = "linear", ...props }: IconProps) {
+function Crop({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

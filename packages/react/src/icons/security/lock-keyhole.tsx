@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function LockKeyhole({ variant = "linear", ...props }: IconProps) {
+function LockKeyhole({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

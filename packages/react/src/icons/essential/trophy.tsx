@@ -157,7 +157,7 @@ const VARIANTS = {
   ),
 };
 
-export function Trophy({ variant = "linear", ...props }: IconProps) {
+function Trophy({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

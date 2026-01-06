@@ -95,7 +95,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareLeftDownIn({ variant = "linear", ...props }: IconProps) {
+function SquareLeftDownIn({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

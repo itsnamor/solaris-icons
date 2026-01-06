@@ -1,5 +1,4 @@
 import { IconsExplorer } from '$/components/icons-explorer';
-import Link from 'next/link';
 import { Suspense } from 'react';
 
 export default function HomePage() {

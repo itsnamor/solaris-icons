@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function Ladle({ variant = "linear", ...props }: IconProps) {
+function Ladle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

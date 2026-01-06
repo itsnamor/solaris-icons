@@ -183,7 +183,7 @@ const VARIANTS = {
   ),
 };
 
-export function QRCode({ variant = "linear", ...props }: IconProps) {
+function QRCode({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

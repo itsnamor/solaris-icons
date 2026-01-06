@@ -62,7 +62,7 @@ const VARIANTS = {
   ),
 };
 
-export function Radar({ variant = "linear", ...props }: IconProps) {
+function Radar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

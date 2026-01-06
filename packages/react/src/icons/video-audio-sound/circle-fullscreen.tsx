@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleFullscreen({ variant = "linear", ...props }: IconProps) {
+function CircleFullscreen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

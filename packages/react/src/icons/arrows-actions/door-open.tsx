@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function DoorOpen({ variant = "linear", ...props }: IconProps) {
+function DoorOpen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

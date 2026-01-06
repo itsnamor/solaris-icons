@@ -75,7 +75,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleSoundwave({ variant = "linear", ...props }: IconProps) {
+function CircleSoundwave({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

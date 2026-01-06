@@ -129,7 +129,7 @@ const VARIANTS = {
   ),
 };
 
-export function Turntable({ variant = "linear", ...props }: IconProps) {
+function Turntable({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

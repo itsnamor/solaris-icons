@@ -112,7 +112,7 @@ const VARIANTS = {
   ),
 };
 
-export function NotebookBookmark({ variant = "linear", ...props }: IconProps) {
+function NotebookBookmark({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

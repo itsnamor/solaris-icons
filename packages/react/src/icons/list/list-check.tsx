@@ -87,7 +87,7 @@ const VARIANTS = {
   ),
 };
 
-export function ListCheck({ variant = "linear", ...props }: IconProps) {
+function ListCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

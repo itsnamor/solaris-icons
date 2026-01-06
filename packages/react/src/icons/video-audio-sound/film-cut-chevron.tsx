@@ -74,7 +74,7 @@ const VARIANTS = {
   ),
 };
 
-export function FilmCutChevron({ variant = "linear", ...props }: IconProps) {
+function FilmCutChevron({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

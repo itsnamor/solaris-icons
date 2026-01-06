@@ -99,7 +99,7 @@ const VARIANTS = {
   ),
 };
 
-export function FolderPathConnect({ variant = "linear", ...props }: IconProps) {
+function FolderPathConnect({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

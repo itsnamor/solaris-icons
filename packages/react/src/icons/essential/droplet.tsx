@@ -86,7 +86,7 @@ const VARIANTS = {
   ),
 };
 
-export function Droplet({ variant = "linear", ...props }: IconProps) {
+function Droplet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

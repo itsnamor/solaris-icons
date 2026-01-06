@@ -131,7 +131,7 @@ const VARIANTS = {
   ),
 };
 
-export function MonitorSmartphone({ variant = "linear", ...props }: IconProps) {
+function MonitorSmartphone({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

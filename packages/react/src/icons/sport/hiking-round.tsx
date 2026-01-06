@@ -134,7 +134,7 @@ const VARIANTS = {
   ),
 };
 
-export function HikingRound({ variant = "linear", ...props }: IconProps) {
+function HikingRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

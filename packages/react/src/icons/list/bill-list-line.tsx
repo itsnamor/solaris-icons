@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function BillListLine({ variant = "linear", ...props }: IconProps) {
+function BillListLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

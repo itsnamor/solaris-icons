@@ -108,7 +108,7 @@ const VARIANTS = {
   ),
 };
 
-export function FileCloud({ variant = "linear", ...props }: IconProps) {
+function FileCloud({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

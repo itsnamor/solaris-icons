@@ -108,7 +108,7 @@ const VARIANTS = {
   ),
 };
 
-export function Meditation({ variant = "linear", ...props }: IconProps) {
+function Meditation({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

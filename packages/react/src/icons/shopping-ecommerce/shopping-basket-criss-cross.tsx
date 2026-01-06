@@ -124,10 +124,7 @@ const VARIANTS = {
   ),
 };
 
-export function ShoppingBasketCrissCross({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ShoppingBasketCrissCross({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

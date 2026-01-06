@@ -119,7 +119,7 @@ const VARIANTS = {
   ),
 };
 
-export function Bowling({ variant = "linear", ...props }: IconProps) {
+function Bowling({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

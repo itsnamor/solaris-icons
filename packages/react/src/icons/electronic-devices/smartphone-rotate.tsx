@@ -97,7 +97,7 @@ const VARIANTS = {
   ),
 };
 
-export function SmartphoneRotate({ variant = "linear", ...props }: IconProps) {
+function SmartphoneRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

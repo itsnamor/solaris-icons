@@ -95,7 +95,7 @@ const VARIANTS = {
   ),
 };
 
-export function Record({ variant = "linear", ...props }: IconProps) {
+function Record({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -85,7 +85,7 @@ const VARIANTS = {
   ),
 };
 
-export function SimCards({ variant = "linear", ...props }: IconProps) {
+function SimCards({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

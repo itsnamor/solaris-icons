@@ -121,7 +121,7 @@ const VARIANTS = {
   ),
 };
 
-export function WristwatchSquare({ variant = "linear", ...props }: IconProps) {
+function WristwatchSquare({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

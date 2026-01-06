@@ -95,7 +95,7 @@ const VARIANTS = {
   ),
 };
 
-export function RocketBoost({ variant = "linear", ...props }: IconProps) {
+function RocketBoost({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

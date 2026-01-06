@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function LockDots({ variant = "linear", ...props }: IconProps) {
+function LockDots({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

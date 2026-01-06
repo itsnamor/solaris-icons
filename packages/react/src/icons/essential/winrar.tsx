@@ -111,7 +111,7 @@ const VARIANTS = {
   ),
 };
 
-export function Winrar({ variant = "linear", ...props }: IconProps) {
+function Winrar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

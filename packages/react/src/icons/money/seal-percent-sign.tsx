@@ -98,7 +98,7 @@ const VARIANTS = {
   ),
 };
 
-export function SealPercentSign({ variant = "linear", ...props }: IconProps) {
+function SealPercentSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

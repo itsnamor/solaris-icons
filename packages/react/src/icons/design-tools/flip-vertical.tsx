@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function FlipVertical({ variant = "linear", ...props }: IconProps) {
+function FlipVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

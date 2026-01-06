@@ -79,7 +79,7 @@ const VARIANTS = {
   ),
 };
 
-export function UserHeart({ variant = "linear", ...props }: IconProps) {
+function UserHeart({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

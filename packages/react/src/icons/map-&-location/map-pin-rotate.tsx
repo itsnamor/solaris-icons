@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function MapPinRotate({ variant = "linear", ...props }: IconProps) {
+function MapPinRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

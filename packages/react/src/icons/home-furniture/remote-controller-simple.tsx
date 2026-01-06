@@ -107,10 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function RemoteControllerSimple({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function RemoteControllerSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

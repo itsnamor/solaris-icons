@@ -75,7 +75,7 @@ const VARIANTS = {
   ),
 };
 
-export function WineGlassTriangle({ variant = "linear", ...props }: IconProps) {
+function WineGlassTriangle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

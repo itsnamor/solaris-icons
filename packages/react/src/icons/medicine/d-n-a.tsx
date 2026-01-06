@@ -68,7 +68,7 @@ const VARIANTS = {
   ),
 };
 
-export function DNA({ variant = "linear", ...props }: IconProps) {
+function DNA({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

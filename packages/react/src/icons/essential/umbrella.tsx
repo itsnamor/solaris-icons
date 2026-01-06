@@ -77,7 +77,7 @@ const VARIANTS = {
   ),
 };
 
-export function Umbrella({ variant = "linear", ...props }: IconProps) {
+function Umbrella({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

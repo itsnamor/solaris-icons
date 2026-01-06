@@ -104,7 +104,7 @@ const VARIANTS = {
   ),
 };
 
-export function Cpu({ variant = "linear", ...props }: IconProps) {
+function Cpu({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

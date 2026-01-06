@@ -59,7 +59,7 @@ const VARIANTS = {
   ),
 };
 
-export function PhoneHandup({ variant = "linear", ...props }: IconProps) {
+function PhoneHandup({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

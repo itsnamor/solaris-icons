@@ -83,7 +83,7 @@ const VARIANTS = {
   ),
 };
 
-export function CloudDroplet({ variant = "linear", ...props }: IconProps) {
+function CloudDroplet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

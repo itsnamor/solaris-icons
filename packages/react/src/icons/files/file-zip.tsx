@@ -98,7 +98,7 @@ const VARIANTS = {
   ),
 };
 
-export function FileZip({ variant = "linear", ...props }: IconProps) {
+function FileZip({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

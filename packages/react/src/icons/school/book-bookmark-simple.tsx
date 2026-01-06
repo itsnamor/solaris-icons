@@ -97,10 +97,7 @@ const VARIANTS = {
   ),
 };
 
-export function BookBookmarkSimple({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function BookBookmarkSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

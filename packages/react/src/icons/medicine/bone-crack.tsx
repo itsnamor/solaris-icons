@@ -86,7 +86,7 @@ const VARIANTS = {
   ),
 };
 
-export function BoneCrack({ variant = "linear", ...props }: IconProps) {
+function BoneCrack({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

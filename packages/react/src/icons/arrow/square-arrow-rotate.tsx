@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareArrowRotate({ variant = "linear", ...props }: IconProps) {
+function SquareArrowRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

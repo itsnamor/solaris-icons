@@ -61,7 +61,7 @@ const VARIANTS = {
   ),
 };
 
-export function RollingPin({ variant = "linear", ...props }: IconProps) {
+function RollingPin({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

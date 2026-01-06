@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function Backspace({ variant = "linear", ...props }: IconProps) {
+function Backspace({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

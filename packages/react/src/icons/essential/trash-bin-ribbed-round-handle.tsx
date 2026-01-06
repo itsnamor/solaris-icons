@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function TrashBinRibbedRoundHandle({
+function TrashBinRibbedRoundHandle({
   variant = "linear",
   ...props
 }: IconProps) {

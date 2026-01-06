@@ -142,7 +142,7 @@ const VARIANTS = {
   ),
 };
 
-export function Hospital({ variant = "linear", ...props }: IconProps) {
+function Hospital({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

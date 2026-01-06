@@ -113,7 +113,7 @@ const VARIANTS = {
   ),
 };
 
-export function SuitcaseTag({ variant = "linear", ...props }: IconProps) {
+function SuitcaseTag({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

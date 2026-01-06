@@ -95,7 +95,7 @@ const VARIANTS = {
   ),
 };
 
-export function BranchPathsDown({ variant = "linear", ...props }: IconProps) {
+function BranchPathsDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

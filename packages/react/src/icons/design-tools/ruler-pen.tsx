@@ -91,7 +91,7 @@ const VARIANTS = {
   ),
 };
 
-export function RulerPen({ variant = "linear", ...props }: IconProps) {
+function RulerPen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

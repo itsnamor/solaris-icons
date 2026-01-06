@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function HangerCloth({ variant = "linear", ...props }: IconProps) {
+function HangerCloth({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

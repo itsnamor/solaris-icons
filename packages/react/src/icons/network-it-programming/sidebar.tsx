@@ -74,7 +74,7 @@ const VARIANTS = {
   ),
 };
 
-export function Sidebar({ variant = "linear", ...props }: IconProps) {
+function Sidebar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

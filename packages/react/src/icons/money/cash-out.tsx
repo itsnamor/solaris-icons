@@ -127,7 +127,7 @@ const VARIANTS = {
   ),
 };
 
-export function CashOut({ variant = "linear", ...props }: IconProps) {
+function CashOut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

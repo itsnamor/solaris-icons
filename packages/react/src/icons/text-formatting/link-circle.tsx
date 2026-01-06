@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function LinkCircle({ variant = "linear", ...props }: IconProps) {
+function LinkCircle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -66,7 +66,7 @@ const VARIANTS = {
   ),
 };
 
-export function Flag({ variant = "linear", ...props }: IconProps) {
+function Flag({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -118,7 +118,7 @@ const VARIANTS = {
   ),
 };
 
-export function Gameboy({ variant = "linear", ...props }: IconProps) {
+function Gameboy({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

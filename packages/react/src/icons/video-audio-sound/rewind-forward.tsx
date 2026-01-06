@@ -70,7 +70,7 @@ const VARIANTS = {
   ),
 };
 
-export function RewindForward({ variant = "linear", ...props }: IconProps) {
+function RewindForward({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

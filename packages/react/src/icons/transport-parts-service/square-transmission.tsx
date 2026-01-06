@@ -88,10 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareTransmission({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquareTransmission({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

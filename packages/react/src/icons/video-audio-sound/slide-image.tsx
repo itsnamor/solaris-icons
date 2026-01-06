@@ -123,7 +123,7 @@ const VARIANTS = {
   ),
 };
 
-export function SlideImage({ variant = "linear", ...props }: IconProps) {
+function SlideImage({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

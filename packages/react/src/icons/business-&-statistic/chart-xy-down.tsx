@@ -82,7 +82,7 @@ const VARIANTS = {
   ),
 };
 
-export function ChartXyDown({ variant = "linear", ...props }: IconProps) {
+function ChartXyDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -104,10 +104,7 @@ const VARIANTS = {
   ),
 };
 
-export function RectLetterTLineVertical({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function RectLetterTLineVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

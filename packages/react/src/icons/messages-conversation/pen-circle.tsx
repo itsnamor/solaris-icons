@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function PenCircle({ variant = "linear", ...props }: IconProps) {
+function PenCircle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

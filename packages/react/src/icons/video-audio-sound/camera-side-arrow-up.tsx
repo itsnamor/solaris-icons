@@ -94,7 +94,7 @@ const VARIANTS = {
   ),
 };
 
-export function CameraSideArrowUp({ variant = "linear", ...props }: IconProps) {
+function CameraSideArrowUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

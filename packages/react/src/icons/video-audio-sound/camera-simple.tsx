@@ -104,7 +104,7 @@ const VARIANTS = {
   ),
 };
 
-export function CameraSimple({ variant = "linear", ...props }: IconProps) {
+function CameraSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

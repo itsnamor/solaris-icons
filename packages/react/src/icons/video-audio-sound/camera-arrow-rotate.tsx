@@ -83,7 +83,7 @@ const VARIANTS = {
   ),
 };
 
-export function CameraArrowRotate({ variant = "linear", ...props }: IconProps) {
+function CameraArrowRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

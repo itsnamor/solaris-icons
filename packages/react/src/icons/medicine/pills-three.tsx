@@ -94,7 +94,7 @@ const VARIANTS = {
   ),
 };
 
-export function PillsThree({ variant = "linear", ...props }: IconProps) {
+function PillsThree({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

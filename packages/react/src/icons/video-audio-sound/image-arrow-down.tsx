@@ -119,7 +119,7 @@ const VARIANTS = {
   ),
 };
 
-export function ImageArrowDown({ variant = "linear", ...props }: IconProps) {
+function ImageArrowDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

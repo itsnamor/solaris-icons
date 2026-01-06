@@ -91,7 +91,7 @@ const VARIANTS = {
   ),
 };
 
-export function StarShine({ variant = "linear", ...props }: IconProps) {
+function StarShine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

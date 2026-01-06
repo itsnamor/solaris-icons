@@ -99,7 +99,7 @@ const VARIANTS = {
   ),
 };
 
-export function MagicStick({ variant = "linear", ...props }: IconProps) {
+function MagicStick({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

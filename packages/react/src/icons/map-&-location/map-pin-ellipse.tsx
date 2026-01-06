@@ -103,7 +103,7 @@ const VARIANTS = {
   ),
 };
 
-export function MapPinEllipse({ variant = "linear", ...props }: IconProps) {
+function MapPinEllipse({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

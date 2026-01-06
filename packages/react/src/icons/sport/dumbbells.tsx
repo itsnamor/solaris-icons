@@ -56,7 +56,7 @@ const VARIANTS = {
   ),
 };
 
-export function Dumbbells({ variant = "linear", ...props }: IconProps) {
+function Dumbbells({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

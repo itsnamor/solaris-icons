@@ -159,7 +159,7 @@ const VARIANTS = {
   ),
 };
 
-export function Masks({ variant = "linear", ...props }: IconProps) {
+function Masks({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

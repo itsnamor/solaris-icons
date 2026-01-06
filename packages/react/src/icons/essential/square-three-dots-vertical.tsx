@@ -80,10 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareThreeDotsVertical({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquareThreeDotsVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

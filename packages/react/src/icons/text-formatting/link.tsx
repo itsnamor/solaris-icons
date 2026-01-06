@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function Link({ variant = "linear", ...props }: IconProps) {
+function Link({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

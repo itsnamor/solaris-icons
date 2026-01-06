@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function RectDots({ variant = "linear", ...props }: IconProps) {
+function RectDots({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

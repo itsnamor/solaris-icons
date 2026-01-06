@@ -85,7 +85,7 @@ const VARIANTS = {
   ),
 };
 
-export function RepeatOnce({ variant = "linear", ...props }: IconProps) {
+function RepeatOnce({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

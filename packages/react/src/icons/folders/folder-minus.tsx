@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function FolderMinus({ variant = "linear", ...props }: IconProps) {
+function FolderMinus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

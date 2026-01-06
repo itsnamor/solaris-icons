@@ -162,7 +162,7 @@ const VARIANTS = {
   ),
 };
 
-export function DonutBite({ variant = "linear", ...props }: IconProps) {
+function DonutBite({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -184,7 +184,7 @@ const VARIANTS = {
   ),
 };
 
-export function CupFirst({ variant = "linear", ...props }: IconProps) {
+function CupFirst({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function ChartBarLoose({ variant = "linear", ...props }: IconProps) {
+function ChartBarLoose({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

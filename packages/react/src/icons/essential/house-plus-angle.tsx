@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function HousePlusAngle({ variant = "linear", ...props }: IconProps) {
+function HousePlusAngle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleThreeDotsHorizontal({
+function CircleThreeDotsHorizontal({
   variant = "linear",
   ...props
 }: IconProps) {

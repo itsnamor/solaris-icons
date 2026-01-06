@@ -111,7 +111,7 @@ const VARIANTS = {
   ),
 };
 
-export function Television({ variant = "linear", ...props }: IconProps) {
+function Television({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

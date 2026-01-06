@@ -94,7 +94,7 @@ const VARIANTS = {
   ),
 };
 
-export function RectArrowCursor({ variant = "linear", ...props }: IconProps) {
+function RectArrowCursor({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -103,7 +103,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareBluetooth({ variant = "linear", ...props }: IconProps) {
+function SquareBluetooth({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

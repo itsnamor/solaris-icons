@@ -143,7 +143,7 @@ const VARIANTS = {
   ),
 };
 
-export function Boombox({ variant = "linear", ...props }: IconProps) {
+function Boombox({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -94,10 +94,7 @@ const VARIANTS = {
   ),
 };
 
-export function ThreeCirclesOverlap({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ThreeCirclesOverlap({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

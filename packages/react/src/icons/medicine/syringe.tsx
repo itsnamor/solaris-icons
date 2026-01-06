@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function Syringe({ variant = "linear", ...props }: IconProps) {
+function Syringe({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

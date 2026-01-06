@@ -130,7 +130,7 @@ const VARIANTS = {
   ),
 };
 
-export function Siren({ variant = "linear", ...props }: IconProps) {
+function Siren({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

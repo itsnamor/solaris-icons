@@ -95,7 +95,7 @@ const VARIANTS = {
   ),
 };
 
-export function Microphone({ variant = "linear", ...props }: IconProps) {
+function Microphone({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

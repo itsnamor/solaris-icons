@@ -99,7 +99,7 @@ const VARIANTS = {
   ),
 };
 
-export function FaceNeutral({ variant = "linear", ...props }: IconProps) {
+function FaceNeutral({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

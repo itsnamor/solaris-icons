@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function InboxBadge({ variant = "linear", ...props }: IconProps) {
+function InboxBadge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

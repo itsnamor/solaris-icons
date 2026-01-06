@@ -113,7 +113,7 @@ const VARIANTS = {
   ),
 };
 
-export function LayersLoose({ variant = "linear", ...props }: IconProps) {
+function LayersLoose({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

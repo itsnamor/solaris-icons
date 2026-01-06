@@ -110,7 +110,7 @@ const VARIANTS = {
   ),
 };
 
-export function RectDotsLine({ variant = "linear", ...props }: IconProps) {
+function RectDotsLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

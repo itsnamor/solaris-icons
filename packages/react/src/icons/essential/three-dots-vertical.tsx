@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function ThreeDotsVertical({ variant = "linear", ...props }: IconProps) {
+function ThreeDotsVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

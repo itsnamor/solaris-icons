@@ -69,7 +69,7 @@ const VARIANTS = {
   ),
 };
 
-export function BoxSimple({ variant = "linear", ...props }: IconProps) {
+function BoxSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

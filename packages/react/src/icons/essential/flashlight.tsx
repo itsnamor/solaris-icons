@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function Flashlight({ variant = "linear", ...props }: IconProps) {
+function Flashlight({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

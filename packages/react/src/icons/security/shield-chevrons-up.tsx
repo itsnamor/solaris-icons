@@ -95,7 +95,7 @@ const VARIANTS = {
   ),
 };
 
-export function ShieldChevronsUp({ variant = "linear", ...props }: IconProps) {
+function ShieldChevronsUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

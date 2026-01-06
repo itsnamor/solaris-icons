@@ -83,7 +83,7 @@ const VARIANTS = {
   ),
 };
 
-export function ClapperboardOpen({ variant = "linear", ...props }: IconProps) {
+function ClapperboardOpen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

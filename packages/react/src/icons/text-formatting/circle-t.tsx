@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleT({ variant = "linear", ...props }: IconProps) {
+function CircleT({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

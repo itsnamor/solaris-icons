@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function StarShooting({ variant = "linear", ...props }: IconProps) {
+function StarShooting({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

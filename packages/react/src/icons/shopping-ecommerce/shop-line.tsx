@@ -114,7 +114,7 @@ const VARIANTS = {
   ),
 };
 
-export function ShopLine({ variant = "linear", ...props }: IconProps) {
+function ShopLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

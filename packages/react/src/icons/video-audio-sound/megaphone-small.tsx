@@ -86,7 +86,7 @@ const VARIANTS = {
   ),
 };
 
-export function MegaphoneSmall({ variant = "linear", ...props }: IconProps) {
+function MegaphoneSmall({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

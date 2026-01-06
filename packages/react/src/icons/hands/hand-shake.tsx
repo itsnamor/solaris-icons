@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function HandShake({ variant = "linear", ...props }: IconProps) {
+function HandShake({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

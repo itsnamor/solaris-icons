@@ -103,7 +103,7 @@ const VARIANTS = {
   ),
 };
 
-export function ThreeSquares({ variant = "linear", ...props }: IconProps) {
+function ThreeSquares({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

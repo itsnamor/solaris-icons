@@ -98,7 +98,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareForward({ variant = "linear", ...props }: IconProps) {
+function SquareForward({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

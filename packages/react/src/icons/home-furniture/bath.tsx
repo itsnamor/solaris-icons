@@ -103,7 +103,7 @@ const VARIANTS = {
   ),
 };
 
-export function Bath({ variant = "linear", ...props }: IconProps) {
+function Bath({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

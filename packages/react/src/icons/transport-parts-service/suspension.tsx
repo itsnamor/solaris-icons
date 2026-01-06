@@ -64,7 +64,7 @@ const VARIANTS = {
   ),
 };
 
-export function Suspension({ variant = "linear", ...props }: IconProps) {
+function Suspension({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

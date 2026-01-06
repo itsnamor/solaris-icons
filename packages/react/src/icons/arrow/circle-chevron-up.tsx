@@ -81,7 +81,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleChevronUp({ variant = "linear", ...props }: IconProps) {
+function CircleChevronUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

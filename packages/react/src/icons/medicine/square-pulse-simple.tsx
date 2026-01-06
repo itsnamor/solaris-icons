@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquarePulseSimple({ variant = "linear", ...props }: IconProps) {
+function SquarePulseSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

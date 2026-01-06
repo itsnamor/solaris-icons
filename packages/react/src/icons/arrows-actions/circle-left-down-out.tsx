@@ -104,7 +104,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleLeftDownOut({ variant = "linear", ...props }: IconProps) {
+function CircleLeftDownOut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

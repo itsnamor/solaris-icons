@@ -114,7 +114,7 @@ const VARIANTS = {
   ),
 };
 
-export function Checklist({ variant = "linear", ...props }: IconProps) {
+function Checklist({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

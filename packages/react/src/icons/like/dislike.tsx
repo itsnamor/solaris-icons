@@ -66,7 +66,7 @@ const VARIANTS = {
   ),
 };
 
-export function Dislike({ variant = "linear", ...props }: IconProps) {
+function Dislike({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

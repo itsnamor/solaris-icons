@@ -133,7 +133,7 @@ const VARIANTS = {
   ),
 };
 
-export function SmartphoneRotateOrientation({
+function SmartphoneRotateOrientation({
   variant = "linear",
   ...props
 }: IconProps) {

@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function Crosshair({ variant = "linear", ...props }: IconProps) {
+function Crosshair({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareScissors({ variant = "linear", ...props }: IconProps) {
+function SquareScissors({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

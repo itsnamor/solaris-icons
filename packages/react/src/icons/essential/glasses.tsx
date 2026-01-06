@@ -77,7 +77,7 @@ const VARIANTS = {
   ),
 };
 
-export function Glasses({ variant = "linear", ...props }: IconProps) {
+function Glasses({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

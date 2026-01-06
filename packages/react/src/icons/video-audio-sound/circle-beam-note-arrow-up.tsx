@@ -137,10 +137,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleBeamNoteArrowUp({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function CircleBeamNoteArrowUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

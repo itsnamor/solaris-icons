@@ -67,7 +67,7 @@ const VARIANTS = {
   ),
 };
 
-export function RoutingDots({ variant = "linear", ...props }: IconProps) {
+function RoutingDots({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

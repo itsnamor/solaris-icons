@@ -89,10 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareFourArrowsOut({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquareFourArrowsOut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

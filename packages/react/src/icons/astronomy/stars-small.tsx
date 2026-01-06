@@ -109,7 +109,7 @@ const VARIANTS = {
   ),
 };
 
-export function StarsSmall({ variant = "linear", ...props }: IconProps) {
+function StarsSmall({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -77,7 +77,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleBookmark({ variant = "linear", ...props }: IconProps) {
+function CircleBookmark({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

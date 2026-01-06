@@ -100,7 +100,7 @@ const VARIANTS = {
   ),
 };
 
-export function Diploma({ variant = "linear", ...props }: IconProps) {
+function Diploma({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -149,10 +149,7 @@ const VARIANTS = {
   ),
 };
 
-export function SmartphoneArrowsRotate({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SmartphoneArrowsRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

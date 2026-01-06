@@ -86,7 +86,7 @@ const VARIANTS = {
   ),
 };
 
-export function ChartPieSnug({ variant = "linear", ...props }: IconProps) {
+function ChartPieSnug({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

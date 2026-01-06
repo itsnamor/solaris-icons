@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function MonitorCamera({ variant = "linear", ...props }: IconProps) {
+function MonitorCamera({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

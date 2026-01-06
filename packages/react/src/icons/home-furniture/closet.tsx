@@ -119,7 +119,7 @@ const VARIANTS = {
   ),
 };
 
-export function Closet({ variant = "linear", ...props }: IconProps) {
+function Closet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -105,7 +105,7 @@ const VARIANTS = {
   ),
 };
 
-export function PrinterSimple({ variant = "linear", ...props }: IconProps) {
+function PrinterSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

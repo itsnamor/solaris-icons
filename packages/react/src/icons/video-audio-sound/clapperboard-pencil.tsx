@@ -107,10 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function ClapperboardPencil({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ClapperboardPencil({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

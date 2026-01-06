@@ -105,7 +105,7 @@ const VARIANTS = {
   ),
 };
 
-export function AlarmX({ variant = "linear", ...props }: IconProps) {
+function AlarmX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

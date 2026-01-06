@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function ThreeLines({ variant = "linear", ...props }: IconProps) {
+function ThreeLines({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

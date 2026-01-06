@@ -92,10 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function DiamondArrowBendUpRight({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function DiamondArrowBendUpRight({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

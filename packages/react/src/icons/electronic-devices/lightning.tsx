@@ -159,7 +159,7 @@ const VARIANTS = {
   ),
 };
 
-export function Lightning({ variant = "linear", ...props }: IconProps) {
+function Lightning({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -69,7 +69,7 @@ const VARIANTS = {
   ),
 };
 
-export function PaintRoller({ variant = "linear", ...props }: IconProps) {
+function PaintRoller({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

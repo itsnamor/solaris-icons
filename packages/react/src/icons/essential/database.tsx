@@ -113,7 +113,7 @@ const VARIANTS = {
   ),
 };
 
-export function Database({ variant = "linear", ...props }: IconProps) {
+function Database({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

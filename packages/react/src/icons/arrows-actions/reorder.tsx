@@ -110,7 +110,7 @@ const VARIANTS = {
   ),
 };
 
-export function Reorder({ variant = "linear", ...props }: IconProps) {
+function Reorder({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

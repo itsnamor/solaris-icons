@@ -95,7 +95,7 @@ const VARIANTS = {
   ),
 };
 
-export function AlbumFilm({ variant = "linear", ...props }: IconProps) {
+function AlbumFilm({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

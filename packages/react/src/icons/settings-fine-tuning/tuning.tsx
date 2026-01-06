@@ -87,7 +87,7 @@ const VARIANTS = {
   ),
 };
 
-export function Tuning({ variant = "linear", ...props }: IconProps) {
+function Tuning({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

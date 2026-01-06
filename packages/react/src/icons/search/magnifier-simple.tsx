@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function MagnifierSimple({ variant = "linear", ...props }: IconProps) {
+function MagnifierSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

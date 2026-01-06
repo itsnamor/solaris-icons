@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function PenSquare({ variant = "linear", ...props }: IconProps) {
+function PenSquare({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function Jar({ variant = "linear", ...props }: IconProps) {
+function Jar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

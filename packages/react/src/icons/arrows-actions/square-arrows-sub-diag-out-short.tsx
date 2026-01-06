@@ -91,7 +91,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareArrowsSubDiagOutShort({
+function SquareArrowsSubDiagOutShort({
   variant = "linear",
   ...props
 }: IconProps) {

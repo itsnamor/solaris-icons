@@ -127,7 +127,7 @@ const VARIANTS = {
   ),
 };
 
-export function BagMusicNote({ variant = "linear", ...props }: IconProps) {
+function BagMusicNote({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

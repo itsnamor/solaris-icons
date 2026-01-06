@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleDollarSign({ variant = "linear", ...props }: IconProps) {
+function CircleDollarSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -80,10 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function SmartSpeakerSimple({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SmartSpeakerSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

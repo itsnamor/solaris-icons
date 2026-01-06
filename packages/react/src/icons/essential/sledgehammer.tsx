@@ -67,7 +67,7 @@ const VARIANTS = {
   ),
 };
 
-export function Sledgehammer({ variant = "linear", ...props }: IconProps) {
+function Sledgehammer({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

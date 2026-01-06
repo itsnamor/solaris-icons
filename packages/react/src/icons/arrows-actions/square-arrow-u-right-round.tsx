@@ -91,10 +91,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareArrowURightRound({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquareArrowURightRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -99,7 +99,7 @@ const VARIANTS = {
   ),
 };
 
-export function FaceSmile({ variant = "linear", ...props }: IconProps) {
+function FaceSmile({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

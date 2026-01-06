@@ -117,7 +117,7 @@ const VARIANTS = {
   ),
 };
 
-export function FrameT({ variant = "linear", ...props }: IconProps) {
+function FrameT({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

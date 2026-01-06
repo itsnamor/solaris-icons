@@ -97,7 +97,7 @@ const VARIANTS = {
   ),
 };
 
-export function HandMoney({ variant = "linear", ...props }: IconProps) {
+function HandMoney({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

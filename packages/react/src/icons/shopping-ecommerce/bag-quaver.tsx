@@ -122,7 +122,7 @@ const VARIANTS = {
   ),
 };
 
-export function BagQuaver({ variant = "linear", ...props }: IconProps) {
+function BagQuaver({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function Telescope({ variant = "linear", ...props }: IconProps) {
+function Telescope({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

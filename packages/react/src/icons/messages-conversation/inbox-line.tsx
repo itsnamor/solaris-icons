@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function InboxLine({ variant = "linear", ...props }: IconProps) {
+function InboxLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

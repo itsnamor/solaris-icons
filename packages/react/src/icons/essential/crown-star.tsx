@@ -85,7 +85,7 @@ const VARIANTS = {
   ),
 };
 
-export function CrownStar({ variant = "linear", ...props }: IconProps) {
+function CrownStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

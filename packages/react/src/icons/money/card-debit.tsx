@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function CardDebit({ variant = "linear", ...props }: IconProps) {
+function CardDebit({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

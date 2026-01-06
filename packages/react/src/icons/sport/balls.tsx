@@ -141,7 +141,7 @@ const VARIANTS = {
   ),
 };
 
-export function Balls({ variant = "linear", ...props }: IconProps) {
+function Balls({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

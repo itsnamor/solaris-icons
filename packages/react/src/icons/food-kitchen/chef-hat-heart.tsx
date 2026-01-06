@@ -94,7 +94,7 @@ const VARIANTS = {
   ),
 };
 
-export function ChefHatHeart({ variant = "linear", ...props }: IconProps) {
+function ChefHatHeart({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

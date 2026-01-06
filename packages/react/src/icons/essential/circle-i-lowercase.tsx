@@ -105,7 +105,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleILowercase({ variant = "linear", ...props }: IconProps) {
+function CircleILowercase({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -70,7 +70,7 @@ const VARIANTS = {
   ),
 };
 
-export function ArrowsSubDiagOut({ variant = "linear", ...props }: IconProps) {
+function ArrowsSubDiagOut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

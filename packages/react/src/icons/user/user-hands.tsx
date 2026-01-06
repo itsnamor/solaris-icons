@@ -73,7 +73,7 @@ const VARIANTS = {
   ),
 };
 
-export function UserHands({ variant = "linear", ...props }: IconProps) {
+function UserHands({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -106,7 +106,7 @@ const VARIANTS = {
   ),
 };
 
-export function GamepadWire({ variant = "linear", ...props }: IconProps) {
+function GamepadWire({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

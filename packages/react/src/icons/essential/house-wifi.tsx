@@ -102,7 +102,7 @@ const VARIANTS = {
   ),
 };
 
-export function HouseWifi({ variant = "linear", ...props }: IconProps) {
+function HouseWifi({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

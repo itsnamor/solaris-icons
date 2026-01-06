@@ -119,7 +119,7 @@ const VARIANTS = {
   ),
 };
 
-export function TreadmillRound({ variant = "linear", ...props }: IconProps) {
+function TreadmillRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

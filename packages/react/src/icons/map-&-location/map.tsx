@@ -61,7 +61,7 @@ const VARIANTS = {
   ),
 };
 
-export function Map({ variant = "linear", ...props }: IconProps) {
+function Map({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

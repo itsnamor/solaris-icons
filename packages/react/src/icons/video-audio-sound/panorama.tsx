@@ -104,7 +104,7 @@ const VARIANTS = {
   ),
 };
 
-export function Panorama({ variant = "linear", ...props }: IconProps) {
+function Panorama({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

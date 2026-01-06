@@ -96,7 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleHashSign({ variant = "linear", ...props }: IconProps) {
+function CircleHashSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

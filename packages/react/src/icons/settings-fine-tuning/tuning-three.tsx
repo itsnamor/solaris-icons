@@ -144,7 +144,7 @@ const VARIANTS = {
   ),
 };
 
-export function TuningThree({ variant = "linear", ...props }: IconProps) {
+function TuningThree({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

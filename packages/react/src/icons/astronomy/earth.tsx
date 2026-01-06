@@ -79,7 +79,7 @@ const VARIANTS = {
   ),
 };
 
-export function Earth({ variant = "linear", ...props }: IconProps) {
+function Earth({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

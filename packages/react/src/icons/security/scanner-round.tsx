@@ -64,7 +64,7 @@ const VARIANTS = {
   ),
 };
 
-export function ScannerRound({ variant = "linear", ...props }: IconProps) {
+function ScannerRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -121,7 +121,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleUSB({ variant = "linear", ...props }: IconProps) {
+function CircleUSB({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

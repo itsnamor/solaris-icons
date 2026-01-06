@@ -85,7 +85,7 @@ const VARIANTS = {
   ),
 };
 
-export function SdCard({ variant = "linear", ...props }: IconProps) {
+function SdCard({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -75,7 +75,7 @@ const VARIANTS = {
   ),
 };
 
-export function Comet({ variant = "linear", ...props }: IconProps) {
+function Comet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

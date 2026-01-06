@@ -82,7 +82,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareEraser({ variant = "linear", ...props }: IconProps) {
+function SquareEraser({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

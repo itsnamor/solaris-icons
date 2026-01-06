@@ -114,10 +114,7 @@ const VARIANTS = {
   ),
 };
 
-export function TurntableMusicNote({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function TurntableMusicNote({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

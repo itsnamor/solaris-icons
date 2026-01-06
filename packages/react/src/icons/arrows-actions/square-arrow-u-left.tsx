@@ -91,7 +91,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareArrowULeft({ variant = "linear", ...props }: IconProps) {
+function SquareArrowULeft({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

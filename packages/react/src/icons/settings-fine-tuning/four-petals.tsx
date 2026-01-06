@@ -68,7 +68,7 @@ const VARIANTS = {
   ),
 };
 
-export function FourPetals({ variant = "linear", ...props }: IconProps) {
+function FourPetals({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

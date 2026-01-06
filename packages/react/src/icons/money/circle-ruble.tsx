@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleRuble({ variant = "linear", ...props }: IconProps) {
+function CircleRuble({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

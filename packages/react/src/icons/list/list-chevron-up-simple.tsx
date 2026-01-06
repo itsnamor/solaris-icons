@@ -93,10 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function ListChevronUpSimple({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ListChevronUpSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

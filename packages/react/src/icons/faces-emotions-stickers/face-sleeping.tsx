@@ -124,7 +124,7 @@ const VARIANTS = {
   ),
 };
 
-export function FaceSleeping({ variant = "linear", ...props }: IconProps) {
+function FaceSleeping({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

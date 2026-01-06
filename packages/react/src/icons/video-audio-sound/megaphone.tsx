@@ -55,7 +55,7 @@ const VARIANTS = {
   ),
 };
 
-export function Megaphone({ variant = "linear", ...props }: IconProps) {
+function Megaphone({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

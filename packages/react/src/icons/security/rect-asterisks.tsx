@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function RectAsterisks({ variant = "linear", ...props }: IconProps) {
+function RectAsterisks({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

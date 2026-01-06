@@ -104,7 +104,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquarePercentSign({ variant = "linear", ...props }: IconProps) {
+function SquarePercentSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

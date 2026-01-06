@@ -119,7 +119,7 @@ const VARIANTS = {
   ),
 };
 
-export function Palette({ variant = "linear", ...props }: IconProps) {
+function Palette({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

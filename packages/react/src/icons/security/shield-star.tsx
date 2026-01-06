@@ -77,7 +77,7 @@ const VARIANTS = {
   ),
 };
 
-export function ShieldStar({ variant = "linear", ...props }: IconProps) {
+function ShieldStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

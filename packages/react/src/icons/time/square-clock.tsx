@@ -85,7 +85,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareClock({ variant = "linear", ...props }: IconProps) {
+function SquareClock({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

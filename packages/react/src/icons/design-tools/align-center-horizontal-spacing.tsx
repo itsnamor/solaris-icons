@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function AlignCenterHorizontalSpacing({
+function AlignCenterHorizontalSpacing({
   variant = "linear",
   ...props
 }: IconProps) {

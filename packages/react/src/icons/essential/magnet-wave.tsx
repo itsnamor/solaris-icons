@@ -120,7 +120,7 @@ const VARIANTS = {
   ),
 };
 
-export function MagnetWave({ variant = "linear", ...props }: IconProps) {
+function MagnetWave({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

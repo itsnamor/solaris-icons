@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function ChartPieLoose({ variant = "linear", ...props }: IconProps) {
+function ChartPieLoose({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

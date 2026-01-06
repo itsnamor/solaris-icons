@@ -161,7 +161,7 @@ const VARIANTS = {
   ),
 };
 
-export function WashingMachine({ variant = "linear", ...props }: IconProps) {
+function WashingMachine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function LightbulbSimple({ variant = "linear", ...props }: IconProps) {
+function LightbulbSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

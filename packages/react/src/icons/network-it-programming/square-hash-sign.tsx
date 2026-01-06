@@ -96,7 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareHashSign({ variant = "linear", ...props }: IconProps) {
+function SquareHashSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

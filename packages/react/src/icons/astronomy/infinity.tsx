@@ -59,7 +59,7 @@ const VARIANTS = {
   ),
 };
 
-export function Infinity({ variant = "linear", ...props }: IconProps) {
+function Infinity({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

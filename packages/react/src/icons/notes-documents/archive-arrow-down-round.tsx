@@ -107,10 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function ArchiveArrowDownRound({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ArchiveArrowDownRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

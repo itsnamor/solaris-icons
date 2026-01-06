@@ -69,10 +69,7 @@ const VARIANTS = {
   ),
 };
 
-export function ThreeDotsHorizontal({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ThreeDotsHorizontal({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

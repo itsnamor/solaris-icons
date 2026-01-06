@@ -81,7 +81,7 @@ const VARIANTS = {
   ),
 };
 
-export function FileCorrupted({ variant = "linear", ...props }: IconProps) {
+function FileCorrupted({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

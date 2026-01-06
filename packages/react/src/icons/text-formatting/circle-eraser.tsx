@@ -82,7 +82,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleEraser({ variant = "linear", ...props }: IconProps) {
+function CircleEraser({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

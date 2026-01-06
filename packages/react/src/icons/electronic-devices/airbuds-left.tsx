@@ -172,7 +172,7 @@ const VARIANTS = {
   ),
 };
 
-export function AirbudsLeft({ variant = "linear", ...props }: IconProps) {
+function AirbudsLeft({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

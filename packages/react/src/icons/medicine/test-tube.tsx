@@ -70,7 +70,7 @@ const VARIANTS = {
   ),
 };
 
-export function TestTube({ variant = "linear", ...props }: IconProps) {
+function TestTube({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

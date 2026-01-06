@@ -226,7 +226,7 @@ const VARIANTS = {
   ),
 };
 
-export function CupMusic({ variant = "linear", ...props }: IconProps) {
+function CupMusic({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

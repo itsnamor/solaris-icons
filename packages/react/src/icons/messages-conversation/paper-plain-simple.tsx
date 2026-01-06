@@ -74,7 +74,7 @@ const VARIANTS = {
   ),
 };
 
-export function PaperPlainSimple({ variant = "linear", ...props }: IconProps) {
+function PaperPlainSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

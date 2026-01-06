@@ -101,7 +101,7 @@ const VARIANTS = {
   ),
 };
 
-export function Cup({ variant = "linear", ...props }: IconProps) {
+function Cup({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

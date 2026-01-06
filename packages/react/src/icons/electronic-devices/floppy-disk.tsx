@@ -95,7 +95,7 @@ const VARIANTS = {
   ),
 };
 
-export function FloppyDisk({ variant = "linear", ...props }: IconProps) {
+function FloppyDisk({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

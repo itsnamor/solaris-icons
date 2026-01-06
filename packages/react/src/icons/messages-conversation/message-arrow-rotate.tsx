@@ -71,10 +71,7 @@ const VARIANTS = {
   ),
 };
 
-export function MessageArrowRotate({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function MessageArrowRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -126,7 +126,7 @@ const VARIANTS = {
   ),
 };
 
-export function CaseRound({ variant = "linear", ...props }: IconProps) {
+function CaseRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -122,7 +122,7 @@ const VARIANTS = {
   ),
 };
 
-export function RemoteController({ variant = "linear", ...props }: IconProps) {
+function RemoteController({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

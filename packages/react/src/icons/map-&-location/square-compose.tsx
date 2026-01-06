@@ -77,7 +77,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareCompose({ variant = "linear", ...props }: IconProps) {
+function SquareCompose({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

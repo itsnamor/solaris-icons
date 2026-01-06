@@ -68,7 +68,7 @@ const VARIANTS = {
   ),
 };
 
-export function Loader({ variant = "linear", ...props }: IconProps) {
+function Loader({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

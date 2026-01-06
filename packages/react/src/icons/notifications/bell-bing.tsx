@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function BellBing({ variant = "linear", ...props }: IconProps) {
+function BellBing({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

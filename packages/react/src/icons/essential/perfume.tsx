@@ -158,7 +158,7 @@ const VARIANTS = {
   ),
 };
 
-export function Perfume({ variant = "linear", ...props }: IconProps) {
+function Perfume({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

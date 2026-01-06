@@ -71,7 +71,7 @@ const VARIANTS = {
   ),
 };
 
-export function NotificationBadge({ variant = "linear", ...props }: IconProps) {
+function NotificationBadge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

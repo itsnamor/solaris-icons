@@ -74,7 +74,7 @@ const VARIANTS = {
   ),
 };
 
-export function WidgetFourCircles({ variant = "linear", ...props }: IconProps) {
+function WidgetFourCircles({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

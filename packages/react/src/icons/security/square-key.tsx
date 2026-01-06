@@ -82,7 +82,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareKey({ variant = "linear", ...props }: IconProps) {
+function SquareKey({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

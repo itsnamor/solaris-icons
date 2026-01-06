@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareSticker({ variant = "linear", ...props }: IconProps) {
+function SquareSticker({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

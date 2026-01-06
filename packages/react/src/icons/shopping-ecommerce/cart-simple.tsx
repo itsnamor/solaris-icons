@@ -79,7 +79,7 @@ const VARIANTS = {
   ),
 };
 
-export function CartSimple({ variant = "linear", ...props }: IconProps) {
+function CartSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

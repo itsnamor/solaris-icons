@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function CloudRain({ variant = "linear", ...props }: IconProps) {
+function CloudRain({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

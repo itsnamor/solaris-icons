@@ -96,7 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function BombStar({ variant = "linear", ...props }: IconProps) {
+function BombStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

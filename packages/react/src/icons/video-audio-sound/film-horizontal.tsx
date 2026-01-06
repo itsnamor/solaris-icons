@@ -56,7 +56,7 @@ const VARIANTS = {
   ),
 };
 
-export function FilmHorizontal({ variant = "linear", ...props }: IconProps) {
+function FilmHorizontal({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

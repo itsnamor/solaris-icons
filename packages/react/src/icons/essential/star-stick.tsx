@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function StarStick({ variant = "linear", ...props }: IconProps) {
+function StarStick({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -112,7 +112,7 @@ const VARIANTS = {
   ),
 };
 
-export function PrinterWhitePaper({ variant = "linear", ...props }: IconProps) {
+function PrinterWhitePaper({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

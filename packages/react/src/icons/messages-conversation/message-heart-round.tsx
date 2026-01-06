@@ -74,7 +74,7 @@ const VARIANTS = {
   ),
 };
 
-export function MessageHeartRound({ variant = "linear", ...props }: IconProps) {
+function MessageHeartRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

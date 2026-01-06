@@ -105,7 +105,7 @@ const VARIANTS = {
   ),
 };
 
-export function Bug({ variant = "linear", ...props }: IconProps) {
+function Bug({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

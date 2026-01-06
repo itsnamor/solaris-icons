@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function RectLetterT({ variant = "linear", ...props }: IconProps) {
+function RectLetterT({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

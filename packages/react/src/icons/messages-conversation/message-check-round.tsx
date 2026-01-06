@@ -83,7 +83,7 @@ const VARIANTS = {
   ),
 };
 
-export function MessageCheckRound({ variant = "linear", ...props }: IconProps) {
+function MessageCheckRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

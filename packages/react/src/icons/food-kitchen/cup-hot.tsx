@@ -122,7 +122,7 @@ const VARIANTS = {
   ),
 };
 
-export function CupHot({ variant = "linear", ...props }: IconProps) {
+function CupHot({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -198,7 +198,7 @@ const VARIANTS = {
   ),
 };
 
-export function AdhesiveBandage({ variant = "linear", ...props }: IconProps) {
+function AdhesiveBandage({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

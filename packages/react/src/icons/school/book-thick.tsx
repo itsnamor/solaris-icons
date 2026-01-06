@@ -95,7 +95,7 @@ const VARIANTS = {
   ),
 };
 
-export function BookThick({ variant = "linear", ...props }: IconProps) {
+function BookThick({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

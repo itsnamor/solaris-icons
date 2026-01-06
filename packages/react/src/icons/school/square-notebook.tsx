@@ -100,7 +100,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareNotebook({ variant = "linear", ...props }: IconProps) {
+function SquareNotebook({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

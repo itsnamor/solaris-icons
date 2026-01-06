@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function Atom({ variant = "linear", ...props }: IconProps) {
+function Atom({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

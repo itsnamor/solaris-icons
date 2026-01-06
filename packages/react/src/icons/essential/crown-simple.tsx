@@ -55,7 +55,7 @@ const VARIANTS = {
   ),
 };
 
-export function CrownSimple({ variant = "linear", ...props }: IconProps) {
+function CrownSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

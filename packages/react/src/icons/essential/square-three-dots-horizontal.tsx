@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareThreeDotsHorizontal({
+function SquareThreeDotsHorizontal({
   variant = "linear",
   ...props
 }: IconProps) {

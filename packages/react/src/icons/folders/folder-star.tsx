@@ -77,7 +77,7 @@ const VARIANTS = {
   ),
 };
 
-export function FolderStar({ variant = "linear", ...props }: IconProps) {
+function FolderStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

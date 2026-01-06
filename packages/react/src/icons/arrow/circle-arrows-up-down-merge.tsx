@@ -89,10 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleArrowsUpDownMerge({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function CircleArrowsUpDownMerge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

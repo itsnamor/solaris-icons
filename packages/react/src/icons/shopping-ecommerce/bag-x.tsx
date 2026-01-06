@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function BagX({ variant = "linear", ...props }: IconProps) {
+function BagX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

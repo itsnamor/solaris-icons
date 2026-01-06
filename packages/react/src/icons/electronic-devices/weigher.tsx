@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function Weigher({ variant = "linear", ...props }: IconProps) {
+function Weigher({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

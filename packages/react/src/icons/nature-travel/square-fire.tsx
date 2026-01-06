@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareFire({ variant = "linear", ...props }: IconProps) {
+function SquareFire({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

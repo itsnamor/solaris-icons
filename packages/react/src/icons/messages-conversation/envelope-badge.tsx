@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function EnvelopeBadge({ variant = "linear", ...props }: IconProps) {
+function EnvelopeBadge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

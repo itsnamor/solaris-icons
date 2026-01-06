@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function HeadphonesRound({ variant = "linear", ...props }: IconProps) {
+function HeadphonesRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

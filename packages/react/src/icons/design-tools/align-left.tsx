@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function AlignLeft({ variant = "linear", ...props }: IconProps) {
+function AlignLeft({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

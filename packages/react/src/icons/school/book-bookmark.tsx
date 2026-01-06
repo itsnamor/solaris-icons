@@ -110,7 +110,7 @@ const VARIANTS = {
   ),
 };
 
-export function BookBookmark({ variant = "linear", ...props }: IconProps) {
+function BookBookmark({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function MapPinMinus({ variant = "linear", ...props }: IconProps) {
+function MapPinMinus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

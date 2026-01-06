@@ -62,7 +62,7 @@ const VARIANTS = {
   ),
 };
 
-export function Shuffle({ variant = "linear", ...props }: IconProps) {
+function Shuffle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

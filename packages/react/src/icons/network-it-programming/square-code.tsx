@@ -86,7 +86,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareCode({ variant = "linear", ...props }: IconProps) {
+function SquareCode({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

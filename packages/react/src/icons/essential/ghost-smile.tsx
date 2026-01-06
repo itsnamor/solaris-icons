@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function GhostSmile({ variant = "linear", ...props }: IconProps) {
+function GhostSmile({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

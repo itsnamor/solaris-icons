@@ -116,7 +116,7 @@ const VARIANTS = {
   ),
 };
 
-export function CardCredit({ variant = "linear", ...props }: IconProps) {
+function CardCredit({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

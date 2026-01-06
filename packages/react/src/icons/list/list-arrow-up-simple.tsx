@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function ListArrowUpSimple({ variant = "linear", ...props }: IconProps) {
+function ListArrowUpSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

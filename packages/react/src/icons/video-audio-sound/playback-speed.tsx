@@ -119,7 +119,7 @@ const VARIANTS = {
   ),
 };
 
-export function PlaybackSpeed({ variant = "linear", ...props }: IconProps) {
+function PlaybackSpeed({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

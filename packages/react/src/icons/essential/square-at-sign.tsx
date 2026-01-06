@@ -96,7 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareAtSign({ variant = "linear", ...props }: IconProps) {
+function SquareAtSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

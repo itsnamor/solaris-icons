@@ -96,7 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function LinkSquare({ variant = "linear", ...props }: IconProps) {
+function LinkSquare({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

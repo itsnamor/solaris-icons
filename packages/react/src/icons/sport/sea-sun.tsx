@@ -118,7 +118,7 @@ const VARIANTS = {
   ),
 };
 
-export function SeaSun({ variant = "linear", ...props }: IconProps) {
+function SeaSun({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -64,7 +64,7 @@ const VARIANTS = {
   ),
 };
 
-export function Scanner({ variant = "linear", ...props }: IconProps) {
+function Scanner({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

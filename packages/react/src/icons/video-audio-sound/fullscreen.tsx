@@ -81,7 +81,7 @@ const VARIANTS = {
   ),
 };
 
-export function Fullscreen({ variant = "linear", ...props }: IconProps) {
+function Fullscreen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

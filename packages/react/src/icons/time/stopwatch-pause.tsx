@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function StopwatchPause({ variant = "linear", ...props }: IconProps) {
+function StopwatchPause({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

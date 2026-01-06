@@ -111,7 +111,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareFaceScan({ variant = "linear", ...props }: IconProps) {
+function SquareFaceScan({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

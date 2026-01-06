@@ -76,7 +76,7 @@ const VARIANTS = {
   ),
 };
 
-export function SunBeam({ variant = "linear", ...props }: IconProps) {
+function SunBeam({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

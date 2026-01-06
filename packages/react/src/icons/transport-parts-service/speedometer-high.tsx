@@ -99,7 +99,7 @@ const VARIANTS = {
   ),
 };
 
-export function SpeedometerHigh({ variant = "linear", ...props }: IconProps) {
+function SpeedometerHigh({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

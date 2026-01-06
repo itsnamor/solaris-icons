@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function HourglassLine({ variant = "linear", ...props }: IconProps) {
+function HourglassLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

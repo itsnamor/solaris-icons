@@ -193,7 +193,7 @@ const VARIANTS = {
   ),
 };
 
-export function WifiRouterRound({ variant = "linear", ...props }: IconProps) {
+function WifiRouterRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

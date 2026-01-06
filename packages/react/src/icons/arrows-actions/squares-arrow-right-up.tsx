@@ -122,10 +122,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquaresArrowRightUp({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquaresArrowRightUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

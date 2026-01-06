@@ -103,7 +103,7 @@ const VARIANTS = {
   ),
 };
 
-export function Fuel({ variant = "linear", ...props }: IconProps) {
+function Fuel({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

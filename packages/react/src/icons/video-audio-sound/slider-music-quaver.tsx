@@ -138,7 +138,7 @@ const VARIANTS = {
   ),
 };
 
-export function SliderMusicQuaver({ variant = "linear", ...props }: IconProps) {
+function SliderMusicQuaver({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

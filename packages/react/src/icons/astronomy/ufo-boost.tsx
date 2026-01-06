@@ -120,7 +120,7 @@ const VARIANTS = {
   ),
 };
 
-export function UfoBoost({ variant = "linear", ...props }: IconProps) {
+function UfoBoost({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

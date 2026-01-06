@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function AugmentedReality({ variant = "linear", ...props }: IconProps) {
+function AugmentedReality({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

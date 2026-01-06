@@ -51,7 +51,7 @@ const VARIANTS = {
   ),
 };
 
-export function Moon({ variant = "linear", ...props }: IconProps) {
+function Moon({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

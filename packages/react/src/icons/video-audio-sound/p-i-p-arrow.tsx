@@ -105,7 +105,7 @@ const VARIANTS = {
   ),
 };
 
-export function PIPArrow({ variant = "linear", ...props }: IconProps) {
+function PIPArrow({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

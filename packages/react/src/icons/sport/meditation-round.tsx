@@ -108,7 +108,7 @@ const VARIANTS = {
   ),
 };
 
-export function MeditationRound({ variant = "linear", ...props }: IconProps) {
+function MeditationRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

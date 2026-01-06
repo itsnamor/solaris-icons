@@ -139,7 +139,7 @@ const VARIANTS = {
   ),
 };
 
-export function FileSmile({ variant = "linear", ...props }: IconProps) {
+function FileSmile({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

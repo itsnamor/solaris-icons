@@ -119,7 +119,7 @@ const VARIANTS = {
   ),
 };
 
-export function ShockAbsorber({ variant = "linear", ...props }: IconProps) {
+function ShockAbsorber({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -83,7 +83,7 @@ const VARIANTS = {
   ),
 };
 
-export function RankingStar({ variant = "linear", ...props }: IconProps) {
+function RankingStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

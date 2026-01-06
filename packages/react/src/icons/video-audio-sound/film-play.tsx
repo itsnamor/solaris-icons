@@ -100,7 +100,7 @@ const VARIANTS = {
   ),
 };
 
-export function FilmPlay({ variant = "linear", ...props }: IconProps) {
+function FilmPlay({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

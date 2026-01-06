@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function CrownLine({ variant = "linear", ...props }: IconProps) {
+function CrownLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -97,7 +97,7 @@ const VARIANTS = {
   ),
 };
 
-export function GPS({ variant = "linear", ...props }: IconProps) {
+function GPS({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

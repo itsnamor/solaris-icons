@@ -70,7 +70,7 @@ const VARIANTS = {
   ),
 };
 
-export function Cursor({ variant = "linear", ...props }: IconProps) {
+function Cursor({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

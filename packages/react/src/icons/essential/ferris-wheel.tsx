@@ -112,7 +112,7 @@ const VARIANTS = {
   ),
 };
 
-export function FerrisWheel({ variant = "linear", ...props }: IconProps) {
+function FerrisWheel({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

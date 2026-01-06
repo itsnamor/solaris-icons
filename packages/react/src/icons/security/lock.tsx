@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function Lock({ variant = "linear", ...props }: IconProps) {
+function Lock({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

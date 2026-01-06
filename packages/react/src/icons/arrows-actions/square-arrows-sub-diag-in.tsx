@@ -81,10 +81,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareArrowsSubDiagIn({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquareArrowsSubDiagIn({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

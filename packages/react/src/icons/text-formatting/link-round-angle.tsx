@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function LinkRoundAngle({ variant = "linear", ...props }: IconProps) {
+function LinkRoundAngle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

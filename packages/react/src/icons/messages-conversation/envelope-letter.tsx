@@ -100,7 +100,7 @@ const VARIANTS = {
   ),
 };
 
-export function EnvelopeLetter({ variant = "linear", ...props }: IconProps) {
+function EnvelopeLetter({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

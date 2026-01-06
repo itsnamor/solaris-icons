@@ -107,10 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function BedsideTableSimple({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function BedsideTableSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -104,7 +104,7 @@ const VARIANTS = {
   ),
 };
 
-export function Basketball({ variant = "linear", ...props }: IconProps) {
+function Basketball({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

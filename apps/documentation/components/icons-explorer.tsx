@@ -3,9 +3,10 @@ import metadata from "$/data/metadata.json";
 import { Input, Label, Radio, RadioGroup, Separator, Surface, Tooltip } from "@heroui/react";
 import { create, insertMultiple, search } from "@orama/orama";
 
-import * as icons from "@solaris-icons/react";
 import { debounce, groupBy, startCase } from "lodash-es";
 import { useRef, useState } from "react";
+
+import { IconAccessibility } from "@solaris-icons/react"
 
 const db = create({
   schema: {
@@ -54,8 +55,6 @@ export function IconsExplorer() {
       }
     });
 
-    console.log(hits);
-
     const groupedIcons = Object.entries(groupBy(hits.map(hit => hit.document), doc => doc.category)).map(([category, iconsMetadata]) => ({
       category,
       iconsMetadata,
@@ -98,13 +97,12 @@ export function IconsExplorer() {
               <div className="flex flex-wrap gap-8" >
                 {
                   iconsMetadata.map(({ icon }) => {
-
-                    const Icon = icons[startCase(icon).replace(/ /g, "") as keyof typeof icons];
+                    // const Icon = icons[startCase(icon).replace(/ /g, "") as keyof typeof icons];
 
                     return <div key={icon} className="size-12 flex flex-col items-center">
                       <Tooltip delay={0}>
                         <Tooltip.Trigger>
-                          <Icon size={40} variant={variant} color={color} />
+                          {/* <Icon size={40} variant={variant} color={color} /> */}
                         </Tooltip.Trigger>
                         <Tooltip.Content>
                           {icon}

@@ -80,10 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleDollarSimple({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function CircleDollarSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

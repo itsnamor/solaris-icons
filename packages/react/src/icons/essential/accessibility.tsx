@@ -111,7 +111,7 @@ const VARIANTS = {
   ),
 };
 
-export function Accessibility({ variant = "linear", ...props }: IconProps) {
+function Accessibility({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

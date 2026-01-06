@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function KeyOld({ variant = "linear", ...props }: IconProps) {
+function KeyOld({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

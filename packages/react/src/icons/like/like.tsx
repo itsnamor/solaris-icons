@@ -66,7 +66,7 @@ const VARIANTS = {
   ),
 };
 
-export function Like({ variant = "linear", ...props }: IconProps) {
+function Like({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

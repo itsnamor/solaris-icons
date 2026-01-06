@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function Power({ variant = "linear", ...props }: IconProps) {
+function Power({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -105,7 +105,7 @@ const VARIANTS = {
   ),
 };
 
-export function Socket({ variant = "linear", ...props }: IconProps) {
+function Socket({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

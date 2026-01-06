@@ -96,7 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function TagDollarSign({ variant = "linear", ...props }: IconProps) {
+function TagDollarSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

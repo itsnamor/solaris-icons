@@ -109,7 +109,7 @@ const VARIANTS = {
   ),
 };
 
-export function CardArrowDown({ variant = "linear", ...props }: IconProps) {
+function CardArrowDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

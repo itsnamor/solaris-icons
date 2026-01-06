@@ -113,10 +113,7 @@ const VARIANTS = {
   ),
 };
 
-export function ServerSquareArrowsRotate({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ServerSquareArrowsRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

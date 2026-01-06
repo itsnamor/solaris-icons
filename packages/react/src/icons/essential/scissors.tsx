@@ -70,7 +70,7 @@ const VARIANTS = {
   ),
 };
 
-export function Scissors({ variant = "linear", ...props }: IconProps) {
+function Scissors({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

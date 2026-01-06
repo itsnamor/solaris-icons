@@ -104,7 +104,7 @@ const VARIANTS = {
   ),
 };
 
-export function ImageX({ variant = "linear", ...props }: IconProps) {
+function ImageX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -79,7 +79,7 @@ const VARIANTS = {
   ),
 };
 
-export function MessageCheck({ variant = "linear", ...props }: IconProps) {
+function MessageCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

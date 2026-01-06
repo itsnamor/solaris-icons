@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function LayoutMasonry({ variant = "linear", ...props }: IconProps) {
+function LayoutMasonry({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

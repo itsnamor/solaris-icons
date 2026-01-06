@@ -91,7 +91,7 @@ const VARIANTS = {
   ),
 };
 
-export function Suitcase({ variant = "linear", ...props }: IconProps) {
+function Suitcase({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

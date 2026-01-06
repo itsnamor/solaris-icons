@@ -76,10 +76,7 @@ const VARIANTS = {
   ),
 };
 
-export function CarouselHorizontal({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function CarouselHorizontal({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

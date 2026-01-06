@@ -74,7 +74,7 @@ const VARIANTS = {
   ),
 };
 
-export function HashSign({ variant = "linear", ...props }: IconProps) {
+function HashSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function Square4K({ variant = "linear", ...props }: IconProps) {
+function Square4K({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -105,7 +105,7 @@ const VARIANTS = {
   ),
 };
 
-export function WindowFrame({ variant = "linear", ...props }: IconProps) {
+function WindowFrame({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

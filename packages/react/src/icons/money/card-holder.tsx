@@ -108,7 +108,7 @@ const VARIANTS = {
   ),
 };
 
-export function CardHolder({ variant = "linear", ...props }: IconProps) {
+function CardHolder({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

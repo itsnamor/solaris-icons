@@ -103,7 +103,7 @@ const VARIANTS = {
   ),
 };
 
-export function ArchiveCheck({ variant = "linear", ...props }: IconProps) {
+function ArchiveCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

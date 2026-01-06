@@ -98,7 +98,7 @@ const VARIANTS = {
   ),
 };
 
-export function Tram({ variant = "linear", ...props }: IconProps) {
+function Tram({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

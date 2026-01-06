@@ -179,7 +179,7 @@ const VARIANTS = {
   ),
 };
 
-export function ConfettiStarHeart({ variant = "linear", ...props }: IconProps) {
+function ConfettiStarHeart({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

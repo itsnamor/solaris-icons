@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareCC({ variant = "linear", ...props }: IconProps) {
+function SquareCC({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

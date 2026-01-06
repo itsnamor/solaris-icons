@@ -62,7 +62,7 @@ const VARIANTS = {
   ),
 };
 
-export function LinkBroken({ variant = "linear", ...props }: IconProps) {
+function LinkBroken({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

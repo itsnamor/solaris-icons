@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function Signpost({ variant = "linear", ...props }: IconProps) {
+function Signpost({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

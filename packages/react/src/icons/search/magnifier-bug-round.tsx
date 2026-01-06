@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function MagnifierBugRound({ variant = "linear", ...props }: IconProps) {
+function MagnifierBugRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

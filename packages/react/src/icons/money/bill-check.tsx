@@ -101,7 +101,7 @@ const VARIANTS = {
   ),
 };
 
-export function BillCheck({ variant = "linear", ...props }: IconProps) {
+function BillCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

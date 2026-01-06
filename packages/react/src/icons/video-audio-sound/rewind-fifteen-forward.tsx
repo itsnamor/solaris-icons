@@ -116,10 +116,7 @@ const VARIANTS = {
   ),
 };
 
-export function RewindFifteenForward({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function RewindFifteenForward({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

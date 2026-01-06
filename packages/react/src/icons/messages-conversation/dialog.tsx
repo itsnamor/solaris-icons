@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function Dialog({ variant = "linear", ...props }: IconProps) {
+function Dialog({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

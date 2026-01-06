@@ -106,10 +106,7 @@ const VARIANTS = {
   ),
 };
 
-export function WalletLineVertical({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function WalletLineVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

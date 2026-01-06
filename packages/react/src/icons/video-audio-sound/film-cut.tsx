@@ -118,7 +118,7 @@ const VARIANTS = {
   ),
 };
 
-export function FilmCut({ variant = "linear", ...props }: IconProps) {
+function FilmCut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

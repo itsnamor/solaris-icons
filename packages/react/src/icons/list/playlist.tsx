@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function Playlist({ variant = "linear", ...props }: IconProps) {
+function Playlist({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -110,7 +110,7 @@ const VARIANTS = {
   ),
 };
 
-export function FileFigma({ variant = "linear", ...props }: IconProps) {
+function FileFigma({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

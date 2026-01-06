@@ -96,7 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function CometStars({ variant = "linear", ...props }: IconProps) {
+function CometStars({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

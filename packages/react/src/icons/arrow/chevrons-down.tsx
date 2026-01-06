@@ -87,7 +87,7 @@ const VARIANTS = {
   ),
 };
 
-export function ChevronsDown({ variant = "linear", ...props }: IconProps) {
+function ChevronsDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

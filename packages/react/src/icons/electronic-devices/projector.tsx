@@ -131,7 +131,7 @@ const VARIANTS = {
   ),
 };
 
-export function Projector({ variant = "linear", ...props }: IconProps) {
+function Projector({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

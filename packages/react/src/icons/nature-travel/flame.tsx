@@ -61,7 +61,7 @@ const VARIANTS = {
   ),
 };
 
-export function Flame({ variant = "linear", ...props }: IconProps) {
+function Flame({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -110,7 +110,7 @@ const VARIANTS = {
   ),
 };
 
-export function CupTea({ variant = "linear", ...props }: IconProps) {
+function CupTea({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

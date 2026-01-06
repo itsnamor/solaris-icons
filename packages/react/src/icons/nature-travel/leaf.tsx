@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function Leaf({ variant = "linear", ...props }: IconProps) {
+function Leaf({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -71,7 +71,7 @@ const VARIANTS = {
   ),
 };
 
-export function ArrowBendLeftDown({ variant = "linear", ...props }: IconProps) {
+function ArrowBendLeftDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

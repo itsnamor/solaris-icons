@@ -78,10 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function MessageSoundwaveRound({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function MessageSoundwaveRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

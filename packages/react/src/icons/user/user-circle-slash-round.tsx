@@ -104,10 +104,7 @@ const VARIANTS = {
   ),
 };
 
-export function UserCircleSlashRound({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function UserCircleSlashRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

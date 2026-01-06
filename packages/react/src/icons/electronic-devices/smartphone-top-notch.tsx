@@ -80,10 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function SmartphoneTopNotch({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SmartphoneTopNotch({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

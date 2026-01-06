@@ -104,10 +104,7 @@ const VARIANTS = {
   ),
 };
 
-export function BookmarkLineHorizontal({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function BookmarkLineHorizontal({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

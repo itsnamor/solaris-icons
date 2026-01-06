@@ -81,7 +81,7 @@ const VARIANTS = {
   ),
 };
 
-export function ClockArrowRotate({ variant = "linear", ...props }: IconProps) {
+function ClockArrowRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

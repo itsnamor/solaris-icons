@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function NotificationTextX({ variant = "linear", ...props }: IconProps) {
+function NotificationTextX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

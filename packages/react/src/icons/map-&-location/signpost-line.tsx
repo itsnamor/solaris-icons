@@ -96,7 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function SignpostLine({ variant = "linear", ...props }: IconProps) {
+function SignpostLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

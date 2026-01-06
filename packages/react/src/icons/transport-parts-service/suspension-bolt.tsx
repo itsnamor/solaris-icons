@@ -103,7 +103,7 @@ const VARIANTS = {
   ),
 };
 
-export function SuspensionBolt({ variant = "linear", ...props }: IconProps) {
+function SuspensionBolt({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -120,10 +120,7 @@ const VARIANTS = {
   ),
 };
 
-export function ShoppingBasketLines({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ShoppingBasketLines({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function Lifebuoy({ variant = "linear", ...props }: IconProps) {
+function Lifebuoy({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

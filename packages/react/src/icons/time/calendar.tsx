@@ -102,7 +102,7 @@ const VARIANTS = {
   ),
 };
 
-export function Calendar({ variant = "linear", ...props }: IconProps) {
+function Calendar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

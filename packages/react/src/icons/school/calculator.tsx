@@ -101,7 +101,7 @@ const VARIANTS = {
   ),
 };
 
-export function Calculator({ variant = "linear", ...props }: IconProps) {
+function Calculator({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

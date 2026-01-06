@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function UserMinus({ variant = "linear", ...props }: IconProps) {
+function UserMinus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

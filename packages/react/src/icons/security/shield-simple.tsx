@@ -63,7 +63,7 @@ const VARIANTS = {
   ),
 };
 
-export function ShieldSimple({ variant = "linear", ...props }: IconProps) {
+function ShieldSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

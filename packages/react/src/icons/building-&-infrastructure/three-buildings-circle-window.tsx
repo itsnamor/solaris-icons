@@ -129,7 +129,7 @@ const VARIANTS = {
   ),
 };
 
-export function ThreeBuildingsCircleWindow({
+function ThreeBuildingsCircleWindow({
   variant = "linear",
   ...props
 }: IconProps) {

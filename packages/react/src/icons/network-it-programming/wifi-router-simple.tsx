@@ -156,7 +156,7 @@ const VARIANTS = {
   ),
 };
 
-export function WifiRouterSimple({ variant = "linear", ...props }: IconProps) {
+function WifiRouterSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

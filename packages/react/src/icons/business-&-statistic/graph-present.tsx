@@ -86,7 +86,7 @@ const VARIANTS = {
   ),
 };
 
-export function GraphPresent({ variant = "linear", ...props }: IconProps) {
+function GraphPresent({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

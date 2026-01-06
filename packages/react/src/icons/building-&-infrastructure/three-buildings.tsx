@@ -115,7 +115,7 @@ const VARIANTS = {
   ),
 };
 
-export function ThreeBuildings({ variant = "linear", ...props }: IconProps) {
+function ThreeBuildings({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

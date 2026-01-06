@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function NotebookOpen({ variant = "linear", ...props }: IconProps) {
+function NotebookOpen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

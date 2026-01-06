@@ -125,7 +125,7 @@ const VARIANTS = {
   ),
 };
 
-export function ImageCheck({ variant = "linear", ...props }: IconProps) {
+function ImageCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -134,7 +134,7 @@ const VARIANTS = {
   ),
 };
 
-export function AlbumImage({ variant = "linear", ...props }: IconProps) {
+function AlbumImage({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

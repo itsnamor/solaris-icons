@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function Wheel({ variant = "linear", ...props }: IconProps) {
+function Wheel({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

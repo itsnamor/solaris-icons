@@ -122,7 +122,7 @@ const VARIANTS = {
   ),
 };
 
-export function Trellis({ variant = "linear", ...props }: IconProps) {
+function Trellis({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

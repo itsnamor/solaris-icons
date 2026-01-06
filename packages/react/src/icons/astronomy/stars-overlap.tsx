@@ -82,7 +82,7 @@ const VARIANTS = {
   ),
 };
 
-export function StarsOverlap({ variant = "linear", ...props }: IconProps) {
+function StarsOverlap({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

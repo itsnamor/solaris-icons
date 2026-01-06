@@ -110,7 +110,7 @@ const VARIANTS = {
   ),
 };
 
-export function ClipboardCheck({ variant = "linear", ...props }: IconProps) {
+function ClipboardCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

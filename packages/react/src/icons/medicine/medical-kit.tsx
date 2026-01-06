@@ -128,7 +128,7 @@ const VARIANTS = {
   ),
 };
 
-export function MedicalKit({ variant = "linear", ...props }: IconProps) {
+function MedicalKit({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

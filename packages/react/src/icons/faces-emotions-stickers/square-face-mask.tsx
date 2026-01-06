@@ -98,7 +98,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareFaceMask({ variant = "linear", ...props }: IconProps) {
+function SquareFaceMask({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

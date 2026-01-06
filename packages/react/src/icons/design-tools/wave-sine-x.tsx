@@ -70,7 +70,7 @@ const VARIANTS = {
   ),
 };
 
-export function WaveSineX({ variant = "linear", ...props }: IconProps) {
+function WaveSineX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

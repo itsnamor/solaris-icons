@@ -62,7 +62,7 @@ const VARIANTS = {
   ),
 };
 
-export function Pipette({ variant = "linear", ...props }: IconProps) {
+function Pipette({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

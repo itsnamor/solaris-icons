@@ -124,7 +124,7 @@ const VARIANTS = {
   ),
 };
 
-export function StarsLine({ variant = "linear", ...props }: IconProps) {
+function StarsLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

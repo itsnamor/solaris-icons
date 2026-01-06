@@ -81,7 +81,7 @@ const VARIANTS = {
   ),
 };
 
-export function BookmarkClose({ variant = "linear", ...props }: IconProps) {
+function BookmarkClose({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

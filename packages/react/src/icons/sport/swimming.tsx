@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function Swimming({ variant = "linear", ...props }: IconProps) {
+function Swimming({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

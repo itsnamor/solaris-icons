@@ -57,10 +57,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquarePaperclipRound({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquarePaperclipRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

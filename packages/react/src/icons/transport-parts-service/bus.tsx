@@ -123,7 +123,7 @@ const VARIANTS = {
   ),
 };
 
-export function Bus({ variant = "linear", ...props }: IconProps) {
+function Bus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

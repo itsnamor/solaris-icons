@@ -120,7 +120,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleMoneySafe({ variant = "linear", ...props }: IconProps) {
+function CircleMoneySafe({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

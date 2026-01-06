@@ -97,7 +97,7 @@ const VARIANTS = {
   ),
 };
 
-export function Transmission({ variant = "linear", ...props }: IconProps) {
+function Transmission({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

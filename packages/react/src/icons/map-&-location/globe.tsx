@@ -117,7 +117,7 @@ const VARIANTS = {
   ),
 };
 
-export function Globe({ variant = "linear", ...props }: IconProps) {
+function Globe({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

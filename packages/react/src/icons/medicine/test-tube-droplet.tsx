@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function TestTubeDroplet({ variant = "linear", ...props }: IconProps) {
+function TestTubeDroplet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

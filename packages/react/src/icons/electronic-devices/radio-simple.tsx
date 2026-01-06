@@ -114,7 +114,7 @@ const VARIANTS = {
   ),
 };
 
-export function RadioSimple({ variant = "linear", ...props }: IconProps) {
+function RadioSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function Plate({ variant = "linear", ...props }: IconProps) {
+function Plate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

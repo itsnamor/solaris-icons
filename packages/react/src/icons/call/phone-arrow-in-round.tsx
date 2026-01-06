@@ -101,7 +101,7 @@ const VARIANTS = {
   ),
 };
 
-export function PhoneArrowInRound({ variant = "linear", ...props }: IconProps) {
+function PhoneArrowInRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

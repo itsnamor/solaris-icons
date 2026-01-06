@@ -119,10 +119,7 @@ const VARIANTS = {
   ),
 };
 
-export function SmartphoneRotateAngle({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SmartphoneRotateAngle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

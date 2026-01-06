@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function MaskSad({ variant = "linear", ...props }: IconProps) {
+function MaskSad({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

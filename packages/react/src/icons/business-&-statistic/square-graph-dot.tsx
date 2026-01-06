@@ -98,7 +98,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareGraphDot({ variant = "linear", ...props }: IconProps) {
+function SquareGraphDot({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

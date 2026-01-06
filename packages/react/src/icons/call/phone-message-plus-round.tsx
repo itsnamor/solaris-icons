@@ -101,10 +101,7 @@ const VARIANTS = {
   ),
 };
 
-export function PhoneMessagePlusRound({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function PhoneMessagePlusRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

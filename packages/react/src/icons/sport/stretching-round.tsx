@@ -103,7 +103,7 @@ const VARIANTS = {
   ),
 };
 
-export function StretchingRound({ variant = "linear", ...props }: IconProps) {
+function StretchingRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

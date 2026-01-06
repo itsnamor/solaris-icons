@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function LetterI({ variant = "linear", ...props }: IconProps) {
+function LetterI({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

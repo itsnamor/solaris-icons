@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function TennisDashLine({ variant = "linear", ...props }: IconProps) {
+function TennisDashLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

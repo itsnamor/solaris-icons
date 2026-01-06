@@ -138,7 +138,7 @@ const VARIANTS = {
   ),
 };
 
-export function Bacteria({ variant = "linear", ...props }: IconProps) {
+function Bacteria({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

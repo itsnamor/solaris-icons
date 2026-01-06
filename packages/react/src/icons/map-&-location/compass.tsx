@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function Compass({ variant = "linear", ...props }: IconProps) {
+function Compass({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

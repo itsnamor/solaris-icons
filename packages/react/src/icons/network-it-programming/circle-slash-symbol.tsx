@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleSlashSymbol({ variant = "linear", ...props }: IconProps) {
+function CircleSlashSymbol({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

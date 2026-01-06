@@ -106,7 +106,7 @@ const VARIANTS = {
   ),
 };
 
-export function RadialBlur({ variant = "linear", ...props }: IconProps) {
+function RadialBlur({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

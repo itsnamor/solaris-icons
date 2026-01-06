@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function Heath({ variant = "linear", ...props }: IconProps) {
+function Heath({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

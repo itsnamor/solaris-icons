@@ -77,7 +77,7 @@ const VARIANTS = {
   ),
 };
 
-export function ChipCard({ variant = "linear", ...props }: IconProps) {
+function ChipCard({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -124,7 +124,7 @@ const VARIANTS = {
   ),
 };
 
-export function MoonFogStars({ variant = "linear", ...props }: IconProps) {
+function MoonFogStars({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

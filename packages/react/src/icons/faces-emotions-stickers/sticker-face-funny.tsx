@@ -159,7 +159,7 @@ const VARIANTS = {
   ),
 };
 
-export function StickerFaceFunny({ variant = "linear", ...props }: IconProps) {
+function StickerFaceFunny({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

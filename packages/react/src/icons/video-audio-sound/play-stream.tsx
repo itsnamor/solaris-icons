@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function PlayStream({ variant = "linear", ...props }: IconProps) {
+function PlayStream({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

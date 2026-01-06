@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function Mouse({ variant = "linear", ...props }: IconProps) {
+function Mouse({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

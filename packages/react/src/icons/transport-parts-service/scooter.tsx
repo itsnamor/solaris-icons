@@ -112,7 +112,7 @@ const VARIANTS = {
   ),
 };
 
-export function Scooter({ variant = "linear", ...props }: IconProps) {
+function Scooter({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

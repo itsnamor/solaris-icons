@@ -94,7 +94,7 @@ const VARIANTS = {
   ),
 };
 
-export function BagShopping({ variant = "linear", ...props }: IconProps) {
+function BagShopping({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

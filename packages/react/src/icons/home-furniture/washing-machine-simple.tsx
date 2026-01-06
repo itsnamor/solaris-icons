@@ -107,10 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function WashingMachineSimple({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function WashingMachineSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

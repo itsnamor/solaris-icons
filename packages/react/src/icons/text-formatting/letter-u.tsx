@@ -63,7 +63,7 @@ const VARIANTS = {
   ),
 };
 
-export function LetterU({ variant = "linear", ...props }: IconProps) {
+function LetterU({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

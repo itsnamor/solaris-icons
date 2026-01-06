@@ -79,7 +79,7 @@ const VARIANTS = {
   ),
 };
 
-export function CloudSun({ variant = "linear", ...props }: IconProps) {
+function CloudSun({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

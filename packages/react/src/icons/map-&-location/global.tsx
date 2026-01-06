@@ -101,7 +101,7 @@ const VARIANTS = {
   ),
 };
 
-export function Global({ variant = "linear", ...props }: IconProps) {
+function Global({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

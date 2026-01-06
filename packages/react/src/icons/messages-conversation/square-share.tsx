@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareShare({ variant = "linear", ...props }: IconProps) {
+function SquareShare({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

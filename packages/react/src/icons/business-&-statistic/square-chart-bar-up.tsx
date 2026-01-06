@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareChartBarUp({ variant = "linear", ...props }: IconProps) {
+function SquareChartBarUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -74,7 +74,7 @@ const VARIANTS = {
   ),
 };
 
-export function CloudMinus({ variant = "linear", ...props }: IconProps) {
+function CloudMinus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

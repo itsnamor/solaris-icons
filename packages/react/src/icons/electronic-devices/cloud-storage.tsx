@@ -109,7 +109,7 @@ const VARIANTS = {
   ),
 };
 
-export function CloudStorage({ variant = "linear", ...props }: IconProps) {
+function CloudStorage({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

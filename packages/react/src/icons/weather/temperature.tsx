@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function Temperature({ variant = "linear", ...props }: IconProps) {
+function Temperature({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

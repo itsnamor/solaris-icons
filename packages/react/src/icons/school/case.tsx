@@ -112,7 +112,7 @@ const VARIANTS = {
   ),
 };
 
-export function Case({ variant = "linear", ...props }: IconProps) {
+function Case({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

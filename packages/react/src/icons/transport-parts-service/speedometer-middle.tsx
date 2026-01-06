@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function SpeedometerMiddle({ variant = "linear", ...props }: IconProps) {
+function SpeedometerMiddle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

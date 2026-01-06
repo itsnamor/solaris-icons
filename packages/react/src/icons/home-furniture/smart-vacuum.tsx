@@ -113,7 +113,7 @@ const VARIANTS = {
   ),
 };
 
-export function SmartVacuum({ variant = "linear", ...props }: IconProps) {
+function SmartVacuum({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

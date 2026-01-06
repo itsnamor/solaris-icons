@@ -98,7 +98,7 @@ const VARIANTS = {
   ),
 };
 
-export function PaperBin({ variant = "linear", ...props }: IconProps) {
+function PaperBin({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function ChartXyUp({ variant = "linear", ...props }: IconProps) {
+function ChartXyUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

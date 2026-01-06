@@ -121,7 +121,7 @@ const VARIANTS = {
   ),
 };
 
-export function PaintPalette({ variant = "linear", ...props }: IconProps) {
+function PaintPalette({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

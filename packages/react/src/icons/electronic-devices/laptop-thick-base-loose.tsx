@@ -70,10 +70,7 @@ const VARIANTS = {
   ),
 };
 
-export function LaptopThickBaseLoose({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function LaptopThickBaseLoose({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

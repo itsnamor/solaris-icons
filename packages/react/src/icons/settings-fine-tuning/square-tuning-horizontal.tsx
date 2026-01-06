@@ -137,10 +137,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareTuningHorizontal({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquareTuningHorizontal({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -117,7 +117,7 @@ const VARIANTS = {
   ),
 };
 
-export function Fridge({ variant = "linear", ...props }: IconProps) {
+function Fridge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

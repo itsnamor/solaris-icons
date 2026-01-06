@@ -57,7 +57,7 @@ const VARIANTS = {
   ),
 };
 
-export function TShirt({ variant = "linear", ...props }: IconProps) {
+function TShirt({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

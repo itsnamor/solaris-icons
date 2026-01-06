@@ -83,7 +83,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleClock({ variant = "linear", ...props }: IconProps) {
+function CircleClock({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

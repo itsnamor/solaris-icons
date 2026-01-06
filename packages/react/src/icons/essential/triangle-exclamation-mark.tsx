@@ -83,10 +83,7 @@ const VARIANTS = {
   ),
 };
 
-export function TriangleExclamationMark({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function TriangleExclamationMark({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

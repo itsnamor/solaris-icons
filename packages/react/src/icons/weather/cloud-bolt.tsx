@@ -91,7 +91,7 @@ const VARIANTS = {
   ),
 };
 
-export function CloudBolt({ variant = "linear", ...props }: IconProps) {
+function CloudBolt({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

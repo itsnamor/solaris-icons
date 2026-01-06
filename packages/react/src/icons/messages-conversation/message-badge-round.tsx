@@ -86,7 +86,7 @@ const VARIANTS = {
   ),
 };
 
-export function MessageBadgeRound({ variant = "linear", ...props }: IconProps) {
+function MessageBadgeRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

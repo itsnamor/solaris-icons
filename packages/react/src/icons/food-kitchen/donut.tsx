@@ -144,7 +144,7 @@ const VARIANTS = {
   ),
 };
 
-export function Donut({ variant = "linear", ...props }: IconProps) {
+function Donut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

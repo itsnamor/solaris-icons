@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function CartMeshCross({ variant = "linear", ...props }: IconProps) {
+function CartMeshCross({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

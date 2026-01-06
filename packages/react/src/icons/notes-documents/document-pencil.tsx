@@ -96,7 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function DocumentPencil({ variant = "linear", ...props }: IconProps) {
+function DocumentPencil({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

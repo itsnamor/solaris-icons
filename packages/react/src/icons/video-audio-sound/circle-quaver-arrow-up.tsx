@@ -139,10 +139,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleQuaverArrowUp({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function CircleQuaverArrowUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

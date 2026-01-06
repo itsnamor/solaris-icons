@@ -101,7 +101,7 @@ const VARIANTS = {
   ),
 };
 
-export function SmartwatchCharge({ variant = "linear", ...props }: IconProps) {
+function SmartwatchCharge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function Eraser({ variant = "linear", ...props }: IconProps) {
+function Eraser({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

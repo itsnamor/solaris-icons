@@ -71,7 +71,7 @@ const VARIANTS = {
   ),
 };
 
-export function OctagonSlash({ variant = "linear", ...props }: IconProps) {
+function OctagonSlash({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

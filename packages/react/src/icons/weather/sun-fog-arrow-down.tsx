@@ -142,7 +142,7 @@ const VARIANTS = {
   ),
 };
 
-export function SunFogArrowDown({ variant = "linear", ...props }: IconProps) {
+function SunFogArrowDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

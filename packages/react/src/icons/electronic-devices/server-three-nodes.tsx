@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function ServerThreeNodes({ variant = "linear", ...props }: IconProps) {
+function ServerThreeNodes({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -85,7 +85,7 @@ const VARIANTS = {
   ),
 };
 
-export function ChairSwivel({ variant = "linear", ...props }: IconProps) {
+function ChairSwivel({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

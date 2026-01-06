@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function Backpack({ variant = "linear", ...props }: IconProps) {
+function Backpack({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

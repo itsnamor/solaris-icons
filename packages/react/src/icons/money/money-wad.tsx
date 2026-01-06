@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function MoneyWad({ variant = "linear", ...props }: IconProps) {
+function MoneyWad({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

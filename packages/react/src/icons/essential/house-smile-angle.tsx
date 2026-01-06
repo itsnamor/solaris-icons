@@ -86,7 +86,7 @@ const VARIANTS = {
   ),
 };
 
-export function HouseSmileAngle({ variant = "linear", ...props }: IconProps) {
+function HouseSmileAngle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

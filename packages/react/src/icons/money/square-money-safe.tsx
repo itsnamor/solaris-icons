@@ -126,7 +126,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareMoneySafe({ variant = "linear", ...props }: IconProps) {
+function SquareMoneySafe({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

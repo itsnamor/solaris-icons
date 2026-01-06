@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function MusicBeamNotes({ variant = "linear", ...props }: IconProps) {
+function MusicBeamNotes({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

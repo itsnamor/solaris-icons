@@ -124,7 +124,7 @@ const VARIANTS = {
   ),
 };
 
-export function GamepadCharge({ variant = "linear", ...props }: IconProps) {
+function GamepadCharge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

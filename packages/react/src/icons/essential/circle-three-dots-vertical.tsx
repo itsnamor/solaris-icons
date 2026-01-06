@@ -78,10 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleThreeDotsVertical({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function CircleThreeDotsVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

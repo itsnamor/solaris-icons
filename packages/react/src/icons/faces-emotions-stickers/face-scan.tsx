@@ -108,7 +108,7 @@ const VARIANTS = {
   ),
 };
 
-export function FaceScan({ variant = "linear", ...props }: IconProps) {
+function FaceScan({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

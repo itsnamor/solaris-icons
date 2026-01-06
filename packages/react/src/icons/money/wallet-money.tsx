@@ -156,7 +156,7 @@ const VARIANTS = {
   ),
 };
 
-export function WalletMoney({ variant = "linear", ...props }: IconProps) {
+function WalletMoney({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

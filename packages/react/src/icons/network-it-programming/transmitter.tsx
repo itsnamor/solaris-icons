@@ -132,7 +132,7 @@ const VARIANTS = {
   ),
 };
 
-export function Transmitter({ variant = "linear", ...props }: IconProps) {
+function Transmitter({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

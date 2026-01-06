@@ -142,7 +142,7 @@ const VARIANTS = {
   ),
 };
 
-export function Images({ variant = "linear", ...props }: IconProps) {
+function Images({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

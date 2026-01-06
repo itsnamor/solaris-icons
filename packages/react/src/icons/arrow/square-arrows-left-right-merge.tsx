@@ -83,7 +83,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareArrowsLeftRightMerge({
+function SquareArrowsLeftRightMerge({
   variant = "linear",
   ...props
 }: IconProps) {

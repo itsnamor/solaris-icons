@@ -89,10 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function ScreencastTriangle({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ScreencastTriangle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

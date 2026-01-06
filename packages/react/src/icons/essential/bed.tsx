@@ -97,7 +97,7 @@ const VARIANTS = {
   ),
 };
 
-export function Bed({ variant = "linear", ...props }: IconProps) {
+function Bed({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

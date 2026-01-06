@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function ServerSquare({ variant = "linear", ...props }: IconProps) {
+function ServerSquare({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

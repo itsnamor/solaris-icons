@@ -81,7 +81,7 @@ const VARIANTS = {
   ),
 };
 
-export function FullscreenQuit({ variant = "linear", ...props }: IconProps) {
+function FullscreenQuit({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

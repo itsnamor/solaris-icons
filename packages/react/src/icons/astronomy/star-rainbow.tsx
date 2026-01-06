@@ -62,7 +62,7 @@ const VARIANTS = {
   ),
 };
 
-export function StarRainbow({ variant = "linear", ...props }: IconProps) {
+function StarRainbow({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

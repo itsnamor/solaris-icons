@@ -91,7 +91,7 @@ const VARIANTS = {
   ),
 };
 
-export function ClosetWardrobe({ variant = "linear", ...props }: IconProps) {
+function ClosetWardrobe({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

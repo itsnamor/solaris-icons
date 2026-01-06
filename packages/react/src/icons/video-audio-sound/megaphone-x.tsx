@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function MegaphoneX({ variant = "linear", ...props }: IconProps) {
+function MegaphoneX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

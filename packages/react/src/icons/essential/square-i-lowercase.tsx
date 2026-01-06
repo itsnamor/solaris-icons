@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareILowercase({ variant = "linear", ...props }: IconProps) {
+function SquareILowercase({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

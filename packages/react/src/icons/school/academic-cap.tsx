@@ -76,7 +76,7 @@ const VARIANTS = {
   ),
 };
 
-export function AcademicCap({ variant = "linear", ...props }: IconProps) {
+function AcademicCap({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

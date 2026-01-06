@@ -114,7 +114,7 @@ const VARIANTS = {
   ),
 };
 
-export function Cosmetic({ variant = "linear", ...props }: IconProps) {
+function Cosmetic({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

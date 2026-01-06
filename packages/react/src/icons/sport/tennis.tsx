@@ -81,7 +81,7 @@ const VARIANTS = {
   ),
 };
 
-export function Tennis({ variant = "linear", ...props }: IconProps) {
+function Tennis({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

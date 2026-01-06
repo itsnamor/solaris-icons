@@ -67,7 +67,7 @@ const VARIANTS = {
   ),
 };
 
-export function Phone({ variant = "linear", ...props }: IconProps) {
+function Phone({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

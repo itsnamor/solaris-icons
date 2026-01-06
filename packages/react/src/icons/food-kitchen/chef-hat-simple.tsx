@@ -79,7 +79,7 @@ const VARIANTS = {
   ),
 };
 
-export function ChefHatSimple({ variant = "linear", ...props }: IconProps) {
+function ChefHatSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

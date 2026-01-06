@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function Subtitles({ variant = "linear", ...props }: IconProps) {
+function Subtitles({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

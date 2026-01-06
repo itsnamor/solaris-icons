@@ -122,7 +122,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareMapWithPin({ variant = "linear", ...props }: IconProps) {
+function SquareMapWithPin({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

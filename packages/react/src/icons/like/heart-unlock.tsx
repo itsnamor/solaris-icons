@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function HeartUnlock({ variant = "linear", ...props }: IconProps) {
+function HeartUnlock({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

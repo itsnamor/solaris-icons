@@ -70,7 +70,7 @@ const VARIANTS = {
   ),
 };
 
-export function Ruler({ variant = "linear", ...props }: IconProps) {
+function Ruler({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

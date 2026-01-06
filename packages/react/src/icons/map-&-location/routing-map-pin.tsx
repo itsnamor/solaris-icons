@@ -91,7 +91,7 @@ const VARIANTS = {
   ),
 };
 
-export function RoutingMapPin({ variant = "linear", ...props }: IconProps) {
+function RoutingMapPin({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

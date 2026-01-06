@@ -82,10 +82,7 @@ const VARIANTS = {
   ),
 };
 
-export function ArrowDownToBracket({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ArrowDownToBracket({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

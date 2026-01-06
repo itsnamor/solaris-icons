@@ -96,7 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function BatteryLowSimple({ variant = "linear", ...props }: IconProps) {
+function BatteryLowSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

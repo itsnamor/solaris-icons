@@ -70,7 +70,7 @@ const VARIANTS = {
   ),
 };
 
-export function Monitor({ variant = "linear", ...props }: IconProps) {
+function Monitor({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

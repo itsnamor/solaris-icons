@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function FunnelSimple({ variant = "linear", ...props }: IconProps) {
+function FunnelSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -118,7 +118,7 @@ const VARIANTS = {
   ),
 };
 
-export function Banknotes({ variant = "linear", ...props }: IconProps) {
+function Banknotes({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

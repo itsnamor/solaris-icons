@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function FolderSecure({ variant = "linear", ...props }: IconProps) {
+function FolderSecure({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

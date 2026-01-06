@@ -66,7 +66,7 @@ const VARIANTS = {
   ),
 };
 
-export function Cloud({ variant = "linear", ...props }: IconProps) {
+function Cloud({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

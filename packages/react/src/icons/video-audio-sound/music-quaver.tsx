@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function MusicQuaver({ variant = "linear", ...props }: IconProps) {
+function MusicQuaver({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

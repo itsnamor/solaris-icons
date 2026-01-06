@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function SkipPrev({ variant = "linear", ...props }: IconProps) {
+function SkipPrev({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

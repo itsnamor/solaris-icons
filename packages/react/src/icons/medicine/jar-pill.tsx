@@ -148,7 +148,7 @@ const VARIANTS = {
   ),
 };
 
-export function JarPill({ variant = "linear", ...props }: IconProps) {
+function JarPill({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

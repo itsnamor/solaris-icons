@@ -99,7 +99,7 @@ const VARIANTS = {
   ),
 };
 
-export function BatteryCharge({ variant = "linear", ...props }: IconProps) {
+function BatteryCharge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

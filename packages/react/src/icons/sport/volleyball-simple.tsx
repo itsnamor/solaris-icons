@@ -75,7 +75,7 @@ const VARIANTS = {
   ),
 };
 
-export function VolleyballSimple({ variant = "linear", ...props }: IconProps) {
+function VolleyballSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

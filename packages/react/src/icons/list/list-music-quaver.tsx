@@ -117,7 +117,7 @@ const VARIANTS = {
   ),
 };
 
-export function ListMusicQuaver({ variant = "linear", ...props }: IconProps) {
+function ListMusicQuaver({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

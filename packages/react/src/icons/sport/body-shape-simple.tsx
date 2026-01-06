@@ -82,7 +82,7 @@ const VARIANTS = {
   ),
 };
 
-export function BodyShapeSimple({ variant = "linear", ...props }: IconProps) {
+function BodyShapeSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

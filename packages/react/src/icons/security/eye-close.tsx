@@ -60,7 +60,7 @@ const VARIANTS = {
   ),
 };
 
-export function EyeClose({ variant = "linear", ...props }: IconProps) {
+function EyeClose({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function ImageSimple({ variant = "linear", ...props }: IconProps) {
+function ImageSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

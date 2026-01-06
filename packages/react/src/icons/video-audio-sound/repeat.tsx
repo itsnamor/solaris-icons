@@ -60,7 +60,7 @@ const VARIANTS = {
   ),
 };
 
-export function Repeat({ variant = "linear", ...props }: IconProps) {
+function Repeat({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

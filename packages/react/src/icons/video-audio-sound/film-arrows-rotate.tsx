@@ -130,7 +130,7 @@ const VARIANTS = {
   ),
 };
 
-export function FilmArrowsRotate({ variant = "linear", ...props }: IconProps) {
+function FilmArrowsRotate({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

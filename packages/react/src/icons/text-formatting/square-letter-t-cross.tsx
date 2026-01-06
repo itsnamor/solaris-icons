@@ -80,10 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareLetterTCross({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquareLetterTCross({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -80,10 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function ListLinesLongToShort({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ListLinesLongToShort({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

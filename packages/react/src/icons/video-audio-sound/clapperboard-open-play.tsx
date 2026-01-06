@@ -97,10 +97,7 @@ const VARIANTS = {
   ),
 };
 
-export function ClapperboardOpenPlay({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ClapperboardOpenPlay({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

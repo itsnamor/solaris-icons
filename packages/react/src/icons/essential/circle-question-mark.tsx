@@ -81,10 +81,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleQuestionMark({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function CircleQuestionMark({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

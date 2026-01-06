@@ -76,7 +76,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleCircle({ variant = "linear", ...props }: IconProps) {
+function CircleCircle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

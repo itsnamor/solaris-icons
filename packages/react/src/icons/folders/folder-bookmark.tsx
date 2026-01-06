@@ -81,7 +81,7 @@ const VARIANTS = {
   ),
 };
 
-export function FolderBookmark({ variant = "linear", ...props }: IconProps) {
+function FolderBookmark({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -89,10 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function HexagonExclamationMark({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function HexagonExclamationMark({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

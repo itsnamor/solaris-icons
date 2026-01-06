@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareSoundwave({ variant = "linear", ...props }: IconProps) {
+function SquareSoundwave({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

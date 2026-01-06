@@ -82,10 +82,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleRewindForward({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function CircleRewindForward({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -104,7 +104,7 @@ const VARIANTS = {
   ),
 };
 
-export function VolumeKnob({ variant = "linear", ...props }: IconProps) {
+function VolumeKnob({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

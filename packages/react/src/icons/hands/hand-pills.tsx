@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function HandPills({ variant = "linear", ...props }: IconProps) {
+function HandPills({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

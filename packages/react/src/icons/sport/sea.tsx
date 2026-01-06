@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function Sea({ variant = "linear", ...props }: IconProps) {
+function Sea({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

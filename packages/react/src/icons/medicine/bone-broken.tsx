@@ -95,7 +95,7 @@ const VARIANTS = {
   ),
 };
 
-export function BoneBroken({ variant = "linear", ...props }: IconProps) {
+function BoneBroken({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

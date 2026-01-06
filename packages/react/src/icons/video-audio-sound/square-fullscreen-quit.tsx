@@ -80,10 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareFullscreenQuit({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquareFullscreenQuit({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

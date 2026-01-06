@@ -98,7 +98,7 @@ const VARIANTS = {
   ),
 };
 
-export function TicketPercentSign({ variant = "linear", ...props }: IconProps) {
+function TicketPercentSign({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

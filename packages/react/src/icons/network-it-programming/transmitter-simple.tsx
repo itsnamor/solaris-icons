@@ -94,7 +94,7 @@ const VARIANTS = {
   ),
 };
 
-export function TransmitterSimple({ variant = "linear", ...props }: IconProps) {
+function TransmitterSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

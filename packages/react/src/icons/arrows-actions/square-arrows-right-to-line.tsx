@@ -101,10 +101,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareArrowsRightToLine({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquareArrowsRightToLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

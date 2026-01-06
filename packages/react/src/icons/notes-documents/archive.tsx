@@ -97,7 +97,7 @@ const VARIANTS = {
   ),
 };
 
-export function Archive({ variant = "linear", ...props }: IconProps) {
+function Archive({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -96,7 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function MedalRibbonsStar({ variant = "linear", ...props }: IconProps) {
+function MedalRibbonsStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

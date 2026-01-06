@@ -85,7 +85,7 @@ const VARIANTS = {
   ),
 };
 
-export function CameraSidePlus({ variant = "linear", ...props }: IconProps) {
+function CameraSidePlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -134,7 +134,7 @@ const VARIANTS = {
   ),
 };
 
-export function BlackHoleDash({ variant = "linear", ...props }: IconProps) {
+function BlackHoleDash({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

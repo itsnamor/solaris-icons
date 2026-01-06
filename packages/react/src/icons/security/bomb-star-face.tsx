@@ -166,7 +166,7 @@ const VARIANTS = {
   ),
 };
 
-export function BombStarFace({ variant = "linear", ...props }: IconProps) {
+function BombStarFace({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

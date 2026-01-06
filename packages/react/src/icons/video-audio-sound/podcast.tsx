@@ -132,7 +132,7 @@ const VARIANTS = {
   ),
 };
 
-export function Podcast({ variant = "linear", ...props }: IconProps) {
+function Podcast({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -114,7 +114,7 @@ const VARIANTS = {
   ),
 };
 
-export function ClipboardText({ variant = "linear", ...props }: IconProps) {
+function ClipboardText({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

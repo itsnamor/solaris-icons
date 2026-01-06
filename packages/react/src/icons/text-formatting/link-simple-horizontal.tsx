@@ -82,10 +82,7 @@ const VARIANTS = {
   ),
 };
 
-export function LinkSimpleHorizontal({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function LinkSimpleHorizontal({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

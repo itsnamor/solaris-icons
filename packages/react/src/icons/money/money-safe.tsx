@@ -136,7 +136,7 @@ const VARIANTS = {
   ),
 };
 
-export function MoneySafe({ variant = "linear", ...props }: IconProps) {
+function MoneySafe({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

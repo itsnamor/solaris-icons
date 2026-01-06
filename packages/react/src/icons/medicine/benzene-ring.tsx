@@ -110,7 +110,7 @@ const VARIANTS = {
   ),
 };
 
-export function BenzeneRing({ variant = "linear", ...props }: IconProps) {
+function BenzeneRing({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

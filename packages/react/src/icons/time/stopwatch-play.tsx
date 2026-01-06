@@ -99,7 +99,7 @@ const VARIANTS = {
   ),
 };
 
-export function StopwatchPlay({ variant = "linear", ...props }: IconProps) {
+function StopwatchPlay({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -131,7 +131,7 @@ const VARIANTS = {
   ),
 };
 
-export function Passport({ variant = "linear", ...props }: IconProps) {
+function Passport({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -68,10 +68,7 @@ const VARIANTS = {
   ),
 };
 
-export function ArrowsLeftRightMerge({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ArrowsLeftRightMerge({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

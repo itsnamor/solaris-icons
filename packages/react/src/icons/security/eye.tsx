@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function Eye({ variant = "linear", ...props }: IconProps) {
+function Eye({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

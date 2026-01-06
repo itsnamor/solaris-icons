@@ -103,7 +103,7 @@ const VARIANTS = {
   ),
 };
 
-export function RunningRound({ variant = "linear", ...props }: IconProps) {
+function RunningRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

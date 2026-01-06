@@ -86,7 +86,7 @@ const VARIANTS = {
   ),
 };
 
-export function Delivery({ variant = "linear", ...props }: IconProps) {
+function Delivery({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

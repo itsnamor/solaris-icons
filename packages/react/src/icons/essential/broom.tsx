@@ -59,7 +59,7 @@ const VARIANTS = {
   ),
 };
 
-export function Broom({ variant = "linear", ...props }: IconProps) {
+function Broom({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

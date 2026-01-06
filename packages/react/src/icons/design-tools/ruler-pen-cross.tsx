@@ -87,7 +87,7 @@ const VARIANTS = {
   ),
 };
 
-export function RulerPenCross({ variant = "linear", ...props }: IconProps) {
+function RulerPenCross({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

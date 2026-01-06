@@ -99,7 +99,7 @@ const VARIANTS = {
   ),
 };
 
-export function Tornado({ variant = "linear", ...props }: IconProps) {
+function Tornado({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

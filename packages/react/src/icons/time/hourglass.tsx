@@ -63,7 +63,7 @@ const VARIANTS = {
   ),
 };
 
-export function Hourglass({ variant = "linear", ...props }: IconProps) {
+function Hourglass({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

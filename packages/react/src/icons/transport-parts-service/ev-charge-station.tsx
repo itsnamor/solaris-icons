@@ -120,7 +120,7 @@ const VARIANTS = {
   ),
 };
 
-export function EvChargeStation({ variant = "linear", ...props }: IconProps) {
+function EvChargeStation({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

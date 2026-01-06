@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareHD({ variant = "linear", ...props }: IconProps) {
+function SquareHD({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

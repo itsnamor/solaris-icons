@@ -98,7 +98,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleBluetooth({ variant = "linear", ...props }: IconProps) {
+function CircleBluetooth({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

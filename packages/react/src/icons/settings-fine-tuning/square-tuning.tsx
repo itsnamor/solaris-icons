@@ -125,7 +125,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareTuning({ variant = "linear", ...props }: IconProps) {
+function SquareTuning({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

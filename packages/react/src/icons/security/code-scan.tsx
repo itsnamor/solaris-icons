@@ -99,7 +99,7 @@ const VARIANTS = {
   ),
 };
 
-export function CodeScan({ variant = "linear", ...props }: IconProps) {
+function CodeScan({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -87,7 +87,7 @@ const VARIANTS = {
   ),
 };
 
-export function BarChair({ variant = "linear", ...props }: IconProps) {
+function BarChair({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

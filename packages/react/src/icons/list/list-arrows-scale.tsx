@@ -87,7 +87,7 @@ const VARIANTS = {
   ),
 };
 
-export function ListArrowsScale({ variant = "linear", ...props }: IconProps) {
+function ListArrowsScale({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

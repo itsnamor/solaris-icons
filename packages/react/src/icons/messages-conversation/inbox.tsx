@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function Inbox({ variant = "linear", ...props }: IconProps) {
+function Inbox({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

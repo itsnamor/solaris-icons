@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function CloudCheck({ variant = "linear", ...props }: IconProps) {
+function CloudCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

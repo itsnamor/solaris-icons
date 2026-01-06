@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function Rugby({ variant = "linear", ...props }: IconProps) {
+function Rugby({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

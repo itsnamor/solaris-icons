@@ -120,7 +120,7 @@ const VARIANTS = {
   ),
 };
 
-export function IntravenousBag({ variant = "linear", ...props }: IconProps) {
+function IntravenousBag({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

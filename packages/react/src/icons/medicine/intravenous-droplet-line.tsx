@@ -123,10 +123,7 @@ const VARIANTS = {
   ),
 };
 
-export function IntravenousDropletLine({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function IntravenousDropletLine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

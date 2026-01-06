@@ -110,7 +110,7 @@ const VARIANTS = {
   ),
 };
 
-export function ServerPath({ variant = "linear", ...props }: IconProps) {
+function ServerPath({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -94,7 +94,7 @@ const VARIANTS = {
   ),
 };
 
-export function BicyclingRound({ variant = "linear", ...props }: IconProps) {
+function BicyclingRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

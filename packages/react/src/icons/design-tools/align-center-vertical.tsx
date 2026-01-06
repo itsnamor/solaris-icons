@@ -83,10 +83,7 @@ const VARIANTS = {
   ),
 };
 
-export function AlignCenterVertical({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function AlignCenterVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

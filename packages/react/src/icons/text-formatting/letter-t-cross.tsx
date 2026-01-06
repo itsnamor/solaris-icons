@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function LetterTCross({ variant = "linear", ...props }: IconProps) {
+function LetterTCross({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

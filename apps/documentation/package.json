@@ -14,7 +14,7 @@
     "@heroui/styles": "^3.0.0-beta.3",
     "@orama/orama": "^3.1.18",
     "@orama/plugin-qps": "^3.1.18",
-    "@solaris-icons/react": "^0.1.5",
+    "@solaris-icons/react": "workspace:^",
     "fumadocs-core": "16.4.3",
     "fumadocs-mdx": "14.2.4",
     "fumadocs-ui": "16.4.3",

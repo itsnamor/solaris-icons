@@ -71,7 +71,7 @@ const VARIANTS = {
   ),
 };
 
-export function Whisk({ variant = "linear", ...props }: IconProps) {
+function Whisk({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

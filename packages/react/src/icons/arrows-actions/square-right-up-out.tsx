@@ -97,7 +97,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareRightUpOut({ variant = "linear", ...props }: IconProps) {
+function SquareRightUpOut({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

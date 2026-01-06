@@ -87,7 +87,7 @@ const VARIANTS = {
   ),
 };
 
-export function AlignBottom({ variant = "linear", ...props }: IconProps) {
+function AlignBottom({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

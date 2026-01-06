@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareCheck({ variant = "linear", ...props }: IconProps) {
+function SquareCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

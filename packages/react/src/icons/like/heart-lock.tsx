@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function HeartLock({ variant = "linear", ...props }: IconProps) {
+function HeartLock({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

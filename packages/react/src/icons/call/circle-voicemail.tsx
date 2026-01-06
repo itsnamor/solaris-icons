@@ -115,7 +115,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleVoicemail({ variant = "linear", ...props }: IconProps) {
+function CircleVoicemail({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

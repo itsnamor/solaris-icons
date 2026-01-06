@@ -102,10 +102,7 @@ const VARIANTS = {
   ),
 };
 
-export function TuningThreeHorizontal({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function TuningThreeHorizontal({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

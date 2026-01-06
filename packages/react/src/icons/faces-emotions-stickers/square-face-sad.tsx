@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareFaceSad({ variant = "linear", ...props }: IconProps) {
+function SquareFaceSad({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

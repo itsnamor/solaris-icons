@@ -104,7 +104,7 @@ const VARIANTS = {
   ),
 };
 
-export function CartPlus({ variant = "linear", ...props }: IconProps) {
+function CartPlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function FileStar({ variant = "linear", ...props }: IconProps) {
+function FileStar({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

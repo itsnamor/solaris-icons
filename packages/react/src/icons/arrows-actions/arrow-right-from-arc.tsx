@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function ArrowRightFromArc({ variant = "linear", ...props }: IconProps) {
+function ArrowRightFromArc({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

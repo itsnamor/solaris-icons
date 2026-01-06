@@ -91,7 +91,7 @@ const VARIANTS = {
   ),
 };
 
-export function PointOnRectMap({ variant = "linear", ...props }: IconProps) {
+function PointOnRectMap({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

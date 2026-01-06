@@ -99,7 +99,7 @@ const VARIANTS = {
   ),
 };
 
-export function ArmchairSimple({ variant = "linear", ...props }: IconProps) {
+function ArmchairSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function FaceConfounded({ variant = "linear", ...props }: IconProps) {
+function FaceConfounded({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

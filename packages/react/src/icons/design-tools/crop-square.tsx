@@ -103,7 +103,7 @@ const VARIANTS = {
   ),
 };
 
-export function CropSquare({ variant = "linear", ...props }: IconProps) {
+function CropSquare({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

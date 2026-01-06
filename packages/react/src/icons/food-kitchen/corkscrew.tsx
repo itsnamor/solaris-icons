@@ -86,7 +86,7 @@ const VARIANTS = {
   ),
 };
 
-export function Corkscrew({ variant = "linear", ...props }: IconProps) {
+function Corkscrew({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

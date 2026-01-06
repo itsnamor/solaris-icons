@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function Bomb({ variant = "linear", ...props }: IconProps) {
+function Bomb({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

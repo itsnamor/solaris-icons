@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function CloudFog({ variant = "linear", ...props }: IconProps) {
+function CloudFog({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

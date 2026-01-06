@@ -117,7 +117,7 @@ const VARIANTS = {
   ),
 };
 
-export function BlackHoleSolid({ variant = "linear", ...props }: IconProps) {
+function BlackHoleSolid({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

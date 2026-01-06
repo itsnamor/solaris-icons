@@ -89,7 +89,7 @@ const VARIANTS = {
   ),
 };
 
-export function MapPinCirclePlus({ variant = "linear", ...props }: IconProps) {
+function MapPinCirclePlus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

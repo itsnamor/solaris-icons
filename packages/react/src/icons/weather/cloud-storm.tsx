@@ -105,7 +105,7 @@ const VARIANTS = {
   ),
 };
 
-export function CloudStorm({ variant = "linear", ...props }: IconProps) {
+function CloudStorm({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

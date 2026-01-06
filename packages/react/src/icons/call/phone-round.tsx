@@ -64,7 +64,7 @@ const VARIANTS = {
   ),
 };
 
-export function PhoneRound({ variant = "linear", ...props }: IconProps) {
+function PhoneRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

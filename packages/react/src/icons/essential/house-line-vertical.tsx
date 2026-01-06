@@ -78,7 +78,7 @@ const VARIANTS = {
   ),
 };
 
-export function HouseLineVertical({ variant = "linear", ...props }: IconProps) {
+function HouseLineVertical({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

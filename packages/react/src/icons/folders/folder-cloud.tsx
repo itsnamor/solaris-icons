@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function FolderCloud({ variant = "linear", ...props }: IconProps) {
+function FolderCloud({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

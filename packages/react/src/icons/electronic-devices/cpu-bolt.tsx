@@ -125,7 +125,7 @@ const VARIANTS = {
   ),
 };
 
-export function CpuBolt({ variant = "linear", ...props }: IconProps) {
+function CpuBolt({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

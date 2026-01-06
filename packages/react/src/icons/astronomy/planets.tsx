@@ -116,7 +116,7 @@ const VARIANTS = {
   ),
 };
 
-export function Planets({ variant = "linear", ...props }: IconProps) {
+function Planets({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

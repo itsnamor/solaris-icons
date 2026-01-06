@@ -72,7 +72,7 @@ const VARIANTS = {
   ),
 };
 
-export function BillX({ variant = "linear", ...props }: IconProps) {
+function BillX({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

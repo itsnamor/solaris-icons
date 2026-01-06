@@ -109,7 +109,7 @@ const VARIANTS = {
   ),
 };
 
-export function ListSortArrowDown({ variant = "linear", ...props }: IconProps) {
+function ListSortArrowDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

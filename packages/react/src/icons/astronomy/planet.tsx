@@ -84,7 +84,7 @@ const VARIANTS = {
   ),
 };
 
-export function Planet({ variant = "linear", ...props }: IconProps) {
+function Planet({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

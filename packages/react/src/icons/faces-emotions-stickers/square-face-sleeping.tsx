@@ -122,10 +122,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareFaceSleeping({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquareFaceSleeping({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -79,10 +79,7 @@ const VARIANTS = {
   ),
 };
 
-export function CircleArrowsDiagIn({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function CircleArrowsDiagIn({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

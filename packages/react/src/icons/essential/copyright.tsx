@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function Copyright({ variant = "linear", ...props }: IconProps) {
+function Copyright({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

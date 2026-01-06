@@ -96,7 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function BagCheck({ variant = "linear", ...props }: IconProps) {
+function BagCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

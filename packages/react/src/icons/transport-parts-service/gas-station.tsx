@@ -114,7 +114,7 @@ const VARIANTS = {
   ),
 };
 
-export function GasStation({ variant = "linear", ...props }: IconProps) {
+function GasStation({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -75,7 +75,7 @@ const VARIANTS = {
   ),
 };
 
-export function SettingSimple({ variant = "linear", ...props }: IconProps) {
+function SettingSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

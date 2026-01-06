@@ -88,7 +88,7 @@ const VARIANTS = {
   ),
 };
 
-export function BagCutOutHandle({ variant = "linear", ...props }: IconProps) {
+function BagCutOutHandle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

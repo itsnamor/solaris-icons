@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function HeartPulse({ variant = "linear", ...props }: IconProps) {
+function HeartPulse({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

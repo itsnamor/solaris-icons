@@ -106,7 +106,7 @@ const VARIANTS = {
   ),
 };
 
-export function USB({ variant = "linear", ...props }: IconProps) {
+function USB({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -83,7 +83,7 @@ const VARIANTS = {
   ),
 };
 
-export function SmartSpeakerRound({ variant = "linear", ...props }: IconProps) {
+function SmartSpeakerRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -80,7 +80,7 @@ const VARIANTS = {
   ),
 };
 
-export function MoonCloud({ variant = "linear", ...props }: IconProps) {
+function MoonCloud({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

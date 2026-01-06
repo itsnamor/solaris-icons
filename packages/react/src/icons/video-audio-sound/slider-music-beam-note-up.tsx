@@ -100,10 +100,7 @@ const VARIANTS = {
   ),
 };
 
-export function SliderMusicBeamNoteUp({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SliderMusicBeamNoteUp({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

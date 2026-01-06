@@ -111,7 +111,7 @@ const VARIANTS = {
   ),
 };
 
-export function FileCheck({ variant = "linear", ...props }: IconProps) {
+function FileCheck({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

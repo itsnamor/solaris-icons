@@ -100,10 +100,7 @@ const VARIANTS = {
   ),
 };
 
-export function WidgetCirclesSquares({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function WidgetCirclesSquares({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

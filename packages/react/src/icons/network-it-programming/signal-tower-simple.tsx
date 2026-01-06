@@ -152,7 +152,7 @@ const VARIANTS = {
   ),
 };
 
-export function SignalTowerSimple({ variant = "linear", ...props }: IconProps) {
+function SignalTowerSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

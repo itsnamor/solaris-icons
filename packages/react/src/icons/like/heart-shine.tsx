@@ -105,7 +105,7 @@ const VARIANTS = {
   ),
 };
 
-export function HeartShine({ variant = "linear", ...props }: IconProps) {
+function HeartShine({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -136,7 +136,7 @@ const VARIANTS = {
   ),
 };
 
-export function Cassette({ variant = "linear", ...props }: IconProps) {
+function Cassette({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

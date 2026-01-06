@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function Accumulator({ variant = "linear", ...props }: IconProps) {
+function Accumulator({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

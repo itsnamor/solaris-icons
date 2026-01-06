@@ -66,7 +66,7 @@ const VARIANTS = {
   ),
 };
 
-export function Paperclip({ variant = "linear", ...props }: IconProps) {
+function Paperclip({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

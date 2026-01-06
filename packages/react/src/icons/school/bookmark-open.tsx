@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function BookmarkOpen({ variant = "linear", ...props }: IconProps) {
+function BookmarkOpen({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

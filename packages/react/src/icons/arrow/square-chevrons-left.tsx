@@ -87,10 +87,7 @@ const VARIANTS = {
   ),
 };
 
-export function SquareChevronsLeft({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SquareChevronsLeft({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

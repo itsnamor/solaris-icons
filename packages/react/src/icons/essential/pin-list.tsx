@@ -99,7 +99,7 @@ const VARIANTS = {
   ),
 };
 
-export function PinList({ variant = "linear", ...props }: IconProps) {
+function PinList({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

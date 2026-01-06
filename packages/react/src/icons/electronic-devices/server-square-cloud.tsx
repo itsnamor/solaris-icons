@@ -100,7 +100,7 @@ const VARIANTS = {
   ),
 };
 
-export function ServerSquareCloud({ variant = "linear", ...props }: IconProps) {
+function ServerSquareCloud({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

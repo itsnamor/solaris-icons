@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function PeopleEllipse({ variant = "linear", ...props }: IconProps) {
+function PeopleEllipse({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -102,10 +102,7 @@ const VARIANTS = {
   ),
 };
 
-export function SmartphoneVibration({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function SmartphoneVibration({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

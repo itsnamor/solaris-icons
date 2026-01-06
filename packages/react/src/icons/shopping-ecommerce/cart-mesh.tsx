@@ -94,7 +94,7 @@ const VARIANTS = {
   ),
 };
 
-export function CartMesh({ variant = "linear", ...props }: IconProps) {
+function CartMesh({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function ListClock({ variant = "linear", ...props }: IconProps) {
+function ListClock({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

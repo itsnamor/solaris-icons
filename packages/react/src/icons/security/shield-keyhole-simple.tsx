@@ -96,10 +96,7 @@ const VARIANTS = {
   ),
 };
 
-export function ShieldKeyholeSimple({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function ShieldKeyholeSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

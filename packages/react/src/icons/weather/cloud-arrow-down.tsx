@@ -99,7 +99,7 @@ const VARIANTS = {
   ),
 };
 
-export function CloudArrowDown({ variant = "linear", ...props }: IconProps) {
+function CloudArrowDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

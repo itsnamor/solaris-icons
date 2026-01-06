@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function ListChevronDown({ variant = "linear", ...props }: IconProps) {
+function ListChevronDown({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

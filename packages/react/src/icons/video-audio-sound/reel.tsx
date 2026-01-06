@@ -90,7 +90,7 @@ const VARIANTS = {
   ),
 };
 
-export function Reel({ variant = "linear", ...props }: IconProps) {
+function Reel({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -115,7 +115,7 @@ const VARIANTS = {
   ),
 };
 
-export function UserSpeakRound({ variant = "linear", ...props }: IconProps) {
+function UserSpeakRound({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

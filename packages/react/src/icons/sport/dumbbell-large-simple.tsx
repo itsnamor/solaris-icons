@@ -109,10 +109,7 @@ const VARIANTS = {
   ),
 };
 
-export function DumbbellLargeSimple({
-  variant = "linear",
-  ...props
-}: IconProps) {
+function DumbbellLargeSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

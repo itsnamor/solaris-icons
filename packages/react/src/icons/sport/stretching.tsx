@@ -107,7 +107,7 @@ const VARIANTS = {
   ),
 };
 
-export function Stretching({ variant = "linear", ...props }: IconProps) {
+function Stretching({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

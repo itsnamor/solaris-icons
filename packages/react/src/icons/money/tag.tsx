@@ -97,7 +97,7 @@ const VARIANTS = {
   ),
 };
 
-export function Tag({ variant = "linear", ...props }: IconProps) {
+function Tag({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

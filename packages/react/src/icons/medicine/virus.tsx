@@ -282,7 +282,7 @@ const VARIANTS = {
   ),
 };
 
-export function Virus({ variant = "linear", ...props }: IconProps) {
+function Virus({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

@@ -116,7 +116,7 @@ const VARIANTS = {
 ${variantEntries.join(",\n")},
 };
 
-export function ${componentName}({ variant = "linear", ...props }: IconProps) {
+function ${componentName}({ variant = "linear", ...props }: IconProps) {
 	return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
@@ -188,7 +188,7 @@ async function processCategoryDir(
       const outputFilePath = join(outputCategoryPath, `${iconDir.name}.tsx`);
       await writeFile(outputFilePath, result.content);
       exports.push(
-        `export { ${result.componentName}, Icon${result.componentName}, ${result.componentName}Icon } from "./src/icons/${categoryName}/${iconDir.name}";`,
+        `export * from "./src/icons/${categoryName}/${iconDir.name}";`,
       );
       console.log(`  ✓ ${iconDir.name}.tsx`);
     }

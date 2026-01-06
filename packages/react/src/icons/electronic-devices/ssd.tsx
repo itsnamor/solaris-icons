@@ -92,7 +92,7 @@ const VARIANTS = {
   ),
 };
 
-export function Ssd({ variant = "linear", ...props }: IconProps) {
+function Ssd({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

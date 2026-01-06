@@ -79,7 +79,7 @@ const VARIANTS = {
   ),
 };
 
-export function Satellite({ variant = "linear", ...props }: IconProps) {
+function Satellite({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

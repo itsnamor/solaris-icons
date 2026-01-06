@@ -122,7 +122,7 @@ const VARIANTS = {
   ),
 };
 
-export function SmartHouseAngle({ variant = "linear", ...props }: IconProps) {
+function SmartHouseAngle({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

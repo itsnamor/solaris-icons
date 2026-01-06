@@ -93,7 +93,7 @@ const VARIANTS = {
   ),
 };
 
-export function ListXSimple({ variant = "linear", ...props }: IconProps) {
+function ListXSimple({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

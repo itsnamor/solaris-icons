@@ -119,7 +119,7 @@ const VARIANTS = {
   ),
 };
 
-export function UserGroup({ variant = "linear", ...props }: IconProps) {
+function UserGroup({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 

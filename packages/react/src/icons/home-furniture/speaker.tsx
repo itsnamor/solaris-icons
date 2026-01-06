@@ -85,7 +85,7 @@ const VARIANTS = {
   ),
 };
 
-export function Speaker({ variant = "linear", ...props }: IconProps) {
+function Speaker({ variant = "linear", ...props }: IconProps) {
   return <Icon {...props}>{VARIANTS[variant]}</Icon>;
 }
 
