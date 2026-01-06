@@ -23,7 +23,7 @@
     "build:types": "tsc --declaration --emitDeclarationOnly --outDir dist",
     "format": "biome format --write",
     "check:type": "tsc --noEmit",
-    "check:biome": "biome check",
+    "check:lint": "biome check",
     "bump": "bun run ./scripts/bump-version.ts",
     "prepublishOnly": "bun run build && bun run bump"
   },
