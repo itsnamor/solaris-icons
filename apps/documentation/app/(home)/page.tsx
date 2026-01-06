@@ -1,4 +1,5 @@
 import { IconsExplorer } from '$/components/icons-explorer';
+import { MetaData } from 'fumadocs-core/source';
 import { Suspense } from 'react';
 
 export default function HomePage() {
@@ -9,4 +10,9 @@ export default function HomePage() {
       </Suspense>
     </div>
   );
+}
+
+export const metadata: MetaData = {
+  title: 'Icons Explorer - Solaris Icons',
+  description: 'Explore the wide variety of icons available in the Solaris Icons library.',
 }
